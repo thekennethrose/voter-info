@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+
+# Raw retrieved sources and model outputs (regenerable, may be large)
+data/raw/
+data/cache/
+out/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

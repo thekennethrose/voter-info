@@ -16,6 +16,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import votes
+from spinner import Spinner
 
 MENU = "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_{c}_{s}.xml"
 SUBJECTS = (
@@ -111,8 +112,11 @@ def match(vote, topic, congress, api_key):
     return None
 
 
-def topic_votes(congress, session, lis_id, topic, api_key):
-    for v in menu(congress, session):
+def topic_votes(congress, session, lis_id, topic, api_key, on_scan=None):
+    all_votes = list(menu(congress, session))
+    for i, v in enumerate(all_votes, 1):
+        if on_scan:
+            on_scan(i, len(all_votes))
         m = match(v, topic, congress, api_key)
         if not m:
             continue
@@ -121,7 +125,7 @@ def topic_votes(congress, session, lis_id, topic, api_key):
             vote = votes.parse(get(url, cache=True), lis_id, url)
         except LookupError:
             continue  # senator not in this roll call
-        yield v["number"], vote, *m
+        yield v, vote, *m
 
 
 if __name__ == "__main__":
@@ -132,6 +136,13 @@ if __name__ == "__main__":
         )
     c, s, lis_id, topic = sys.argv[1:]
     key = os.environ["CONGRESS_API_KEY"]
-    for number, vote, tier, reason in topic_votes(int(c), int(s), lis_id, topic, key):
-        print(f"{tier:<8}#{number}  {vote.cast:<10} {vote.title}")
-        print(f"        {vote.date} | {vote.result} | {reason}")
+    with Spinner(f"Loading {c}-{s} vote list") as sp:
+
+        def scan(i, total):
+            sp.text = f"Scanning {c}-{s}  vote {i}/{total}"
+
+        for v, vote, tier, reason in topic_votes(
+            int(c), int(s), lis_id, topic, key, on_scan=scan
+        ):
+            sp.write(f"{tier:<8}#{v['number']}  {vote.cast:<10} {vote.title}")
+            sp.write(f"        {vote.date} | {vote.result} | {reason}")

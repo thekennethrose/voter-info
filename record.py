@@ -13,7 +13,7 @@ from pathlib import Path
 from spinner import Spinner
 from topic_votes import bill_id, topic_votes
 
-OUT = Path("out")
+OUT = Path("docs/data")
 
 
 def iso(senate_date):
@@ -61,6 +61,7 @@ def build(lis_id, topic, sessions, api_key, progress=None):
                     "date": iso(vote.date),
                     "roll_call": f"{congress}-{session}-{v['number']}",
                     "title": vote.title,
+                    "document": vote.document,
                     "cast": vote.cast,
                     "result": vote.result,
                     "yeas": vote.yeas,
@@ -100,7 +101,7 @@ if __name__ == "__main__":
             progress=lambda text: setattr(sp, "text", text),
         )
 
-    OUT.mkdir(exist_ok=True)
+    OUT.mkdir(parents=True, exist_ok=True)
     path = OUT / f"{lis_id}-{topic}.json"
     path.write_text(json.dumps(record, indent=2))
     core = sum(g["tier"] == "core" for g in record["items"])

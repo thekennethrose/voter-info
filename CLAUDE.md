@@ -22,7 +22,8 @@ Output, `docs/data/` (wiped and rewritten each run; always build every published
 
 - `members.json`: directory (id, chamber, first, last, party, state, district, current)
 - `votes/s119.json`, `votes/h119.json`: bills, nominations, vote details per chamber per Congress
-- `casts/ID.json`: one member's vote per roll call, e.g. `{"119-1-644": "Yea"}`. Senators by LIS id (`S414`), representatives by bioguide id (`A000370`). Someone who served in both chambers has two entries.
+- `casts/ID.json`: one member's votes, packed one character per roll call number per session: `{"119-1": "--Y-N…"}` where position *n* is roll call *n*. Codes: Y Yea, A Aye, N Nay, O No, P Present, V Not Voting, G Guilty, U Not Guilty, `-` no kept vote, `*` a rare wording stored verbatim under `"other"` (e.g. "Present, Giving Live Pair"). `record.pack()` writes it, `unpack()` in `member.html` reads it. Packed because these files change on every rebuild and the plain map was ~27 MB. Senators by LIS id (`S414`), representatives by bioguide id (`A000370`). Someone who served in both chambers has two entries.
+- Senate impeachment trial votes are kept (the articles are an H.Res.), recorded as Guilty / Not Guilty.
 
 Adding issues never adds files. Bill numbers restart each Congress, so keys include the Congress.
 

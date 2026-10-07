@@ -128,6 +128,30 @@ class Builder:
                     m.update(first=d["first"], last=d["last"], district=d["district"])
 
 
+CODES = {"Yea": "Y", "Aye": "A", "Nay": "N", "No": "O", "Present": "P",
+         "Not Voting": "V", "Guilty": "G", "Not Guilty": "U"}  # fmt: skip
+
+
+def pack(casts, chamber, lengths):
+    """{"119-1-644": "Yea"} -> {"119-1": "--...Y"}: one character per roll call
+    number in the session, "-" where the member has no kept vote. About 10x
+    smaller than the plain map, and stable between rebuilds. Rare official
+    wordings ("Present, Giving Live Pair") are marked "*" and kept verbatim
+    under "other"."""
+    rows, other = {}, {}
+    for rc, cast in casts.items():
+        c, s, n = rc.split("-")
+        key = f"{c}-{s}"
+        row = rows.setdefault(key, ["-"] * lengths[(chamber, key)])
+        row[int(n) - 1] = CODES.get(cast, "*")
+        if cast not in CODES:
+            other[rc] = cast
+    packed = {k: "".join(v).rstrip("-") for k, v in sorted(rows.items())}
+    if other:
+        packed["other"] = other
+    return packed
+
+
 def write(sessions, b):
     for sub in ("votes", "casts", "congress"):
         shutil.rmtree(OUT / sub, ignore_errors=True)
@@ -135,9 +159,16 @@ def write(sessions, b):
     (OUT / "casts").mkdir()
     for name, data in b.files.items():
         (OUT / "votes" / f"{name}.json").write_text(json.dumps(data, indent=1))
+    lengths = {}  # (chamber, "119-1") -> highest roll call number kept
+    for data in b.files.values():
+        for rc in data["votes"]:
+            c, s, n = rc.split("-")
+            key = (data["chamber"], f"{c}-{s}")
+            lengths[key] = max(lengths.get(key, 0), int(n))
     for member_id, c in b.casts.items():
+        packed = pack(c, b.members[member_id]["chamber"], lengths)
         (OUT / "casts" / f"{member_id}.json").write_text(
-            json.dumps(c, separators=(",", ":"))
+            json.dumps(packed, separators=(",", ":"))
         )
 
     newest = {}

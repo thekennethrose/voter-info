@@ -103,8 +103,8 @@
   <footer>
     <h2>About this record</h2>
     <div class="key" aria-hidden="true">
-      <span><i class="mark yea"></i>Yea or Aye</span>
-      <span><i class="mark nay"></i>Nay or No</span>
+      <span><i class="mark yea"></i>Yea, Aye or Guilty</span>
+      <span><i class="mark nay"></i>Nay, No or Not Guilty</span>
       <span><i class="mark absent"></i>Present or not voting</span>
       <span><i class="bar"><i class="y" style="width:51%"></i><i class="n" style="width:48%"></i><i class="need" style="left:60%"></i></i>Yeas, nays, and votes needed</span>
     </div>
@@ -128,7 +128,19 @@ const groups = { bills: [], nominations: [] };
 const fmtDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 const plural = (n, word) => (n === 1 ? word : `${word}s`);
-const castClass = (cast) => (["Yea", "Aye"].includes(cast) ? "yea" : ["Nay", "No"].includes(cast) ? "nay" : "absent");
+// casts/ID.json packs one character per roll call: {"119-1": "--Y-N"} -> {"119-1-3": "Yea", ...};
+// "*" means a rare wording kept verbatim under "other".
+const DECODE = { Y: "Yea", A: "Aye", N: "Nay", O: "No", P: "Present", V: "Not Voting", G: "Guilty", U: "Not Guilty" };
+function unpack({ other = {}, ...packed }) {
+  const out = {};
+  for (const [session, row] of Object.entries(packed))
+    for (let i = 0; i < row.length; i++) {
+      const rc = `${session}-${i + 1}`;
+      if (row[i] !== "-") out[rc] = row[i] === "*" ? other[rc] : DECODE[row[i]];
+    }
+  return out;
+}
+const castClass = (cast) => (["Yea", "Aye", "Guilty"].includes(cast) ? "yea" : ["Nay", "No", "Not Guilty"].includes(cast) ? "nay" : "absent");
 
 function voteUrl(rc) {
   const [c, s, n] = rc.split("-");
@@ -291,7 +303,8 @@ function setup(casts, files, dir) {
 const load = (path) => fetch(path).then((r) => { if (!r.ok) throw new Error(path); return r.json(); });
 
 Promise.all([load("data/members.json"), load(`data/casts/${encodeURIComponent(id)}.json`)])
-  .then(async ([dir, casts]) => {
+  .then(async ([dir, packed]) => {
+    const casts = unpack(packed);
     member = dir.members.find((m) => m.id === id);
     if (!member) throw new Error(id);
     const nums = [...new Set(Object.keys(casts).map((rc) => rc.split("-")[0]))];

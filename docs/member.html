@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Congressional voting record</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site.css">
+<style>
+
+
+  .controls { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-bottom: 2.5rem; }
+  .tabs { display: flex; border: 1px solid var(--ink); border-radius: 3px; overflow: hidden; }
+  .tabs[hidden] { display: none; }
+  .tabs button {
+    font: inherit; font-size: 0.95rem; background: none; color: var(--ink);
+    border: 0; padding: 0.5rem 1rem; cursor: pointer;
+  }
+  .tabs button + button { border-left: 1px solid var(--ink); }
+  .tabs button[aria-pressed="true"] { background: var(--ink); color: var(--paper); font-weight: 600; }
+  select, input[type="search"] {
+    font: inherit; font-size: 0.9rem; color: var(--ink); background: var(--paper);
+    border: 1px solid var(--rule); border-radius: 3px; padding: 0.5rem 0.75rem;
+  }
+  input[type="search"] { flex: 1 1 14rem; min-width: 0; }
+  select[hidden] { display: none; }
+
+  h2.year {
+    font-size: 2.25rem; font-weight: 800; letter-spacing: -0.02em;
+    margin: 2.5rem 0 0.5rem; color: var(--muted);
+  }
+
+  details.item { border-top: 1px solid var(--rule); }
+  details.item > summary {
+    list-style: none; cursor: pointer; padding: 1rem 0;
+    display: grid; grid-template-columns: 7.5rem 1fr; gap: 0 1rem;
+  }
+  details.item > summary::-webkit-details-marker { display: none; }
+  .label { font-weight: 800; }
+  .nominations .label { font-weight: 400; color: var(--muted); font-size: 0.875rem; padding-top: 0.15rem; }
+  .doc { font-weight: 600; max-width: 62ch; }
+  .meta { grid-column: 2; color: var(--muted); font-size: 0.875rem; margin-top: 0.25rem; }
+  .meta .toggle::before { content: "Show votes"; text-decoration: underline; text-underline-offset: 0.2em; }
+  details[open] .meta .toggle::before { content: "Hide votes"; }
+
+  ol.votes { list-style: none; margin: 0 0 1.25rem 8.5rem; padding: 0; }
+  ol.votes li {
+    display: grid; grid-template-columns: 6.5rem 1fr 9.5rem; gap: 0.25rem 1rem;
+    padding: 0.75rem 0; border-top: 1px dashed var(--rule); font-size: 0.925rem;
+  }
+  .cast { display: flex; gap: 0.45rem; align-items: baseline; font-weight: 600; white-space: nowrap; }
+  .mark { width: 0.7rem; height: 0.7rem; border: 2px solid var(--ink); flex: none; transform: translateY(0.05rem); }
+  .mark.yea { background: var(--ink); }
+  .mark.nay { background: transparent; }
+  .mark.absent { border: 0; height: 3px; background: var(--muted); transform: translateY(-0.2rem); }
+  .what time { color: var(--muted); font-size: 0.85rem; display: block; }
+  .what a { display: block; }
+  .what .note { display: block; color: var(--muted); font-size: 0.85rem; }
+
+  .tally { font-size: 0.8rem; color: var(--muted); }
+  .bar { position: relative; height: 0.6rem; margin: 0.3rem 0 0.2rem; outline: 1px solid var(--rule); }
+  .bar .y { position: absolute; left: 0; top: 0; bottom: 0; background: var(--ink); }
+  .bar .n { position: absolute; right: 0; top: 0; bottom: 0; background: var(--nay-fill); }
+  .bar .need { position: absolute; top: -0.25rem; bottom: -0.25rem; width: 2px; background: var(--brass); }
+
+  .empty, .error { padding: 2rem 0; color: var(--muted); border-top: 1px solid var(--rule); }
+  .key { display: flex; flex-wrap: wrap; gap: 1.25rem; margin: 0.75rem 0 1rem; }
+  .key span { display: inline-flex; gap: 0.4rem; align-items: center; }
+  .key .bar { width: 4rem; display: inline-block; margin: 0; }
+
+  @media (max-width: 40rem) {
+    details.item > summary { grid-template-columns: 1fr; }
+    .meta { grid-column: 1; }
+    ol.votes { margin-left: 0; }
+    ol.votes li { grid-template-columns: 6rem 1fr; }
+    .tally { grid-column: 2; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <nav class="site" aria-label="Site">
+    <a href="./">Members of Congress</a>
+    <a href="how-it-works.html">How voting works</a>
+    <a href="glossary.html">Glossary</a>
+  </nav>
+  <h1 id="title">Congressional voting record</h1>
+  <p class="lede" id="lede"></p>
+
+  <div class="controls">
+    <div class="tabs" role="group" aria-label="Which votes to show" hidden>
+      <button type="button" data-tab="bills" aria-pressed="true">Bills</button>
+      <button type="button" data-tab="nominations" aria-pressed="false">Nominations</button>
+    </div>
+    <select id="issue" aria-label="Filter bills by issue"></select>
+    <input type="search" id="q" placeholder="Search bills and votes" aria-label="Search bills and votes">
+  </div>
+
+  <section id="list" aria-live="polite"></section>
+
+  <footer>
+    <h2>About this record</h2>
+    <div class="key" aria-hidden="true">
+      <span><i class="mark yea"></i>Yea, Aye or Guilty</span>
+      <span><i class="mark nay"></i>Nay, No or Not Guilty</span>
+      <span><i class="mark absent"></i>Present or not voting</span>
+      <span><i class="bar"><i class="y" style="width:51%"></i><i class="n" style="width:48%"></i><i class="need" style="left:60%"></i></i>Yeas, nays, and votes needed</span>
+    </div>
+    <p>Every vote comes from the official roll call record and links to it: senate.gov for the Senate, the Clerk of the House for the House. Each bill is filed under the one policy area the Congressional Research Service assigns to it, so a bill that touches several issues appears under one; search finds the rest. Votes on amendments and procedural motions appear under the bill they concerned.</p>
+    <p>Not included yet: votes on treaties, quorum calls, and procedural votes not tied to a bill or nominee.</p>
+    <p>Terms like cloture, motion to proceed and suspension of the rules are explained in the <a href="glossary.html">glossary</a>; <a href="how-it-works.html">How voting works</a> covers the process.</p>
+    <p id="stamp"></p>
+  </footer>
+</main>
+
+<script src="states.js"></script>
+<script>
+const params = new URLSearchParams(location.search);
+const id = params.get("id") || "";
+let tab = params.get("tab") === "nominations" ? "nominations" : "bills";
+let area = params.get("issue") || "";
+let query = "";
+let member;
+const groups = { bills: [], nominations: [] };
+
+const fmtDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+const plural = (n, word) => (n === 1 ? word : `${word}s`);
+// casts/ID.json packs one character per roll call: {"119-1": "--Y-N"} -> {"119-1-3": "Yea", ...};
+// "*" means a rare wording kept verbatim under "other".
+const DECODE = { Y: "Yea", A: "Aye", N: "Nay", O: "No", P: "Present", V: "Not Voting", G: "Guilty", U: "Not Guilty" };
+function unpack({ other = {}, ...packed }) {
+  const out = {};
+  for (const [session, row] of Object.entries(packed))
+    for (let i = 0; i < row.length; i++) {
+      const rc = `${session}-${i + 1}`;
+      if (row[i] !== "-") out[rc] = row[i] === "*" ? other[rc] : DECODE[row[i]];
+    }
+  return out;
+}
+const castClass = (cast) => (["Yea", "Aye", "Guilty"].includes(cast) ? "yea" : ["Nay", "No", "Not Guilty"].includes(cast) ? "nay" : "absent");
+
+function voteUrl(rc) {
+  const [c, s, n] = rc.split("-");
+  if (member.chamber === "house") return `https://clerk.house.gov/Votes/${1789 + 2 * (c - 1) + (s - 1)}${n}`;
+  return `https://www.senate.gov/legislative/LIS/roll_call_votes/vote${c}${s}/vote_${c}_${s}_${n.padStart(5, "0")}.htm`;
+}
+
+function tally(v) {
+  const seats = member.chamber === "house" ? 435 : 100;
+  const voting = v.yeas + v.nays;
+  let needed, label;
+  if (v.requirement === "3/5") { needed = 60; label = "needed 60"; }
+  else if (v.requirement === "2/3") { needed = Math.ceil((2 * voting) / 3); label = `needed two-thirds (${needed})`; }
+  else { needed = Math.floor(voting / 2) + 1; label = "needed a simple majority"; }
+  const pct = (x) => `${(100 * x) / seats}%`;
+  return `<div class="tally">
+    <div class="bar" role="img" aria-label="${v.yeas} yea, ${v.nays} nay, ${label}">
+      <i class="y" style="width:${pct(v.yeas)}"></i><i class="n" style="width:${pct(v.nays)}"></i><i class="need" style="left:${pct(needed)}"></i>
+    </div>
+    ${v.yeas}–${v.nays}, ${label}
+  </div>`;
+}
+
+function voteRow(v, groupTitle) {
+  const purpose = v.purpose && v.purpose.toLowerCase() !== (groupTitle || "").toLowerCase() ? v.purpose : "";
+  return `<li>
+    <span class="cast"><i class="mark ${castClass(v.cast)}"></i>${esc(v.cast)}</span>
+    <span class="what"><time datetime="${v.date}">${fmtDate(v.date)}</time>
+      <a href="${voteUrl(v.rc)}">${esc(v.title)}</a>
+      ${purpose ? `<span class="note">${esc(purpose)}</span>` : ""}
+      ${esc(v.result)}
+      ${v.tie_breaker ? `<span class="note">${esc(v.tie_breaker)} to break a tie.</span>` : ""}</span>
+    ${tally(v)}
+  </li>`;
+}
+
+function itemBlock(g, i) {
+  const n = g.votes.length;
+  const open = n <= 2;
+  const title = g.title || g.votes[0].purpose || g.votes[0].title;
+  const filed = g.area ? `Filed under ${esc(g.area)}. ` : "";
+  return `<details class="item" data-i="${i}"${open ? " open" : ""}>
+    <summary>
+      <span class="label">${esc(g.label)}</span>
+      <span class="doc">${esc(title)}</span>
+      <span class="meta">${filed}${n} recorded ${plural(n, "vote")}, latest ${fmtDate(g.votes[0].date)}. <span class="toggle"></span></span>
+    </summary>
+    <ol class="votes">${open ? g.votes.map((v) => voteRow(v, g.title)).join("") : ""}</ol>
+  </details>`;
+}
+
+function matches(g) {
+  if (tab === "bills" && area && g.area !== area) return false;
+  if (!query) return true;
+  const hay = [g.label, g.title, g.area, ...g.votes.flatMap((v) => [v.title, v.purpose])].join(" ").toLowerCase();
+  return hay.includes(query);
+}
+
+let shown = [];
+function render() {
+  document.getElementById("issue").hidden = tab !== "bills";
+  shown = groups[tab].filter(matches);
+  const list = document.getElementById("list");
+  list.className = tab;
+  if (!shown.length) {
+    list.innerHTML = `<p class="empty">Nothing matches. Clear the search${tab === "bills" ? " or pick All issues" : ""} to see everything.</p>`;
+    return;
+  }
+  let year, html = "";
+  shown.forEach((g, i) => {
+    const y = g.votes[0].date.slice(0, 4);
+    if (y !== year) { html += `<h2 class="year">${y}</h2>`; year = y; }
+    html += itemBlock(g, i);
+  });
+  list.innerHTML = html;
+}
+
+// Fill a group's votes the first time it's opened.
+document.getElementById("list").addEventListener("toggle", (e) => {
+  const d = e.target;
+  if (!d.open || d.dataset.i === undefined) return;
+  const ol = d.querySelector("ol.votes");
+  const g = shown[d.dataset.i];
+  if (!ol.children.length) ol.innerHTML = g.votes.map((v) => voteRow(v, g.title)).join("");
+}, true);
+
+function syncUrl() {
+  const p = new URLSearchParams({ id });
+  if (tab !== "bills") p.set("tab", tab);
+  else if (area) p.set("issue", area);
+  history.replaceState(null, "", `?${p}`);
+}
+
+function setup(casts, files, dir) {
+  const maps = { bills: new Map(), nominations: new Map() };
+  for (const [rc, cast] of Object.entries(casts)) {
+    const c = rc.split("-")[0];
+    const data = files[c];
+    const v = data?.votes[rc];
+    if (!v) continue;
+    const [kind, key, info] = v.bill
+      ? ["bills", v.bill, data.bills[v.bill]]
+      : ["nominations", v.nomination, data.nominations[v.nomination]];
+    const k = `${c}-${key}`;
+    if (!maps[kind].has(k)) maps[kind].set(k, { ...info, votes: [] });
+    maps[kind].get(k).votes.push({ ...v, rc, cast });
+  }
+  for (const kind of ["bills", "nominations"]) {
+    groups[kind] = [...maps[kind].values()];
+    groups[kind].forEach((g) => g.votes.sort((a, b) => b.date.localeCompare(a.date)));
+    groups[kind].sort((a, b) => b.votes[0].date.localeCompare(a.votes[0].date));
+  }
+
+  const name = `${member.first} ${member.last}`.trim();
+  const title = member.chamber === "senate" ? "Senator" : "Representative";
+  const all = Object.keys(casts).filter((rc) => files[rc.split("-")[0]]?.votes[rc]);
+  const years = all.map((rc) => files[rc.split("-")[0]].votes[rc].date.slice(0, 4)).sort();
+  const where = member.chamber === "senate"
+    ? STATES[member.state] ?? member.state
+    : `${STATES[member.state] ?? member.state}, ${role(member).replace("Representative, ", "")}`;
+  const noms = groups.nominations.length;
+
+  document.title = `${name}: voting record`;
+  document.getElementById("title").textContent = `How ${title} ${name} voted`;
+  document.getElementById("lede").textContent =
+    `${PARTIES[member.party] ?? member.party}, ${where}. ` +
+    `${all.length.toLocaleString()} recorded ${plural(all.length, "vote")} on ${groups.bills.length.toLocaleString()} ${plural(groups.bills.length, "bill")}` +
+    (noms ? ` and ${noms} ${plural(noms, "nomination")}` : "") +
+    `, ${years[0]} to ${years.at(-1)}. Each one links to the official record.`;
+  document.getElementById("stamp").textContent =
+    `Data built ${fmtDate(dir.generated + "T12:00")} from sessions ${dir.sessions.join(", ")}. Policy areas from congress.gov.`;
+
+  const tabs = document.querySelector(".tabs");
+  tabs.hidden = !noms;
+  if (!noms) tab = "bills";
+  document.querySelector('[data-tab="bills"]').textContent = `Bills (${groups.bills.length})`;
+  document.querySelector('[data-tab="nominations"]').textContent = `Nominations (${noms})`;
+
+  const counts = {};
+  groups.bills.forEach((g) => (counts[g.area] = (counts[g.area] || 0) + 1));
+  const select = document.getElementById("issue");
+  select.innerHTML = `<option value="">All issues (${groups.bills.length})</option>` +
+    Object.keys(counts).sort().map((a) => `<option value="${esc(a)}">${esc(a)} (${counts[a]})</option>`).join("");
+  if (!counts[area]) area = "";
+  select.value = area;
+
+  select.addEventListener("change", () => { area = select.value; syncUrl(); render(); });
+  document.querySelectorAll(".tabs button").forEach((b) => {
+    b.setAttribute("aria-pressed", b.dataset.tab === tab);
+    b.addEventListener("click", () => {
+      tab = b.dataset.tab;
+      document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+      syncUrl(); render();
+    });
+  });
+  document.getElementById("q").addEventListener("input", (e) => { query = e.target.value.trim().toLowerCase(); render(); });
+  render();
+}
+
+const load = (path) => fetch(path).then((r) => { if (!r.ok) throw new Error(path); return r.json(); });
+
+Promise.all([load("data/members.json"), load(`data/casts/${encodeURIComponent(id)}.json`)])
+  .then(async ([dir, packed]) => {
+    const casts = unpack(packed);
+    member = dir.members.find((m) => m.id === id);
+    if (!member) throw new Error(id);
+    const nums = [...new Set(Object.keys(casts).map((rc) => rc.split("-")[0]))];
+    const prefix = member.chamber === "senate" ? "s" : "h";
+    const loaded = await Promise.all(nums.map((c) => load(`data/votes/${prefix}${c}.json`)));
+    setup(casts, Object.fromEntries(nums.map((c, i) => [c, loaded[i]])), dir);
+  })
+  .catch(() => {
+    document.getElementById("list").innerHTML =
+      `<p class="error">No voting record found for ${esc(id || "that member")}. <a href="./">Find a member of Congress</a>.</p>`;
+  });
+</script>
+</body>
+</html>

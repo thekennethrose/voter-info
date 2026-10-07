@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glossary of congressional terms</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site.css">
+<style>
+  .find { margin: 0 0 1rem; }
+  .find input { font-size: 1.1rem; width: 100%; max-width: 30rem; padding: 0.6rem 0.9rem; border: 2px solid var(--ink); }
+  h2.letter { font-size: 1.6rem; font-weight: 800; color: var(--muted); margin: 2rem 0 0; }
+  dl { margin: 0; }
+  dt {
+    font-weight: 800; font-size: 1.15rem; margin: 0; padding-top: 1rem;
+    border-top: 1px solid var(--rule); scroll-margin-top: 1rem;
+  }
+  dt a.self { text-decoration: none; }
+  dt a.self:hover { text-decoration: underline; }
+  dd { margin: 0.35rem 0 1rem; max-width: 64ch; }
+  dd p { margin: 0 0 0.5rem; }
+  dd .see { color: var(--muted); font-size: 0.9rem; }
+  dt:target { color: var(--brass); }
+  .entry[hidden] { display: none; }
+</style>
+</head>
+<body>
+<main>
+  <nav class="site" aria-label="Site">
+    <a href="./">Members of Congress</a>
+    <a href="how-it-works.html">How voting works</a>
+    <a href="glossary.html" aria-current="page">Glossary</a>
+  </nav>
+
+  <h1>Glossary</h1>
+  <p class="lede">The terms you'll see in vote titles on this site, in plain English. Each one links to itself, so you can share a definition.</p>
+
+  <div class="find">
+    <input type="search" id="q" placeholder="Find a term, like cloture" aria-label="Find a term">
+  </div>
+  <p id="count" class="muted" aria-live="polite"></p>
+
+  <dl id="terms">
+    <div class="entry" data-terms="advice and consent confirmation confirm">
+      <dt id="advice-and-consent"><a class="self" href="#advice-and-consent">Advice and consent</a></dt>
+      <dd><p>The Senate's constitutional power to approve or reject the President's nominations and treaties. A nominee is confirmed when a majority of senators voting approve.</p>
+      <p class="see">See also <a href="#nomination">Nomination</a>, <a href="#treaty">Treaty</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="amendment amdt">
+      <dt id="amendment"><a class="self" href="#amendment">Amendment</a></dt>
+      <dd><p>A proposed change to a bill. Amendments get their own votes. Voting for or against an amendment is not the same as voting for or against the bill; check the vote title to see which one a vote was on.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="appropriations funding spending bill">
+      <dt id="appropriations"><a class="self" href="#appropriations">Appropriations</a></dt>
+      <dd><p>Bills that provide money for federal agencies and programs, usually for one fiscal year (October 1 to September 30). When they aren't finished in time, Congress may pass a <a href="#continuing-resolution">continuing resolution</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="aye no recorded vote">
+      <dt id="aye-no"><a class="self" href="#aye-no">Aye and No</a></dt>
+      <dd><p>The words the House records on some votes instead of Yea and Nay. They mean the same thing: Aye is yes, No is no. Which pair appears depends on how the vote was requested, and this site shows whichever the official record uses.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="bill hr s h.r. s. number">
+      <dt id="bill"><a class="self" href="#bill">Bill</a></dt>
+      <dd><p>A proposed law. House bills are numbered H.R. 1, H.R. 2 and so on; Senate bills S. 1, S. 2. Numbers start over with each new <a href="#congress-and-session">Congress</a>, so H.R. 1 in 2021 and H.R. 1 in 2025 are different bills.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="budget resolution con res">
+      <dt id="budget-resolution"><a class="self" href="#budget-resolution">Budget resolution</a></dt>
+      <dd><p>A plan, passed by both chambers, that sets overall spending and revenue targets. It isn't signed by the President and doesn't become law. It can instruct committees to write a <a href="#reconciliation">reconciliation</a> bill.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="cloture filibuster 60 end debate invoke">
+      <dt id="cloture"><a class="self" href="#cloture">Cloture</a></dt>
+      <dd><p>The Senate's way to end debate and move toward a vote. For most legislation it takes three-fifths of all senators, which is 60 when every seat is filled. Since 2013 (and 2017 for the Supreme Court), cloture on nominations takes only a simple majority.</p>
+      <p>A cloture vote decides whether to stop debating, not whether to pass the measure. A senator can vote for cloture and against the bill, or the reverse.</p>
+      <p class="see">Source: <a href="https://www.senate.gov/about/powers-procedures/filibusters-cloture.htm">senate.gov, Filibuster and Cloture</a>. See also <a href="#filibuster">Filibuster</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="committee referral">
+      <dt id="committee"><a class="self" href="#committee">Committee</a></dt>
+      <dd><p>A smaller group of members that studies bills in one subject area, holds hearings and makes changes before a bill goes to the full chamber. Most bills never leave committee.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="motion to commit instructions senate">
+      <dt id="motion-to-commit"><a class="self" href="#motion-to-commit">Commit (motion to commit)</a></dt>
+      <dd><p>A Senate motion to send a bill to a committee, often "with instructions" to change it in a specific way. It's a common way for senators to propose changes, especially on budget bills.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="concur concurrence motion to concur senate amendment house amendment">
+      <dt id="concur"><a class="self" href="#concur">Concur (motion to concur)</a></dt>
+      <dd><p>Agreeing to changes the other chamber made to a bill. Both chambers must pass identical text before a bill goes to the President; a vote to concur is often the last vote before that happens.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="concurrent resolution con res hconres sconres">
+      <dt id="concurrent-resolution"><a class="self" href="#concurrent-resolution">Concurrent resolution</a></dt>
+      <dd><p>Numbered H.Con.Res. or S.Con.Res. Passed by both chambers but not sent to the President, so it isn't law. Used for <a href="#budget-resolution">budget resolutions</a> and for matters affecting both chambers.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="conference report compromise">
+      <dt id="conference-report"><a class="self" href="#conference-report">Conference report</a></dt>
+      <dd><p>A compromise version of a bill worked out by members of both chambers. Each chamber then votes on it as a whole, without amendments.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="congress session 117th 118th 119th numbered year">
+      <dt id="congress-and-session"><a class="self" href="#congress-and-session">Congress and session</a></dt>
+      <dd><p>Each Congress lasts two years and is numbered: the 117th ran 2021–2022, the 118th 2023–2024, and the 119th 2025–2026. Each year is a session. Roll call numbers start over every session.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="crs congressional research service policy area">
+      <dt id="crs"><a class="self" href="#crs">Congressional Research Service (CRS)</a></dt>
+      <dd><p>Congress's nonpartisan research agency, part of the Library of Congress. It assigns every bill one <a href="#policy-area">policy area</a>, which is how this site groups bills by issue.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="congressional review act cra resolution of disapproval regulation rule">
+      <dt id="congressional-review-act"><a class="self" href="#congressional-review-act">Congressional Review Act</a></dt>
+      <dd><p>A law that lets Congress overturn a recently issued federal regulation by passing a joint resolution of disapproval. In the Senate these resolutions follow fast-track rules and need only a simple majority. The President can veto them.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="continuing resolution cr shutdown funding stopgap">
+      <dt id="continuing-resolution"><a class="self" href="#continuing-resolution">Continuing resolution</a></dt>
+      <dd><p>Temporary funding that keeps agencies running when regular <a href="#appropriations">appropriations</a> aren't finished. If neither is passed in time, parts of the government shut down.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="delegate resident commissioner dc puerto rico territories">
+      <dt id="delegate"><a class="self" href="#delegate">Delegate</a></dt>
+      <dd><p>A House member representing Washington, D.C., Puerto Rico or a U.S. territory. Delegates can't vote on final passage of bills, so they don't appear in the roll call votes on this site.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="discharge motion to discharge committee">
+      <dt id="discharge"><a class="self" href="#discharge">Discharge (motion to discharge)</a></dt>
+      <dd><p>A motion to take a bill away from a committee that hasn't acted on it, so the full chamber can consider it.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="executive session nomination treaty motion to proceed to executive session">
+      <dt id="executive-session"><a class="self" href="#executive-session">Executive session</a></dt>
+      <dd><p>The Senate's mode for handling nominations and treaties, as opposed to legislation. A "motion to proceed to executive session" moves the Senate to a specific nomination.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="filibuster delay debate cloture">
+      <dt id="filibuster"><a class="self" href="#filibuster">Filibuster</a></dt>
+      <dd><p>Using the Senate's rules of unlimited debate to delay or block a vote. The way to end one is <a href="#cloture">cloture</a>. The House has no filibuster because it limits debate.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="impeachment impeach trial guilty not guilty conviction articles">
+      <dt id="impeachment"><a class="self" href="#impeachment">Impeachment</a></dt>
+      <dd><p>The House impeaches, meaning formally charges, a federal official such as the President or a judge by passing articles of impeachment by a simple majority; the articles are a House resolution (H.Res.). The Senate then holds a trial, where senators vote Guilty or Not Guilty on each article. Conviction takes two-thirds of senators present.</p>
+      <p class="see">Source: <a href="https://www.archives.gov/founding-docs/constitution-transcript">the Constitution</a>, Article I, Sections 2 and 3.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="joint resolution hjres sjres j res">
+      <dt id="joint-resolution"><a class="self" href="#joint-resolution">Joint resolution</a></dt>
+      <dd><p>Numbered H.J.Res. or S.J.Res. It works like a bill: if both chambers pass it and the President signs it, it becomes law. Proposed constitutional amendments are also joint resolutions, but those need two-thirds of each chamber and go to the states instead of the President.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="pair live pair present giving live pair paired">
+      <dt id="live-pair"><a class="self" href="#live-pair">Live pair</a></dt>
+      <dd><p>An arrangement between two members on opposite sides of a vote when one of them is absent. The member who is there votes "Present" instead of voting, so the absence doesn't change the outcome. The official record shows this as "Present, Giving Live Pair."</p></dd>
+    </div>
+
+    <div class="entry" data-terms="majority simple majority 51 218 half">
+      <dt id="majority"><a class="self" href="#majority">Majority (simple)</a></dt>
+      <dd><p>More than half of the members voting. Most votes in both chambers need only a simple majority. In the House a tie fails; in the Senate the Vice President can break a tie.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="motion to proceed mtp senate take up consider">
+      <dt id="motion-to-proceed"><a class="self" href="#motion-to-proceed">Motion to proceed</a></dt>
+      <dd><p>A Senate motion to start considering a bill or nomination. Senators can filibuster it, so the first big vote on a bill is often "cloture on the motion to proceed": a vote on whether to begin debate at all, not on the bill itself.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="nomination pn nominee confirmation cabinet judge">
+      <dt id="nomination"><a class="self" href="#nomination">Nomination (PN number)</a></dt>
+      <dd><p>The President's choice for a federal position that needs Senate approval, such as a cabinet secretary or federal judge. The Senate numbers them PN 1, PN 2 and so on; a suffix like PN12-33 marks one nominee within a group sent together. Only senators vote on nominations, which is why representatives have no Nominations tab.</p>
+      <p class="see">Source: <a href="https://www.senate.gov/about/powers-procedures/nominations.htm">senate.gov, Nominations</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="not voting absent">
+      <dt id="not-voting"><a class="self" href="#not-voting">Not voting</a></dt>
+      <dd><p>The member didn't cast a vote, whether because they were absent or chose not to vote. It counts toward neither side.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="point of order decision of the chair appeal ruling budget waive">
+      <dt id="point-of-order"><a class="self" href="#point-of-order">Point of order</a></dt>
+      <dd><p>An objection that something breaks the chamber's rules. The presiding officer rules on it, and members can vote on an appeal ("Does the decision of the Chair stand as the judgment of the Senate?"). A <a href="#waive">motion to waive</a> asks to set the rule aside instead.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="policy area issue category crs">
+      <dt id="policy-area"><a class="self" href="#policy-area">Policy area</a></dt>
+      <dd><p>One of 32 subject categories, such as Health, Taxation or Immigration, that the <a href="#crs">Congressional Research Service</a> assigns to each bill, one per bill. A bill that touches several issues is filed under the one that best describes it as a whole.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="present answered present">
+      <dt id="present"><a class="self" href="#present">Present</a></dt>
+      <dd><p>A vote recording that the member was there without taking a side.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="quorum quorum call">
+      <dt id="quorum"><a class="self" href="#quorum">Quorum</a></dt>
+      <dd><p>The minimum number of members needed to do business: a majority of the chamber. A quorum call checks attendance; those aren't shown on this site because no position is taken.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="reconciliation budget simple majority filibuster">
+      <dt id="reconciliation"><a class="self" href="#reconciliation">Reconciliation</a></dt>
+      <dd><p>A budget process for tax, spending and debt-limit legislation set up by a <a href="#budget-resolution">budget resolution</a>. Debate in the Senate is limited, so a reconciliation bill can't be filibustered and passes with a simple majority. Its content is restricted to budget-related provisions.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="motion to recommit mtr house">
+      <dt id="motion-to-recommit"><a class="self" href="#motion-to-recommit">Recommit (motion to recommit)</a></dt>
+      <dd><p>A House motion to send a bill back to committee just before the final vote. It's usually offered by the bill's opponents as a last attempt to change or stop it.</p>
+      <p class="see">Source: <a href="https://www.house.gov/the-house-explained/the-legislative-process/house-floor">house.gov, House Floor</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="roll call vote recorded vote yea and nay">
+      <dt id="roll-call-vote"><a class="self" href="#roll-call-vote">Roll call vote</a></dt>
+      <dd><p>A vote where each member's position is recorded by name. Only roll call votes appear on this site. Many decisions are made by <a href="#voice-vote">voice vote</a> or <a href="#unanimous-consent">unanimous consent</a> instead, and those leave no individual record.</p>
+      <p class="see">Source: <a href="https://www.senate.gov/about/powers-procedures/voting.htm">senate.gov, Voting</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="rule rules committee hres providing for consideration">
+      <dt id="rule"><a class="self" href="#rule">Rule (House)</a></dt>
+      <dd><p>A House resolution, written by the Rules Committee, that sets the terms for debating a specific bill: how long, and which amendments are allowed. The House votes on the rule before the bill, so a vote on an H.Res. "providing for consideration" of a bill is a procedural vote.</p>
+      <p class="see">Source: <a href="https://www.house.gov/the-house-explained/the-legislative-process/house-floor">house.gov, House Floor</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="simple resolution hres sres res">
+      <dt id="simple-resolution"><a class="self" href="#simple-resolution">Simple resolution</a></dt>
+      <dd><p>Numbered H.Res. or S.Res. It affects only the chamber that passes it, such as its own rules or a statement of its views, and isn't law.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="suspension of the rules suspend two-thirds house">
+      <dt id="suspension"><a class="self" href="#suspension">Suspension of the rules</a></dt>
+      <dd><p>A House fast track for bills with broad support: debate is limited, no amendments are allowed, and passing takes two-thirds of the members voting instead of a simple majority. The vote title reads "On Motion to Suspend the Rules and Pass."</p></dd>
+    </div>
+
+    <div class="entry" data-terms="table motion to table tabled kill">
+      <dt id="motion-to-table"><a class="self" href="#motion-to-table">Table (motion to table)</a></dt>
+      <dd><p>A motion to set a proposal aside, which usually ends it. Voting to table an amendment generally has the same effect as voting against it.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="tie breaking vote vice president tie">
+      <dt id="tie-breaking-vote"><a class="self" href="#tie-breaking-vote">Tie-breaking vote</a></dt>
+      <dd><p>When the Senate ties, the Vice President, as President of the Senate, may cast the deciding vote. The House has no tie-breaker; a tie vote fails.</p>
+      <p class="see">Source: <a href="https://www.senate.gov/about/powers-procedures/voting.htm">senate.gov, Voting</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="treaty ratification two-thirds">
+      <dt id="treaty"><a class="self" href="#treaty">Treaty</a></dt>
+      <dd><p>An agreement with other countries. The Senate approves treaties with a two-thirds vote of senators present. Treaty votes aren't on this site yet.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="two-thirds 2/3 supermajority override">
+      <dt id="two-thirds"><a class="self" href="#two-thirds">Two-thirds</a></dt>
+      <dd><p>The threshold for overriding a <a href="#veto">veto</a> (in each chamber), passing a House bill under <a href="#suspension">suspension of the rules</a>, approving a <a href="#treaty">treaty</a>, and proposing a constitutional amendment.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="unanimous consent uc objection">
+      <dt id="unanimous-consent"><a class="self" href="#unanimous-consent">Unanimous consent</a></dt>
+      <dd><p>A request that passes as long as no member objects. Much of the Senate's business moves this way. No individual votes are recorded, so these don't appear on this site.</p>
+      <p class="see">Source: <a href="https://www.senate.gov/about/powers-procedures/voting.htm">senate.gov, Voting</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="veto override pocket veto president">
+      <dt id="veto"><a class="self" href="#veto">Veto</a></dt>
+      <dd><p>The President's rejection of a bill. Congress can override a veto with a two-thirds vote in each chamber. A pocket veto, when the President doesn't sign a bill and Congress has adjourned, can't be overridden.</p>
+      <p class="see">Source: <a href="https://www.usa.gov/how-laws-are-made">usa.gov, How laws are made</a>.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="voice vote">
+      <dt id="voice-vote"><a class="self" href="#voice-vote">Voice vote</a></dt>
+      <dd><p>Members call out yea or nay together and the presiding officer judges which side is louder. Individual positions aren't recorded.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="vote-a-rama vote a rama amendments budget">
+      <dt id="vote-a-rama"><a class="self" href="#vote-a-rama">Vote-a-rama</a></dt>
+      <dd><p>An informal name for a long series of back-to-back amendment votes in the Senate, usually on a <a href="#budget-resolution">budget resolution</a> or <a href="#reconciliation">reconciliation</a> bill, sometimes running through the night.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="waive motion to waive budget act cba point of order 60">
+      <dt id="waive"><a class="self" href="#waive">Waive (motion to waive)</a></dt>
+      <dd><p>A motion to set aside a rule that a proposal would otherwise break, most often a budget rule under the Congressional Budget Act. In the Senate, waiving most budget rules takes 60 votes.</p></dd>
+    </div>
+
+    <div class="entry" data-terms="yea nay yes no">
+      <dt id="yea-nay"><a class="self" href="#yea-nay">Yea and Nay</a></dt>
+      <dd><p>Yes and no on a <a href="#roll-call-vote">roll call vote</a>. The House sometimes records <a href="#aye-no">Aye and No</a> instead; they mean the same thing.</p></dd>
+    </div>
+  </dl>
+  <p id="none" class="empty" hidden>No term matches. Try a shorter word, like "vote".</p>
+
+  <footer>
+    <p>Want more detail? The House's official guide <a href="https://www.govinfo.gov/content/pkg/CDOC-110hdoc49/pdf/CDOC-110hdoc49.pdf">How Our Laws Are Made</a> (PDF, govinfo.gov) covers procedure in depth.</p>
+  </footer>
+</main>
+
+<script>
+const entries = [...document.querySelectorAll(".entry")];
+entries.forEach((e) => (e.dataset.hay = (e.dataset.terms + " " + e.textContent).toLowerCase()));
+const count = document.getElementById("count");
+function filter() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  let n = 0;
+  for (const e of entries) {
+    const hit = !q || e.dataset.terms.includes(q) || e.querySelector("dt").textContent.toLowerCase().includes(q);
+    e.hidden = !hit;
+    n += hit;
+  }
+  count.textContent = q ? `${n} ${n === 1 ? "term" : "terms"}` : `${entries.length} terms`;
+  document.getElementById("none").hidden = n > 0;
+}
+document.getElementById("q").addEventListener("input", filter);
+filter();
+</script>
+</body>
+</html>

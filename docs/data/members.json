@@ -1,0 +1,7307 @@
+{
+ "generated": "2026-10-07",
+ "sessions": [
+  "117-1",
+  "117-2",
+  "118-1",
+  "118-2",
+  "119-1",
+  "119-2"
+ ],
+ "members": [
+  {
+   "id": "S288",
+   "chamber": "senate",
+   "first": "Lisa",
+   "last": "Murkowski",
+   "party": "R",
+   "state": "AK",
+   "current": true
+  },
+  {
+   "id": "S383",
+   "chamber": "senate",
+   "first": "Dan",
+   "last": "Sullivan",
+   "party": "R",
+   "state": "AK",
+   "current": true
+  },
+  {
+   "id": "B001323",
+   "chamber": "house",
+   "first": "Nicholas J.",
+   "last": "Begich",
+   "party": "R",
+   "state": "AK",
+   "district": 0,
+   "current": true
+  },
+  {
+   "id": "P000619",
+   "chamber": "house",
+   "first": "Mary Sattler",
+   "last": "Peltola",
+   "party": "D",
+   "state": "AK",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "Y000033",
+   "chamber": "house",
+   "first": "Don",
+   "last": "Young",
+   "party": "R",
+   "state": "AK",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "S416",
+   "chamber": "senate",
+   "first": "Katie",
+   "last": "Britt",
+   "party": "R",
+   "state": "AL",
+   "current": true
+  },
+  {
+   "id": "S184",
+   "chamber": "senate",
+   "first": "Richard",
+   "last": "Shelby",
+   "party": "R",
+   "state": "AL",
+   "current": false
+  },
+  {
+   "id": "S412",
+   "chamber": "senate",
+   "first": "Tommy",
+   "last": "Tuberville",
+   "party": "R",
+   "state": "AL",
+   "current": true
+  },
+  {
+   "id": "C001054",
+   "chamber": "house",
+   "first": "Jerry L.",
+   "last": "Carl",
+   "party": "R",
+   "state": "AL",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "M001212",
+   "chamber": "house",
+   "first": "Barry",
+   "last": "Moore",
+   "party": "R",
+   "state": "AL",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "F000481",
+   "chamber": "house",
+   "first": "Shomari",
+   "last": "Figures",
+   "party": "D",
+   "state": "AL",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "R000575",
+   "chamber": "house",
+   "first": "Mike D.",
+   "last": "Rogers",
+   "party": "R",
+   "state": "AL",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "A000055",
+   "chamber": "house",
+   "first": "Robert B.",
+   "last": "Aderholt",
+   "party": "R",
+   "state": "AL",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "B001274",
+   "chamber": "house",
+   "first": "Mo",
+   "last": "Brooks",
+   "party": "R",
+   "state": "AL",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "S001220",
+   "chamber": "house",
+   "first": "Dale W.",
+   "last": "Strong",
+   "party": "R",
+   "state": "AL",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "P000609",
+   "chamber": "house",
+   "first": "Gary J.",
+   "last": "Palmer",
+   "party": "R",
+   "state": "AL",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "S001185",
+   "chamber": "house",
+   "first": "Terri A.",
+   "last": "Sewell",
+   "party": "D",
+   "state": "AL",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "S343",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Boozman",
+   "party": "R",
+   "state": "AR",
+   "current": true
+  },
+  {
+   "id": "S374",
+   "chamber": "senate",
+   "first": "Tom",
+   "last": "Cotton",
+   "party": "R",
+   "state": "AR",
+   "current": true
+  },
+  {
+   "id": "C001087",
+   "chamber": "house",
+   "first": "Eric A. \"Rick\"",
+   "last": "Crawford",
+   "party": "R",
+   "state": "AR",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "H001072",
+   "chamber": "house",
+   "first": "J. French",
+   "last": "Hill",
+   "party": "R",
+   "state": "AR",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "W000809",
+   "chamber": "house",
+   "first": "Steve",
+   "last": "Womack",
+   "party": "R",
+   "state": "AR",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "W000821",
+   "chamber": "house",
+   "first": "Bruce",
+   "last": "Westerman",
+   "party": "R",
+   "state": "AR",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "S432",
+   "chamber": "senate",
+   "first": "Ruben",
+   "last": "Gallego",
+   "party": "D",
+   "state": "AZ",
+   "current": true
+  },
+  {
+   "id": "S406",
+   "chamber": "senate",
+   "first": "Mark",
+   "last": "Kelly",
+   "party": "D",
+   "state": "AZ",
+   "current": true
+  },
+  {
+   "id": "S403",
+   "chamber": "senate",
+   "first": "Kyrsten",
+   "last": "Sinema",
+   "party": "I",
+   "state": "AZ",
+   "current": false
+  },
+  {
+   "id": "G000574",
+   "chamber": "house",
+   "first": "Ruben",
+   "last": "Gallego",
+   "party": "D",
+   "state": "AZ",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "O000171",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "O'Halleran",
+   "party": "D",
+   "state": "AZ",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "S001183",
+   "chamber": "house",
+   "first": "David",
+   "last": "Schweikert",
+   "party": "R",
+   "state": "AZ",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "C001132",
+   "chamber": "house",
+   "first": "Elijah",
+   "last": "Crane",
+   "party": "R",
+   "state": "AZ",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "K000368",
+   "chamber": "house",
+   "first": "Ann",
+   "last": "Kirkpatrick",
+   "party": "D",
+   "state": "AZ",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "A000381",
+   "chamber": "house",
+   "first": "Yassamin",
+   "last": "Ansari",
+   "party": "D",
+   "state": "AZ",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "S001211",
+   "chamber": "house",
+   "first": "Greg",
+   "last": "Stanton",
+   "party": "D",
+   "state": "AZ",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "B001302",
+   "chamber": "house",
+   "first": "Andy",
+   "last": "Biggs",
+   "party": "R",
+   "state": "AZ",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "C001133",
+   "chamber": "house",
+   "first": "Juan",
+   "last": "Ciscomani",
+   "party": "R",
+   "state": "AZ",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "G000551",
+   "chamber": "house",
+   "first": "Ra\u00fal M.",
+   "last": "Grijalva",
+   "party": "D",
+   "state": "AZ",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "G000606",
+   "chamber": "house",
+   "first": "Adelita S.",
+   "last": "Grijalva",
+   "party": "D",
+   "state": "AZ",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "H001098",
+   "chamber": "house",
+   "first": "Abraham J.",
+   "last": "Hamadeh",
+   "party": "R",
+   "state": "AZ",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "L000589",
+   "chamber": "house",
+   "first": "Debbie",
+   "last": "Lesko",
+   "party": "R",
+   "state": "AZ",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "G000565",
+   "chamber": "house",
+   "first": "Paul A.",
+   "last": "Gosar",
+   "party": "R",
+   "state": "AZ",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "S424",
+   "chamber": "senate",
+   "first": "Laphonza",
+   "last": "Butler",
+   "party": "D",
+   "state": "CA",
+   "current": false
+  },
+  {
+   "id": "S221",
+   "chamber": "senate",
+   "first": "Dianne",
+   "last": "Feinstein",
+   "party": "D",
+   "state": "CA",
+   "current": false
+  },
+  {
+   "id": "S413",
+   "chamber": "senate",
+   "first": "Alex",
+   "last": "Padilla",
+   "party": "D",
+   "state": "CA",
+   "current": true
+  },
+  {
+   "id": "S427",
+   "chamber": "senate",
+   "first": "Adam",
+   "last": "Schiff",
+   "party": "D",
+   "state": "CA",
+   "current": true
+  },
+  {
+   "id": "S001150",
+   "chamber": "house",
+   "first": "Adam B.",
+   "last": "Schiff",
+   "party": "D",
+   "state": "CA",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "G000607",
+   "chamber": "house",
+   "first": "James",
+   "last": "Gallagher",
+   "party": "R",
+   "state": "CA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "L000578",
+   "chamber": "house",
+   "first": "Doug",
+   "last": "LaMalfa",
+   "party": "R",
+   "state": "CA",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "H001068",
+   "chamber": "house",
+   "first": "Jared",
+   "last": "Huffman",
+   "party": "D",
+   "state": "CA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "K000401",
+   "chamber": "house",
+   "first": "Kevin",
+   "last": "Kiley",
+   "party": "I",
+   "state": "CA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "T000460",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Thompson",
+   "party": "D",
+   "state": "CA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "M001177",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "McClintock",
+   "party": "R",
+   "state": "CA",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "B001287",
+   "chamber": "house",
+   "first": "Ami",
+   "last": "Bera",
+   "party": "D",
+   "state": "CA",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "M001163",
+   "chamber": "house",
+   "first": "Doris O.",
+   "last": "Matsui",
+   "party": "D",
+   "state": "CA",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "G000559",
+   "chamber": "house",
+   "first": "John",
+   "last": "Garamendi",
+   "party": "D",
+   "state": "CA",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "H001090",
+   "chamber": "house",
+   "first": "Josh",
+   "last": "Harder",
+   "party": "D",
+   "state": "CA",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "M001166",
+   "chamber": "house",
+   "first": "Jerry",
+   "last": "McNerney",
+   "party": "D",
+   "state": "CA",
+   "district": 9,
+   "current": false
+  },
+  {
+   "id": "D000623",
+   "chamber": "house",
+   "first": "Mark",
+   "last": "DeSaulnier",
+   "party": "D",
+   "state": "CA",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "P000197",
+   "chamber": "house",
+   "first": "Nancy",
+   "last": "Pelosi",
+   "party": "D",
+   "state": "CA",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "L000551",
+   "chamber": "house",
+   "first": "Barbara",
+   "last": "Lee",
+   "party": "D",
+   "state": "CA",
+   "district": 12,
+   "current": false
+  },
+  {
+   "id": "S001231",
+   "chamber": "house",
+   "first": "Lateefah",
+   "last": "Simon",
+   "party": "D",
+   "state": "CA",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "D000633",
+   "chamber": "house",
+   "first": "John S.",
+   "last": "Duarte",
+   "party": "R",
+   "state": "CA",
+   "district": 13,
+   "current": false
+  },
+  {
+   "id": "G000605",
+   "chamber": "house",
+   "first": "Adam",
+   "last": "Gray",
+   "party": "D",
+   "state": "CA",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "S001175",
+   "chamber": "house",
+   "first": "Jackie",
+   "last": "Speier",
+   "party": "D",
+   "state": "CA",
+   "district": 14,
+   "current": false
+  },
+  {
+   "id": "S001193",
+   "chamber": "house",
+   "first": "Eric",
+   "last": "Swalwell",
+   "party": "D",
+   "state": "CA",
+   "district": 14,
+   "current": false
+  },
+  {
+   "id": "W000832",
+   "chamber": "house",
+   "first": "Aisha",
+   "last": "Wahab",
+   "party": "D",
+   "state": "CA",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "M001225",
+   "chamber": "house",
+   "first": "Kevin",
+   "last": "Mullin",
+   "party": "D",
+   "state": "CA",
+   "district": 15,
+   "current": true
+  },
+  {
+   "id": "E000215",
+   "chamber": "house",
+   "first": "Anna G.",
+   "last": "Eshoo",
+   "party": "D",
+   "state": "CA",
+   "district": 16,
+   "current": false
+  },
+  {
+   "id": "L000607",
+   "chamber": "house",
+   "first": "Sam T.",
+   "last": "Liccardo",
+   "party": "D",
+   "state": "CA",
+   "district": 16,
+   "current": true
+  },
+  {
+   "id": "K000389",
+   "chamber": "house",
+   "first": "Ro",
+   "last": "Khanna",
+   "party": "D",
+   "state": "CA",
+   "district": 17,
+   "current": true
+  },
+  {
+   "id": "L000397",
+   "chamber": "house",
+   "first": "Zoe",
+   "last": "Lofgren",
+   "party": "D",
+   "state": "CA",
+   "district": 18,
+   "current": true
+  },
+  {
+   "id": "P000613",
+   "chamber": "house",
+   "first": "Jimmy",
+   "last": "Panetta",
+   "party": "D",
+   "state": "CA",
+   "district": 19,
+   "current": true
+  },
+  {
+   "id": "F000480",
+   "chamber": "house",
+   "first": "Vince",
+   "last": "Fong",
+   "party": "R",
+   "state": "CA",
+   "district": 20,
+   "current": true
+  },
+  {
+   "id": "M001165",
+   "chamber": "house",
+   "first": "Kevin",
+   "last": "McCarthy",
+   "party": "R",
+   "state": "CA",
+   "district": 20,
+   "current": false
+  },
+  {
+   "id": "C001059",
+   "chamber": "house",
+   "first": "Jim",
+   "last": "Costa",
+   "party": "D",
+   "state": "CA",
+   "district": 21,
+   "current": true
+  },
+  {
+   "id": "C001128",
+   "chamber": "house",
+   "first": "Connie",
+   "last": "Conway",
+   "party": "R",
+   "state": "CA",
+   "district": 22,
+   "current": false
+  },
+  {
+   "id": "N000181",
+   "chamber": "house",
+   "first": "Devin",
+   "last": "Nunes",
+   "party": "R",
+   "state": "CA",
+   "district": 22,
+   "current": false
+  },
+  {
+   "id": "V000129",
+   "chamber": "house",
+   "first": "David G.",
+   "last": "Valadao",
+   "party": "R",
+   "state": "CA",
+   "district": 22,
+   "current": true
+  },
+  {
+   "id": "O000019",
+   "chamber": "house",
+   "first": "Jay",
+   "last": "Obernolte",
+   "party": "R",
+   "state": "CA",
+   "district": 23,
+   "current": true
+  },
+  {
+   "id": "C001112",
+   "chamber": "house",
+   "first": "Salud O.",
+   "last": "Carbajal",
+   "party": "D",
+   "state": "CA",
+   "district": 24,
+   "current": true
+  },
+  {
+   "id": "R000599",
+   "chamber": "house",
+   "first": "Raul",
+   "last": "Ruiz",
+   "party": "D",
+   "state": "CA",
+   "district": 25,
+   "current": true
+  },
+  {
+   "id": "B001285",
+   "chamber": "house",
+   "first": "Julia",
+   "last": "Brownley",
+   "party": "D",
+   "state": "CA",
+   "district": 26,
+   "current": true
+  },
+  {
+   "id": "G000061",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Garcia",
+   "party": "R",
+   "state": "CA",
+   "district": 27,
+   "current": false
+  },
+  {
+   "id": "W000830",
+   "chamber": "house",
+   "first": "George",
+   "last": "Whitesides",
+   "party": "D",
+   "state": "CA",
+   "district": 27,
+   "current": true
+  },
+  {
+   "id": "C001080",
+   "chamber": "house",
+   "first": "Judy",
+   "last": "Chu",
+   "party": "D",
+   "state": "CA",
+   "district": 28,
+   "current": true
+  },
+  {
+   "id": "C001097",
+   "chamber": "house",
+   "first": "Tony",
+   "last": "C\u00e1rdenas",
+   "party": "D",
+   "state": "CA",
+   "district": 29,
+   "current": false
+  },
+  {
+   "id": "R000620",
+   "chamber": "house",
+   "first": "Luz M.",
+   "last": "Rivas",
+   "party": "D",
+   "state": "CA",
+   "district": 29,
+   "current": true
+  },
+  {
+   "id": "F000483",
+   "chamber": "house",
+   "first": "Laura",
+   "last": "Friedman",
+   "party": "D",
+   "state": "CA",
+   "district": 30,
+   "current": true
+  },
+  {
+   "id": "C001123",
+   "chamber": "house",
+   "first": "Gilbert Ray",
+   "last": "Cisneros",
+   "party": "D",
+   "state": "CA",
+   "district": 31,
+   "current": true
+  },
+  {
+   "id": "N000179",
+   "chamber": "house",
+   "first": "Grace F.",
+   "last": "Napolitano",
+   "party": "D",
+   "state": "CA",
+   "district": 31,
+   "current": false
+  },
+  {
+   "id": "S000344",
+   "chamber": "house",
+   "first": "Brad",
+   "last": "Sherman",
+   "party": "D",
+   "state": "CA",
+   "district": 32,
+   "current": true
+  },
+  {
+   "id": "A000371",
+   "chamber": "house",
+   "first": "Pete",
+   "last": "Aguilar",
+   "party": "D",
+   "state": "CA",
+   "district": 33,
+   "current": true
+  },
+  {
+   "id": "G000585",
+   "chamber": "house",
+   "first": "Jimmy",
+   "last": "Gomez",
+   "party": "D",
+   "state": "CA",
+   "district": 34,
+   "current": true
+  },
+  {
+   "id": "T000474",
+   "chamber": "house",
+   "first": "Norma J.",
+   "last": "Torres",
+   "party": "D",
+   "state": "CA",
+   "district": 35,
+   "current": true
+  },
+  {
+   "id": "L000582",
+   "chamber": "house",
+   "first": "Ted",
+   "last": "Lieu",
+   "party": "D",
+   "state": "CA",
+   "district": 36,
+   "current": true
+  },
+  {
+   "id": "B001270",
+   "chamber": "house",
+   "first": "Karen",
+   "last": "Bass",
+   "party": "D",
+   "state": "CA",
+   "district": 37,
+   "current": false
+  },
+  {
+   "id": "K000400",
+   "chamber": "house",
+   "first": "Sydney",
+   "last": "Kamlager-Dove",
+   "party": "D",
+   "state": "CA",
+   "district": 37,
+   "current": true
+  },
+  {
+   "id": "S001156",
+   "chamber": "house",
+   "first": "Linda T.",
+   "last": "S\u00e1nchez",
+   "party": "D",
+   "state": "CA",
+   "district": 38,
+   "current": true
+  },
+  {
+   "id": "T000472",
+   "chamber": "house",
+   "first": "Mark",
+   "last": "Takano",
+   "party": "D",
+   "state": "CA",
+   "district": 39,
+   "current": true
+  },
+  {
+   "id": "K000397",
+   "chamber": "house",
+   "first": "Young",
+   "last": "Kim",
+   "party": "R",
+   "state": "CA",
+   "district": 40,
+   "current": true
+  },
+  {
+   "id": "R000486",
+   "chamber": "house",
+   "first": "Lucille",
+   "last": "Roybal-Allard",
+   "party": "D",
+   "state": "CA",
+   "district": 40,
+   "current": false
+  },
+  {
+   "id": "C000059",
+   "chamber": "house",
+   "first": "Ken",
+   "last": "Calvert",
+   "party": "R",
+   "state": "CA",
+   "district": 41,
+   "current": true
+  },
+  {
+   "id": "G000598",
+   "chamber": "house",
+   "first": "Robert",
+   "last": "Garcia",
+   "party": "D",
+   "state": "CA",
+   "district": 42,
+   "current": true
+  },
+  {
+   "id": "W000187",
+   "chamber": "house",
+   "first": "Maxine",
+   "last": "Waters",
+   "party": "D",
+   "state": "CA",
+   "district": 43,
+   "current": true
+  },
+  {
+   "id": "B001300",
+   "chamber": "house",
+   "first": "Nanette Diaz",
+   "last": "Barrag\u00e1n",
+   "party": "D",
+   "state": "CA",
+   "district": 44,
+   "current": true
+  },
+  {
+   "id": "S001135",
+   "chamber": "house",
+   "first": "Michelle",
+   "last": "Steel",
+   "party": "R",
+   "state": "CA",
+   "district": 45,
+   "current": false
+  },
+  {
+   "id": "T000491",
+   "chamber": "house",
+   "first": "Derek",
+   "last": "Tran",
+   "party": "D",
+   "state": "CA",
+   "district": 45,
+   "current": true
+  },
+  {
+   "id": "C001110",
+   "chamber": "house",
+   "first": "J. Luis",
+   "last": "Correa",
+   "party": "D",
+   "state": "CA",
+   "district": 46,
+   "current": true
+  },
+  {
+   "id": "L000579",
+   "chamber": "house",
+   "first": "Alan S.",
+   "last": "Lowenthal",
+   "party": "D",
+   "state": "CA",
+   "district": 47,
+   "current": false
+  },
+  {
+   "id": "M001241",
+   "chamber": "house",
+   "first": "Dave",
+   "last": "Min",
+   "party": "D",
+   "state": "CA",
+   "district": 47,
+   "current": true
+  },
+  {
+   "id": "P000618",
+   "chamber": "house",
+   "first": "Katie",
+   "last": "Porter",
+   "party": "D",
+   "state": "CA",
+   "district": 47,
+   "current": false
+  },
+  {
+   "id": "I000056",
+   "chamber": "house",
+   "first": "Darrell",
+   "last": "Issa",
+   "party": "R",
+   "state": "CA",
+   "district": 48,
+   "current": true
+  },
+  {
+   "id": "L000593",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Levin",
+   "party": "D",
+   "state": "CA",
+   "district": 49,
+   "current": true
+  },
+  {
+   "id": "P000608",
+   "chamber": "house",
+   "first": "Scott H.",
+   "last": "Peters",
+   "party": "D",
+   "state": "CA",
+   "district": 50,
+   "current": true
+  },
+  {
+   "id": "J000305",
+   "chamber": "house",
+   "first": "Sara",
+   "last": "Jacobs",
+   "party": "D",
+   "state": "CA",
+   "district": 51,
+   "current": true
+  },
+  {
+   "id": "V000130",
+   "chamber": "house",
+   "first": "Juan",
+   "last": "Vargas",
+   "party": "D",
+   "state": "CA",
+   "district": 52,
+   "current": true
+  },
+  {
+   "id": "S330",
+   "chamber": "senate",
+   "first": "Michael",
+   "last": "Bennet",
+   "party": "D",
+   "state": "CO",
+   "current": true
+  },
+  {
+   "id": "S408",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Hickenlooper",
+   "party": "D",
+   "state": "CO",
+   "current": true
+  },
+  {
+   "id": "D000197",
+   "chamber": "house",
+   "first": "Diana",
+   "last": "DeGette",
+   "party": "D",
+   "state": "CO",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "N000191",
+   "chamber": "house",
+   "first": "Joe",
+   "last": "Neguse",
+   "party": "D",
+   "state": "CO",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "H001100",
+   "chamber": "house",
+   "first": "Jeff",
+   "last": "Hurd",
+   "party": "R",
+   "state": "CO",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "B000825",
+   "chamber": "house",
+   "first": "Lauren",
+   "last": "Boebert",
+   "party": "R",
+   "state": "CO",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "B001297",
+   "chamber": "house",
+   "first": "Ken",
+   "last": "Buck",
+   "party": "R",
+   "state": "CO",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "L000604",
+   "chamber": "house",
+   "first": "Greg",
+   "last": "Lopez",
+   "party": "R",
+   "state": "CO",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "C001137",
+   "chamber": "house",
+   "first": "Jeff",
+   "last": "Crank",
+   "party": "R",
+   "state": "CO",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "L000564",
+   "chamber": "house",
+   "first": "Doug",
+   "last": "Lamborn",
+   "party": "R",
+   "state": "CO",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "C001121",
+   "chamber": "house",
+   "first": "Jason",
+   "last": "Crow",
+   "party": "D",
+   "state": "CO",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "P000593",
+   "chamber": "house",
+   "first": "Ed",
+   "last": "Perlmutter",
+   "party": "D",
+   "state": "CO",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "P000620",
+   "chamber": "house",
+   "first": "Brittany",
+   "last": "Pettersen",
+   "party": "D",
+   "state": "CO",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "C001134",
+   "chamber": "house",
+   "first": "Yadira",
+   "last": "Caraveo",
+   "party": "D",
+   "state": "CO",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "E000300",
+   "chamber": "house",
+   "first": "Gabe",
+   "last": "Evans",
+   "party": "R",
+   "state": "CO",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S341",
+   "chamber": "senate",
+   "first": "Richard",
+   "last": "Blumenthal",
+   "party": "D",
+   "state": "CT",
+   "current": true
+  },
+  {
+   "id": "S364",
+   "chamber": "senate",
+   "first": "Christopher",
+   "last": "Murphy",
+   "party": "D",
+   "state": "CT",
+   "current": true
+  },
+  {
+   "id": "L000557",
+   "chamber": "house",
+   "first": "John B.",
+   "last": "Larson",
+   "party": "D",
+   "state": "CT",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "C001069",
+   "chamber": "house",
+   "first": "Joe",
+   "last": "Courtney",
+   "party": "D",
+   "state": "CT",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "D000216",
+   "chamber": "house",
+   "first": "Rosa L.",
+   "last": "DeLauro",
+   "party": "D",
+   "state": "CT",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "H001047",
+   "chamber": "house",
+   "first": "James A.",
+   "last": "Himes",
+   "party": "D",
+   "state": "CT",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "H001081",
+   "chamber": "house",
+   "first": "Jahana",
+   "last": "Hayes",
+   "party": "D",
+   "state": "CT",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "S430",
+   "chamber": "senate",
+   "first": "Lisa",
+   "last": "Blunt Rochester",
+   "party": "D",
+   "state": "DE",
+   "current": true
+  },
+  {
+   "id": "S277",
+   "chamber": "senate",
+   "first": "Thomas",
+   "last": "Carper",
+   "party": "D",
+   "state": "DE",
+   "current": false
+  },
+  {
+   "id": "S337",
+   "chamber": "senate",
+   "first": "Christopher",
+   "last": "Coons",
+   "party": "D",
+   "state": "DE",
+   "current": true
+  },
+  {
+   "id": "B001303",
+   "chamber": "house",
+   "first": "Lisa",
+   "last": "Blunt Rochester",
+   "party": "D",
+   "state": "DE",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "M001238",
+   "chamber": "house",
+   "first": "Sarah",
+   "last": "McBride",
+   "party": "D",
+   "state": "DE",
+   "district": 0,
+   "current": true
+  },
+  {
+   "id": "S439",
+   "chamber": "senate",
+   "first": "Ashley",
+   "last": "Moody",
+   "party": "R",
+   "state": "FL",
+   "current": true
+  },
+  {
+   "id": "S350",
+   "chamber": "senate",
+   "first": "Marco",
+   "last": "Rubio",
+   "party": "R",
+   "state": "FL",
+   "current": false
+  },
+  {
+   "id": "S404",
+   "chamber": "senate",
+   "first": "Rick",
+   "last": "Scott",
+   "party": "R",
+   "state": "FL",
+   "current": true
+  },
+  {
+   "id": "G000578",
+   "chamber": "house",
+   "first": "Matt",
+   "last": "Gaetz",
+   "party": "R",
+   "state": "FL",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "P000622",
+   "chamber": "house",
+   "first": "Jimmy",
+   "last": "Patronis",
+   "party": "R",
+   "state": "FL",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "D000628",
+   "chamber": "house",
+   "first": "Neal P.",
+   "last": "Dunn",
+   "party": "R",
+   "state": "FL",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "C001039",
+   "chamber": "house",
+   "first": "Kat",
+   "last": "Cammack",
+   "party": "R",
+   "state": "FL",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "B001314",
+   "chamber": "house",
+   "first": "Aaron",
+   "last": "Bean",
+   "party": "R",
+   "state": "FL",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "L000586",
+   "chamber": "house",
+   "first": "Al, Jr.",
+   "last": "Lawson",
+   "party": "D",
+   "state": "FL",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "R000609",
+   "chamber": "house",
+   "first": "John H.",
+   "last": "Rutherford",
+   "party": "R",
+   "state": "FL",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "F000484",
+   "chamber": "house",
+   "first": "Randy",
+   "last": "Fine",
+   "party": "R",
+   "state": "FL",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "W000823",
+   "chamber": "house",
+   "first": "Michael",
+   "last": "Waltz",
+   "party": "R",
+   "state": "FL",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "M001216",
+   "chamber": "house",
+   "first": "Cory",
+   "last": "Mills",
+   "party": "R",
+   "state": "FL",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "M001202",
+   "chamber": "house",
+   "first": "Stephanie N.",
+   "last": "Murphy",
+   "party": "D",
+   "state": "FL",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "H001099",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Haridopolos",
+   "party": "R",
+   "state": "FL",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "P000599",
+   "chamber": "house",
+   "first": "Bill",
+   "last": "Posey",
+   "party": "R",
+   "state": "FL",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "S001200",
+   "chamber": "house",
+   "first": "Darren",
+   "last": "Soto",
+   "party": "D",
+   "state": "FL",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "D000627",
+   "chamber": "house",
+   "first": "Val Butler",
+   "last": "Demings",
+   "party": "D",
+   "state": "FL",
+   "district": 10,
+   "current": false
+  },
+  {
+   "id": "F000476",
+   "chamber": "house",
+   "first": "Maxwell",
+   "last": "Frost",
+   "party": "D",
+   "state": "FL",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "W000806",
+   "chamber": "house",
+   "first": "Daniel",
+   "last": "Webster",
+   "party": "R",
+   "state": "FL",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "B001257",
+   "chamber": "house",
+   "first": "Gus M.",
+   "last": "Bilirakis",
+   "party": "R",
+   "state": "FL",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "C001111",
+   "chamber": "house",
+   "first": "Charlie",
+   "last": "Crist",
+   "party": "D",
+   "state": "FL",
+   "district": 13,
+   "current": false
+  },
+  {
+   "id": "L000596",
+   "chamber": "house",
+   "first": "Anna Paulina",
+   "last": "Luna",
+   "party": "R",
+   "state": "FL",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "C001066",
+   "chamber": "house",
+   "first": "Kathy",
+   "last": "Castor",
+   "party": "D",
+   "state": "FL",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "L000597",
+   "chamber": "house",
+   "first": "Laurel M.",
+   "last": "Lee",
+   "party": "R",
+   "state": "FL",
+   "district": 15,
+   "current": true
+  },
+  {
+   "id": "B001260",
+   "chamber": "house",
+   "first": "Vern",
+   "last": "Buchanan",
+   "party": "R",
+   "state": "FL",
+   "district": 16,
+   "current": true
+  },
+  {
+   "id": "S001214",
+   "chamber": "house",
+   "first": "W. Gregory",
+   "last": "Steube",
+   "party": "R",
+   "state": "FL",
+   "district": 17,
+   "current": true
+  },
+  {
+   "id": "F000472",
+   "chamber": "house",
+   "first": "Scott",
+   "last": "Franklin",
+   "party": "R",
+   "state": "FL",
+   "district": 18,
+   "current": true
+  },
+  {
+   "id": "D000032",
+   "chamber": "house",
+   "first": "Byron",
+   "last": "Donalds",
+   "party": "R",
+   "state": "FL",
+   "district": 19,
+   "current": true
+  },
+  {
+   "id": "C001127",
+   "chamber": "house",
+   "first": "Sheila",
+   "last": "Cherfilus-McCormick",
+   "party": "D",
+   "state": "FL",
+   "district": 20,
+   "current": false
+  },
+  {
+   "id": "H000324",
+   "chamber": "house",
+   "first": "Alcee L.",
+   "last": "Hastings",
+   "party": "D",
+   "state": "FL",
+   "district": 20,
+   "current": false
+  },
+  {
+   "id": "M001199",
+   "chamber": "house",
+   "first": "Brian J.",
+   "last": "Mast",
+   "party": "R",
+   "state": "FL",
+   "district": 21,
+   "current": true
+  },
+  {
+   "id": "D000610",
+   "chamber": "house",
+   "first": "Theodore E.",
+   "last": "Deutch",
+   "party": "D",
+   "state": "FL",
+   "district": 22,
+   "current": false
+  },
+  {
+   "id": "F000462",
+   "chamber": "house",
+   "first": "Lois",
+   "last": "Frankel",
+   "party": "D",
+   "state": "FL",
+   "district": 22,
+   "current": true
+  },
+  {
+   "id": "M001217",
+   "chamber": "house",
+   "first": "Jared",
+   "last": "Moskowitz",
+   "party": "D",
+   "state": "FL",
+   "district": 23,
+   "current": true
+  },
+  {
+   "id": "W000808",
+   "chamber": "house",
+   "first": "Frederica S.",
+   "last": "Wilson",
+   "party": "D",
+   "state": "FL",
+   "district": 24,
+   "current": true
+  },
+  {
+   "id": "W000797",
+   "chamber": "house",
+   "first": "Debbie",
+   "last": "Wasserman Schultz",
+   "party": "D",
+   "state": "FL",
+   "district": 25,
+   "current": true
+  },
+  {
+   "id": "D000600",
+   "chamber": "house",
+   "first": "Mario",
+   "last": "Diaz-Balart",
+   "party": "R",
+   "state": "FL",
+   "district": 26,
+   "current": true
+  },
+  {
+   "id": "S000168",
+   "chamber": "house",
+   "first": "Maria Elvira",
+   "last": "Salazar",
+   "party": "R",
+   "state": "FL",
+   "district": 27,
+   "current": true
+  },
+  {
+   "id": "G000593",
+   "chamber": "house",
+   "first": "Carlos A.",
+   "last": "Gimenez",
+   "party": "R",
+   "state": "FL",
+   "district": 28,
+   "current": true
+  },
+  {
+   "id": "S414",
+   "chamber": "senate",
+   "first": "Jon",
+   "last": "Ossoff",
+   "party": "D",
+   "state": "GA",
+   "current": true
+  },
+  {
+   "id": "S415",
+   "chamber": "senate",
+   "first": "Raphael",
+   "last": "Warnock",
+   "party": "D",
+   "state": "GA",
+   "current": true
+  },
+  {
+   "id": "C001103",
+   "chamber": "house",
+   "first": "Earl L. \"Buddy\"",
+   "last": "Carter",
+   "party": "R",
+   "state": "GA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "B000490",
+   "chamber": "house",
+   "first": "Sanford D.",
+   "last": "Bishop",
+   "party": "D",
+   "state": "GA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "F000465",
+   "chamber": "house",
+   "first": "A. Drew",
+   "last": "Ferguson",
+   "party": "R",
+   "state": "GA",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "J000311",
+   "chamber": "house",
+   "first": "Brian",
+   "last": "Jack",
+   "party": "R",
+   "state": "GA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "J000288",
+   "chamber": "house",
+   "first": "Henry C. \"Hank\"",
+   "last": "Johnson",
+   "party": "D",
+   "state": "GA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "W000788",
+   "chamber": "house",
+   "first": "Nikema",
+   "last": "Williams",
+   "party": "D",
+   "state": "GA",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "M001208",
+   "chamber": "house",
+   "first": "Lucy",
+   "last": "McBath",
+   "party": "D",
+   "state": "GA",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "B001312",
+   "chamber": "house",
+   "first": "Carolyn",
+   "last": "Bourdeaux",
+   "party": "D",
+   "state": "GA",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "M001218",
+   "chamber": "house",
+   "first": "Richard",
+   "last": "McCormick",
+   "party": "R",
+   "state": "GA",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "S001189",
+   "chamber": "house",
+   "first": "Austin",
+   "last": "Scott",
+   "party": "R",
+   "state": "GA",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "C001116",
+   "chamber": "house",
+   "first": "Andrew S.",
+   "last": "Clyde",
+   "party": "R",
+   "state": "GA",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "C001129",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Collins",
+   "party": "R",
+   "state": "GA",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "H001071",
+   "chamber": "house",
+   "first": "Jody B.",
+   "last": "Hice",
+   "party": "R",
+   "state": "GA",
+   "district": 10,
+   "current": false
+  },
+  {
+   "id": "L000583",
+   "chamber": "house",
+   "first": "Barry",
+   "last": "Loudermilk",
+   "party": "R",
+   "state": "GA",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "A000372",
+   "chamber": "house",
+   "first": "Rick W.",
+   "last": "Allen",
+   "party": "R",
+   "state": "GA",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "B001328",
+   "chamber": "house",
+   "first": "Everton",
+   "last": "Blair",
+   "party": "D",
+   "state": "GA",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "S001157",
+   "chamber": "house",
+   "first": "David",
+   "last": "Scott",
+   "party": "D",
+   "state": "GA",
+   "district": 13,
+   "current": false
+  },
+  {
+   "id": "F000485",
+   "chamber": "house",
+   "first": "Clay",
+   "last": "Fuller",
+   "party": "R",
+   "state": "GA",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "G000596",
+   "chamber": "house",
+   "first": "Marjorie Taylor",
+   "last": "Greene",
+   "party": "R",
+   "state": "GA",
+   "district": 14,
+   "current": false
+  },
+  {
+   "id": "S361",
+   "chamber": "senate",
+   "first": "Mazie",
+   "last": "Hirono",
+   "party": "D",
+   "state": "HI",
+   "current": true
+  },
+  {
+   "id": "S353",
+   "chamber": "senate",
+   "first": "Brian",
+   "last": "Schatz",
+   "party": "D",
+   "state": "HI",
+   "current": true
+  },
+  {
+   "id": "C001055",
+   "chamber": "house",
+   "first": "Ed",
+   "last": "Case",
+   "party": "D",
+   "state": "HI",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "K000396",
+   "chamber": "house",
+   "first": "Kaiali'i",
+   "last": "Kahele",
+   "party": "D",
+   "state": "HI",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "T000487",
+   "chamber": "house",
+   "first": "Jill N.",
+   "last": "Tokuda",
+   "party": "D",
+   "state": "HI",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S376",
+   "chamber": "senate",
+   "first": "Joni",
+   "last": "Ernst",
+   "party": "R",
+   "state": "IA",
+   "current": true
+  },
+  {
+   "id": "S153",
+   "chamber": "senate",
+   "first": "Chuck",
+   "last": "Grassley",
+   "party": "R",
+   "state": "IA",
+   "current": true
+  },
+  {
+   "id": "M001215",
+   "chamber": "house",
+   "first": "Mariannette",
+   "last": "Miller-Meeks",
+   "party": "R",
+   "state": "IA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "H001091",
+   "chamber": "house",
+   "first": "Ashley",
+   "last": "Hinson",
+   "party": "R",
+   "state": "IA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "A000378",
+   "chamber": "house",
+   "first": "Cynthia",
+   "last": "Axne",
+   "party": "D",
+   "state": "IA",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "N000193",
+   "chamber": "house",
+   "first": "Zachary",
+   "last": "Nunn",
+   "party": "R",
+   "state": "IA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "F000446",
+   "chamber": "house",
+   "first": "Randy",
+   "last": "Feenstra",
+   "party": "R",
+   "state": "IA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "S266",
+   "chamber": "senate",
+   "first": "Mike",
+   "last": "Crapo",
+   "party": "R",
+   "state": "ID",
+   "current": true
+  },
+  {
+   "id": "S323",
+   "chamber": "senate",
+   "first": "James ",
+   "last": "Risch",
+   "party": "R",
+   "state": "ID",
+   "current": true
+  },
+  {
+   "id": "F000469",
+   "chamber": "house",
+   "first": "Russ",
+   "last": "Fulcher",
+   "party": "R",
+   "state": "ID",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "S001148",
+   "chamber": "house",
+   "first": "Michael K.",
+   "last": "Simpson",
+   "party": "R",
+   "state": "ID",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S386",
+   "chamber": "senate",
+   "first": "Tammy",
+   "last": "Duckworth",
+   "party": "D",
+   "state": "IL",
+   "current": true
+  },
+  {
+   "id": "S253",
+   "chamber": "senate",
+   "first": "Richard",
+   "last": "Durbin",
+   "party": "D",
+   "state": "IL",
+   "current": true
+  },
+  {
+   "id": "J000309",
+   "chamber": "house",
+   "first": "Jonathan L.",
+   "last": "Jackson",
+   "party": "D",
+   "state": "IL",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "R000515",
+   "chamber": "house",
+   "first": "Bobby L.",
+   "last": "Rush",
+   "party": "D",
+   "state": "IL",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "K000385",
+   "chamber": "house",
+   "first": "Robin L.",
+   "last": "Kelly",
+   "party": "D",
+   "state": "IL",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "N000192",
+   "chamber": "house",
+   "first": "Marie",
+   "last": "Newman",
+   "party": "D",
+   "state": "IL",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "R000617",
+   "chamber": "house",
+   "first": "Delia C.",
+   "last": "Ramirez",
+   "party": "D",
+   "state": "IL",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "G000586",
+   "chamber": "house",
+   "first": "Jes\u00fas G. \"Chuy\"",
+   "last": "Garc\u00eda",
+   "party": "D",
+   "state": "IL",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "Q000023",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Quigley",
+   "party": "D",
+   "state": "IL",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "C001117",
+   "chamber": "house",
+   "first": "Sean",
+   "last": "Casten",
+   "party": "D",
+   "state": "IL",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "D000096",
+   "chamber": "house",
+   "first": "Danny K.",
+   "last": "Davis",
+   "party": "D",
+   "state": "IL",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "K000391",
+   "chamber": "house",
+   "first": "Raja",
+   "last": "Krishnamoorthi",
+   "party": "D",
+   "state": "IL",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S001145",
+   "chamber": "house",
+   "first": "Janice D.",
+   "last": "Schakowsky",
+   "party": "D",
+   "state": "IL",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "S001190",
+   "chamber": "house",
+   "first": "Bradley Scott",
+   "last": "Schneider",
+   "party": "D",
+   "state": "IL",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "F000454",
+   "chamber": "house",
+   "first": "Bill",
+   "last": "Foster",
+   "party": "D",
+   "state": "IL",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "B001295",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Bost",
+   "party": "R",
+   "state": "IL",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "B001315",
+   "chamber": "house",
+   "first": "Nikki",
+   "last": "Budzinski",
+   "party": "D",
+   "state": "IL",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "D000619",
+   "chamber": "house",
+   "first": "Rodney",
+   "last": "Davis",
+   "party": "R",
+   "state": "IL",
+   "district": 13,
+   "current": false
+  },
+  {
+   "id": "U000040",
+   "chamber": "house",
+   "first": "Lauren",
+   "last": "Underwood",
+   "party": "D",
+   "state": "IL",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "M001211",
+   "chamber": "house",
+   "first": "Mary E.",
+   "last": "Miller",
+   "party": "R",
+   "state": "IL",
+   "district": 15,
+   "current": true
+  },
+  {
+   "id": "K000378",
+   "chamber": "house",
+   "first": "Adam",
+   "last": "Kinzinger",
+   "party": "R",
+   "state": "IL",
+   "district": 16,
+   "current": false
+  },
+  {
+   "id": "L000585",
+   "chamber": "house",
+   "first": "Darin",
+   "last": "LaHood",
+   "party": "R",
+   "state": "IL",
+   "district": 16,
+   "current": true
+  },
+  {
+   "id": "B001286",
+   "chamber": "house",
+   "first": "Cheri",
+   "last": "Bustos",
+   "party": "D",
+   "state": "IL",
+   "district": 17,
+   "current": false
+  },
+  {
+   "id": "S001225",
+   "chamber": "house",
+   "first": "Eric",
+   "last": "Sorensen",
+   "party": "D",
+   "state": "IL",
+   "district": 17,
+   "current": true
+  },
+  {
+   "id": "S429",
+   "chamber": "senate",
+   "first": "Jim",
+   "last": "Banks",
+   "party": "R",
+   "state": "IN",
+   "current": true
+  },
+  {
+   "id": "S397",
+   "chamber": "senate",
+   "first": "Mike",
+   "last": "Braun",
+   "party": "R",
+   "state": "IN",
+   "current": false
+  },
+  {
+   "id": "S391",
+   "chamber": "senate",
+   "first": "Todd",
+   "last": "Young",
+   "party": "R",
+   "state": "IN",
+   "current": true
+  },
+  {
+   "id": "B001299",
+   "chamber": "house",
+   "first": "Jim",
+   "last": "Banks",
+   "party": "R",
+   "state": "IN",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "M001214",
+   "chamber": "house",
+   "first": "Frank J.",
+   "last": "Mrvan",
+   "party": "D",
+   "state": "IN",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "W000813",
+   "chamber": "house",
+   "first": "Jackie",
+   "last": "Walorski",
+   "party": "R",
+   "state": "IN",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "Y000067",
+   "chamber": "house",
+   "first": "Rudy",
+   "last": "Yakym",
+   "party": "R",
+   "state": "IN",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S001188",
+   "chamber": "house",
+   "first": "Marlin A.",
+   "last": "Stutzman",
+   "party": "R",
+   "state": "IN",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "B001307",
+   "chamber": "house",
+   "first": "James R.",
+   "last": "Baird",
+   "party": "R",
+   "state": "IN",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "S000929",
+   "chamber": "house",
+   "first": "Victoria",
+   "last": "Spartz",
+   "party": "R",
+   "state": "IN",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "P000615",
+   "chamber": "house",
+   "first": "Greg",
+   "last": "Pence",
+   "party": "R",
+   "state": "IN",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "S001229",
+   "chamber": "house",
+   "first": "Jefferson",
+   "last": "Shreve",
+   "party": "R",
+   "state": "IN",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "C001072",
+   "chamber": "house",
+   "first": "Andr\u00e9",
+   "last": "Carson",
+   "party": "D",
+   "state": "IN",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "B001275",
+   "chamber": "house",
+   "first": "Larry",
+   "last": "Bucshon",
+   "party": "R",
+   "state": "IN",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "M001233",
+   "chamber": "house",
+   "first": "Mark B.",
+   "last": "Messmer",
+   "party": "R",
+   "state": "IN",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "H001074",
+   "chamber": "house",
+   "first": "Trey",
+   "last": "Hollingsworth",
+   "party": "R",
+   "state": "IN",
+   "district": 9,
+   "current": false
+  },
+  {
+   "id": "H001093",
+   "chamber": "house",
+   "first": "Erin",
+   "last": "Houchin",
+   "party": "R",
+   "state": "IN",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "S411",
+   "chamber": "senate",
+   "first": "Roger",
+   "last": "Marshall",
+   "party": "R",
+   "state": "KS",
+   "current": true
+  },
+  {
+   "id": "S347",
+   "chamber": "senate",
+   "first": "Jerry",
+   "last": "Moran",
+   "party": "R",
+   "state": "KS",
+   "current": true
+  },
+  {
+   "id": "M000871",
+   "chamber": "house",
+   "first": "Tracey",
+   "last": "Mann",
+   "party": "R",
+   "state": "KS",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "L000266",
+   "chamber": "house",
+   "first": "Jake",
+   "last": "LaTurner",
+   "party": "R",
+   "state": "KS",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "S001228",
+   "chamber": "house",
+   "first": "Derek",
+   "last": "Schmidt",
+   "party": "R",
+   "state": "KS",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "D000629",
+   "chamber": "house",
+   "first": "Sharice",
+   "last": "Davids",
+   "party": "D",
+   "state": "KS",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "E000298",
+   "chamber": "house",
+   "first": "Ron",
+   "last": "Estes",
+   "party": "R",
+   "state": "KS",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "S174",
+   "chamber": "senate",
+   "first": "Mitch",
+   "last": "McConnell",
+   "party": "R",
+   "state": "KY",
+   "current": true
+  },
+  {
+   "id": "S348",
+   "chamber": "senate",
+   "first": "Rand",
+   "last": "Paul",
+   "party": "R",
+   "state": "KY",
+   "current": true
+  },
+  {
+   "id": "C001108",
+   "chamber": "house",
+   "first": "James",
+   "last": "Comer",
+   "party": "R",
+   "state": "KY",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "G000558",
+   "chamber": "house",
+   "first": "Brett",
+   "last": "Guthrie",
+   "party": "R",
+   "state": "KY",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "M001220",
+   "chamber": "house",
+   "first": "Morgan",
+   "last": "McGarvey",
+   "party": "D",
+   "state": "KY",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "Y000062",
+   "chamber": "house",
+   "first": "John A.",
+   "last": "Yarmuth",
+   "party": "D",
+   "state": "KY",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "M001184",
+   "chamber": "house",
+   "first": "Thomas",
+   "last": "Massie",
+   "party": "R",
+   "state": "KY",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "R000395",
+   "chamber": "house",
+   "first": "Harold",
+   "last": "Rogers",
+   "party": "R",
+   "state": "KY",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "B001282",
+   "chamber": "house",
+   "first": "Andy",
+   "last": "Barr",
+   "party": "R",
+   "state": "KY",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "S373",
+   "chamber": "senate",
+   "first": "Bill",
+   "last": "Cassidy",
+   "party": "R",
+   "state": "LA",
+   "current": true
+  },
+  {
+   "id": "S389",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Kennedy",
+   "party": "R",
+   "state": "LA",
+   "current": true
+  },
+  {
+   "id": "S001176",
+   "chamber": "house",
+   "first": "Steve",
+   "last": "Scalise",
+   "party": "R",
+   "state": "LA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "C001125",
+   "chamber": "house",
+   "first": "Troy A.",
+   "last": "Carter",
+   "party": "D",
+   "state": "LA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "R000588",
+   "chamber": "house",
+   "first": "Cedric L.",
+   "last": "Richmond",
+   "party": "D",
+   "state": "LA",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "H001077",
+   "chamber": "house",
+   "first": "Clay",
+   "last": "Higgins",
+   "party": "R",
+   "state": "LA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "J000299",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Johnson",
+   "party": "R",
+   "state": "LA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "L000595",
+   "chamber": "house",
+   "first": "Julia",
+   "last": "Letlow",
+   "party": "R",
+   "state": "LA",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "F000110",
+   "chamber": "house",
+   "first": "Cleo",
+   "last": "Fields",
+   "party": "D",
+   "state": "LA",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "G000577",
+   "chamber": "house",
+   "first": "Garret",
+   "last": "Graves",
+   "party": "R",
+   "state": "LA",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "S369",
+   "chamber": "senate",
+   "first": "Edward",
+   "last": "Markey",
+   "party": "D",
+   "state": "MA",
+   "current": true
+  },
+  {
+   "id": "S366",
+   "chamber": "senate",
+   "first": "Elizabeth",
+   "last": "Warren",
+   "party": "D",
+   "state": "MA",
+   "current": true
+  },
+  {
+   "id": "N000015",
+   "chamber": "house",
+   "first": "Richard E.",
+   "last": "Neal",
+   "party": "D",
+   "state": "MA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "M000312",
+   "chamber": "house",
+   "first": "James P.",
+   "last": "McGovern",
+   "party": "D",
+   "state": "MA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "T000482",
+   "chamber": "house",
+   "first": "Lori",
+   "last": "Trahan",
+   "party": "D",
+   "state": "MA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "A000148",
+   "chamber": "house",
+   "first": "Jake",
+   "last": "Auchincloss",
+   "party": "D",
+   "state": "MA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "C001101",
+   "chamber": "house",
+   "first": "Katherine M.",
+   "last": "Clark",
+   "party": "D",
+   "state": "MA",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "M001196",
+   "chamber": "house",
+   "first": "Seth",
+   "last": "Moulton",
+   "party": "D",
+   "state": "MA",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "P000617",
+   "chamber": "house",
+   "first": "Ayanna",
+   "last": "Pressley",
+   "party": "D",
+   "state": "MA",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "L000562",
+   "chamber": "house",
+   "first": "Stephen F.",
+   "last": "Lynch",
+   "party": "D",
+   "state": "MA",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "K000375",
+   "chamber": "house",
+   "first": "William R.",
+   "last": "Keating",
+   "party": "D",
+   "state": "MA",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "S428",
+   "chamber": "senate",
+   "first": "Angela",
+   "last": "Alsobrooks",
+   "party": "D",
+   "state": "MD",
+   "current": true
+  },
+  {
+   "id": "S308",
+   "chamber": "senate",
+   "first": "Ben",
+   "last": "Cardin",
+   "party": "D",
+   "state": "MD",
+   "current": false
+  },
+  {
+   "id": "S390",
+   "chamber": "senate",
+   "first": "Chris",
+   "last": "Van Hollen",
+   "party": "D",
+   "state": "MD",
+   "current": true
+  },
+  {
+   "id": "H001052",
+   "chamber": "house",
+   "first": "Andy",
+   "last": "Harris",
+   "party": "R",
+   "state": "MD",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "O000176",
+   "chamber": "house",
+   "first": "Johnny",
+   "last": "Olszewski",
+   "party": "D",
+   "state": "MD",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "R000576",
+   "chamber": "house",
+   "first": "C. A. Dutch",
+   "last": "Ruppersberger",
+   "party": "D",
+   "state": "MD",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "E000301",
+   "chamber": "house",
+   "first": "Sarah",
+   "last": "Elfreth",
+   "party": "D",
+   "state": "MD",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "S001168",
+   "chamber": "house",
+   "first": "John P.",
+   "last": "Sarbanes",
+   "party": "D",
+   "state": "MD",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "B001304",
+   "chamber": "house",
+   "first": "Anthony G.",
+   "last": "Brown",
+   "party": "D",
+   "state": "MD",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "I000058",
+   "chamber": "house",
+   "first": "Glenn",
+   "last": "Ivey",
+   "party": "D",
+   "state": "MD",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "H000874",
+   "chamber": "house",
+   "first": "Steny H.",
+   "last": "Hoyer",
+   "party": "D",
+   "state": "MD",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "M001232",
+   "chamber": "house",
+   "first": "April",
+   "last": "McClain Delaney",
+   "party": "D",
+   "state": "MD",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "T000483",
+   "chamber": "house",
+   "first": "David J.",
+   "last": "Trone",
+   "party": "D",
+   "state": "MD",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "M000687",
+   "chamber": "house",
+   "first": "Kweisi",
+   "last": "Mfume",
+   "party": "D",
+   "state": "MD",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "R000606",
+   "chamber": "house",
+   "first": "Jamie",
+   "last": "Raskin",
+   "party": "D",
+   "state": "MD",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S252",
+   "chamber": "senate",
+   "first": "Susan",
+   "last": "Collins",
+   "party": "R",
+   "state": "ME",
+   "current": true
+  },
+  {
+   "id": "S363",
+   "chamber": "senate",
+   "first": "Angus",
+   "last": "King",
+   "party": "I",
+   "state": "ME",
+   "current": true
+  },
+  {
+   "id": "P000597",
+   "chamber": "house",
+   "first": "Chellie",
+   "last": "Pingree",
+   "party": "D",
+   "state": "ME",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "G000592",
+   "chamber": "house",
+   "first": "Jared F.",
+   "last": "Golden",
+   "party": "D",
+   "state": "ME",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S380",
+   "chamber": "senate",
+   "first": "Gary",
+   "last": "Peters",
+   "party": "D",
+   "state": "MI",
+   "current": true
+  },
+  {
+   "id": "S436",
+   "chamber": "senate",
+   "first": "Elissa",
+   "last": "Slotkin",
+   "party": "D",
+   "state": "MI",
+   "current": true
+  },
+  {
+   "id": "S284",
+   "chamber": "senate",
+   "first": "Debbie",
+   "last": "Stabenow",
+   "party": "D",
+   "state": "MI",
+   "current": false
+  },
+  {
+   "id": "S001208",
+   "chamber": "house",
+   "first": "Elissa",
+   "last": "Slotkin",
+   "party": "D",
+   "state": "MI",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "B001301",
+   "chamber": "house",
+   "first": "Jack",
+   "last": "Bergman",
+   "party": "R",
+   "state": "MI",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "M001194",
+   "chamber": "house",
+   "first": "John R.",
+   "last": "Moolenaar",
+   "party": "R",
+   "state": "MI",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "M001186",
+   "chamber": "house",
+   "first": "Peter",
+   "last": "Meijer",
+   "party": "R",
+   "state": "MI",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "S001221",
+   "chamber": "house",
+   "first": "Hillary J.",
+   "last": "Scholten",
+   "party": "D",
+   "state": "MI",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "H001058",
+   "chamber": "house",
+   "first": "Bill",
+   "last": "Huizenga",
+   "party": "R",
+   "state": "MI",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "W000798",
+   "chamber": "house",
+   "first": "Tim",
+   "last": "Walberg",
+   "party": "R",
+   "state": "MI",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "D000624",
+   "chamber": "house",
+   "first": "Debbie",
+   "last": "Dingell",
+   "party": "D",
+   "state": "MI",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "U000031",
+   "chamber": "house",
+   "first": "Fred",
+   "last": "Upton",
+   "party": "R",
+   "state": "MI",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "B001321",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "Barrett",
+   "party": "R",
+   "state": "MI",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "K000380",
+   "chamber": "house",
+   "first": "Daniel T.",
+   "last": "Kildee",
+   "party": "D",
+   "state": "MI",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "M001237",
+   "chamber": "house",
+   "first": "Kristen",
+   "last": "McDonald Rivet",
+   "party": "D",
+   "state": "MI",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "L000592",
+   "chamber": "house",
+   "first": "Andy",
+   "last": "Levin",
+   "party": "D",
+   "state": "MI",
+   "district": 9,
+   "current": false
+  },
+  {
+   "id": "M001136",
+   "chamber": "house",
+   "first": "Lisa C.",
+   "last": "McClain",
+   "party": "R",
+   "state": "MI",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "J000307",
+   "chamber": "house",
+   "first": "John",
+   "last": "James",
+   "party": "R",
+   "state": "MI",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "S001215",
+   "chamber": "house",
+   "first": "Haley M.",
+   "last": "Stevens",
+   "party": "D",
+   "state": "MI",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "T000481",
+   "chamber": "house",
+   "first": "Rashida",
+   "last": "Tlaib",
+   "party": "D",
+   "state": "MI",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "T000488",
+   "chamber": "house",
+   "first": "Shri",
+   "last": "Thanedar",
+   "party": "D",
+   "state": "MI",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "L000581",
+   "chamber": "house",
+   "first": "Brenda L.",
+   "last": "Lawrence",
+   "party": "D",
+   "state": "MI",
+   "district": 14,
+   "current": false
+  },
+  {
+   "id": "S311",
+   "chamber": "senate",
+   "first": "Amy",
+   "last": "Klobuchar",
+   "party": "D",
+   "state": "MN",
+   "current": true
+  },
+  {
+   "id": "S394",
+   "chamber": "senate",
+   "first": "Tina",
+   "last": "Smith",
+   "party": "D",
+   "state": "MN",
+   "current": true
+  },
+  {
+   "id": "F000475",
+   "chamber": "house",
+   "first": "Brad",
+   "last": "Finstad",
+   "party": "R",
+   "state": "MN",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "H001088",
+   "chamber": "house",
+   "first": "Jim",
+   "last": "Hagedorn",
+   "party": "R",
+   "state": "MN",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "C001119",
+   "chamber": "house",
+   "first": "Angie",
+   "last": "Craig",
+   "party": "D",
+   "state": "MN",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "M001234",
+   "chamber": "house",
+   "first": "Kelly",
+   "last": "Morrison",
+   "party": "D",
+   "state": "MN",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "P000616",
+   "chamber": "house",
+   "first": "Dean",
+   "last": "Phillips",
+   "party": "D",
+   "state": "MN",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "M001143",
+   "chamber": "house",
+   "first": "Betty",
+   "last": "McCollum",
+   "party": "D",
+   "state": "MN",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "O000173",
+   "chamber": "house",
+   "first": "Ilhan",
+   "last": "Omar",
+   "party": "D",
+   "state": "MN",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "E000294",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "Emmer",
+   "party": "R",
+   "state": "MN",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "F000470",
+   "chamber": "house",
+   "first": "Michelle",
+   "last": "Fischbach",
+   "party": "R",
+   "state": "MN",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "S001212",
+   "chamber": "house",
+   "first": "Pete",
+   "last": "Stauber",
+   "party": "R",
+   "state": "MN",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S342",
+   "chamber": "senate",
+   "first": "Roy",
+   "last": "Blunt",
+   "party": "R",
+   "state": "MO",
+   "current": false
+  },
+  {
+   "id": "S399",
+   "chamber": "senate",
+   "first": "Josh",
+   "last": "Hawley",
+   "party": "R",
+   "state": "MO",
+   "current": true
+  },
+  {
+   "id": "S420",
+   "chamber": "senate",
+   "first": "Eric ",
+   "last": "Schmitt",
+   "party": "R",
+   "state": "MO",
+   "current": true
+  },
+  {
+   "id": "B001324",
+   "chamber": "house",
+   "first": "Wesley",
+   "last": "Bell",
+   "party": "D",
+   "state": "MO",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "B001224",
+   "chamber": "house",
+   "first": "Cori",
+   "last": "Bush",
+   "party": "D",
+   "state": "MO",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "W000812",
+   "chamber": "house",
+   "first": "Ann",
+   "last": "Wagner",
+   "party": "R",
+   "state": "MO",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "L000569",
+   "chamber": "house",
+   "first": "Blaine",
+   "last": "Luetkemeyer",
+   "party": "R",
+   "state": "MO",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "O000177",
+   "chamber": "house",
+   "first": "Robert F.",
+   "last": "Onder",
+   "party": "R",
+   "state": "MO",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "A000379",
+   "chamber": "house",
+   "first": "Mark",
+   "last": "Alford",
+   "party": "R",
+   "state": "MO",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "H001053",
+   "chamber": "house",
+   "first": "Vicky",
+   "last": "Hartzler",
+   "party": "R",
+   "state": "MO",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "C001061",
+   "chamber": "house",
+   "first": "Emanuel",
+   "last": "Cleaver",
+   "party": "D",
+   "state": "MO",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "G000546",
+   "chamber": "house",
+   "first": "Sam",
+   "last": "Graves",
+   "party": "R",
+   "state": "MO",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "B001316",
+   "chamber": "house",
+   "first": "Eric",
+   "last": "Burlison",
+   "party": "R",
+   "state": "MO",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "L000576",
+   "chamber": "house",
+   "first": "Billy",
+   "last": "Long",
+   "party": "R",
+   "state": "MO",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "S001195",
+   "chamber": "house",
+   "first": "Jason",
+   "last": "Smith",
+   "party": "R",
+   "state": "MO",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S395",
+   "chamber": "senate",
+   "first": "Cindy",
+   "last": "Hyde-Smith",
+   "party": "R",
+   "state": "MS",
+   "current": true
+  },
+  {
+   "id": "S318",
+   "chamber": "senate",
+   "first": "Roger",
+   "last": "Wicker",
+   "party": "R",
+   "state": "MS",
+   "current": true
+  },
+  {
+   "id": "K000388",
+   "chamber": "house",
+   "first": "Trent",
+   "last": "Kelly",
+   "party": "R",
+   "state": "MS",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "T000193",
+   "chamber": "house",
+   "first": "Bennie G.",
+   "last": "Thompson",
+   "party": "D",
+   "state": "MS",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "G000591",
+   "chamber": "house",
+   "first": "Michael",
+   "last": "Guest",
+   "party": "R",
+   "state": "MS",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "E000235",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Ezell",
+   "party": "R",
+   "state": "MS",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "P000601",
+   "chamber": "house",
+   "first": "Steven M.",
+   "last": "Palazzo",
+   "party": "R",
+   "state": "MS",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "S375",
+   "chamber": "senate",
+   "first": "Steve",
+   "last": "Daines",
+   "party": "R",
+   "state": "MT",
+   "current": true
+  },
+  {
+   "id": "S435",
+   "chamber": "senate",
+   "first": "Tim",
+   "last": "Sheehy",
+   "party": "R",
+   "state": "MT",
+   "current": true
+  },
+  {
+   "id": "S314",
+   "chamber": "senate",
+   "first": "Jon",
+   "last": "Tester",
+   "party": "D",
+   "state": "MT",
+   "current": false
+  },
+  {
+   "id": "Z000018",
+   "chamber": "house",
+   "first": "Ryan K.",
+   "last": "Zinke",
+   "party": "R",
+   "state": "MT",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "D000634",
+   "chamber": "house",
+   "first": "Troy",
+   "last": "Downing",
+   "party": "R",
+   "state": "MT",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "R000103",
+   "chamber": "house",
+   "first": "Matthew M.",
+   "last": "Rosendale",
+   "party": "R",
+   "state": "MT",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "S417",
+   "chamber": "senate",
+   "first": "Ted",
+   "last": "Budd",
+   "party": "R",
+   "state": "NC",
+   "current": true
+  },
+  {
+   "id": "S300",
+   "chamber": "senate",
+   "first": "Richard",
+   "last": "Burr",
+   "party": "R",
+   "state": "NC",
+   "current": false
+  },
+  {
+   "id": "S384",
+   "chamber": "senate",
+   "first": "Thomas",
+   "last": "Tillis",
+   "party": "R",
+   "state": "NC",
+   "current": true
+  },
+  {
+   "id": "B001305",
+   "chamber": "house",
+   "first": "Ted",
+   "last": "Budd",
+   "party": "R",
+   "state": "NC",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "B001251",
+   "chamber": "house",
+   "first": "G. K.",
+   "last": "Butterfield",
+   "party": "D",
+   "state": "NC",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "D000230",
+   "chamber": "house",
+   "first": "Donald G.",
+   "last": "Davis",
+   "party": "D",
+   "state": "NC",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "R000305",
+   "chamber": "house",
+   "first": "Deborah K.",
+   "last": "Ross",
+   "party": "D",
+   "state": "NC",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "M001210",
+   "chamber": "house",
+   "first": "Gregory F.",
+   "last": "Murphy",
+   "party": "R",
+   "state": "NC",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "F000477",
+   "chamber": "house",
+   "first": "Valerie P.",
+   "last": "Foushee",
+   "party": "D",
+   "state": "NC",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "P000523",
+   "chamber": "house",
+   "first": "David E.",
+   "last": "Price",
+   "party": "D",
+   "state": "NC",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "F000450",
+   "chamber": "house",
+   "first": "Virginia",
+   "last": "Foxx",
+   "party": "R",
+   "state": "NC",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "M001135",
+   "chamber": "house",
+   "first": "Kathy E.",
+   "last": "Manning",
+   "party": "D",
+   "state": "NC",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "M001240",
+   "chamber": "house",
+   "first": "Addison P.",
+   "last": "McDowell",
+   "party": "R",
+   "state": "NC",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "R000603",
+   "chamber": "house",
+   "first": "David",
+   "last": "Rouzer",
+   "party": "R",
+   "state": "NC",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "B001311",
+   "chamber": "house",
+   "first": "Dan",
+   "last": "Bishop",
+   "party": "R",
+   "state": "NC",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "H001102",
+   "chamber": "house",
+   "first": "Mark",
+   "last": "Harris",
+   "party": "R",
+   "state": "NC",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "H001067",
+   "chamber": "house",
+   "first": "Richard",
+   "last": "Hudson",
+   "party": "R",
+   "state": "NC",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "H001101",
+   "chamber": "house",
+   "first": "Pat",
+   "last": "Harrigan",
+   "party": "R",
+   "state": "NC",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "M001156",
+   "chamber": "house",
+   "first": "Patrick T.",
+   "last": "McHenry",
+   "party": "R",
+   "state": "NC",
+   "district": 10,
+   "current": false
+  },
+  {
+   "id": "C001104",
+   "chamber": "house",
+   "first": "Madison",
+   "last": "Cawthorn",
+   "party": "R",
+   "state": "NC",
+   "district": 11,
+   "current": false
+  },
+  {
+   "id": "E000246",
+   "chamber": "house",
+   "first": "Chuck",
+   "last": "Edwards",
+   "party": "R",
+   "state": "NC",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "A000370",
+   "chamber": "house",
+   "first": "Alma S.",
+   "last": "Adams",
+   "party": "D",
+   "state": "NC",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "K000405",
+   "chamber": "house",
+   "first": "Brad",
+   "last": "Knott",
+   "party": "R",
+   "state": "NC",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "N000194",
+   "chamber": "house",
+   "first": "Wiley",
+   "last": "Nickel",
+   "party": "D",
+   "state": "NC",
+   "district": 13,
+   "current": false
+  },
+  {
+   "id": "J000308",
+   "chamber": "house",
+   "first": "Jeff",
+   "last": "Jackson",
+   "party": "D",
+   "state": "NC",
+   "district": 14,
+   "current": false
+  },
+  {
+   "id": "M001236",
+   "chamber": "house",
+   "first": "Tim",
+   "last": "Moore",
+   "party": "R",
+   "state": "NC",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "S398",
+   "chamber": "senate",
+   "first": "Kevin",
+   "last": "Cramer",
+   "party": "R",
+   "state": "ND",
+   "current": true
+  },
+  {
+   "id": "S344",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Hoeven",
+   "party": "R",
+   "state": "ND",
+   "current": true
+  },
+  {
+   "id": "A000377",
+   "chamber": "house",
+   "first": "Kelly",
+   "last": "Armstrong",
+   "party": "R",
+   "state": "ND",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "F000482",
+   "chamber": "house",
+   "first": "Julie",
+   "last": "Fedorchak",
+   "party": "R",
+   "state": "ND",
+   "district": 0,
+   "current": true
+  },
+  {
+   "id": "S357",
+   "chamber": "senate",
+   "first": "Deb",
+   "last": "Fischer",
+   "party": "R",
+   "state": "NE",
+   "current": true
+  },
+  {
+   "id": "S423",
+   "chamber": "senate",
+   "first": "Pete",
+   "last": "Ricketts",
+   "party": "R",
+   "state": "NE",
+   "current": true
+  },
+  {
+   "id": "S382",
+   "chamber": "senate",
+   "first": "Ben",
+   "last": "Sasse",
+   "party": "R",
+   "state": "NE",
+   "current": false
+  },
+  {
+   "id": "F000474",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Flood",
+   "party": "R",
+   "state": "NE",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "F000449",
+   "chamber": "house",
+   "first": "Jeff",
+   "last": "Fortenberry",
+   "party": "R",
+   "state": "NE",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "B001298",
+   "chamber": "house",
+   "first": "Don",
+   "last": "Bacon",
+   "party": "R",
+   "state": "NE",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S001172",
+   "chamber": "house",
+   "first": "Adrian",
+   "last": "Smith",
+   "party": "R",
+   "state": "NE",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "S388",
+   "chamber": "senate",
+   "first": "Maggie",
+   "last": "Hassan",
+   "party": "D",
+   "state": "NH",
+   "current": true
+  },
+  {
+   "id": "S324",
+   "chamber": "senate",
+   "first": "Jeanne",
+   "last": "Shaheen",
+   "party": "D",
+   "state": "NH",
+   "current": true
+  },
+  {
+   "id": "P000614",
+   "chamber": "house",
+   "first": "Chris",
+   "last": "Pappas",
+   "party": "D",
+   "state": "NH",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "G000604",
+   "chamber": "house",
+   "first": "Maggie",
+   "last": "Goodlander",
+   "party": "D",
+   "state": "NH",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "K000382",
+   "chamber": "house",
+   "first": "Ann M.",
+   "last": "Kuster",
+   "party": "D",
+   "state": "NH",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "S370",
+   "chamber": "senate",
+   "first": "Cory",
+   "last": "Booker",
+   "party": "D",
+   "state": "NJ",
+   "current": true
+  },
+  {
+   "id": "S425",
+   "chamber": "senate",
+   "first": "George",
+   "last": "Helmy",
+   "party": "D",
+   "state": "NJ",
+   "current": false
+  },
+  {
+   "id": "S426",
+   "chamber": "senate",
+   "first": "Andy",
+   "last": "Kim",
+   "party": "D",
+   "state": "NJ",
+   "current": true
+  },
+  {
+   "id": "S306",
+   "chamber": "senate",
+   "first": "Robert",
+   "last": "Menendez",
+   "party": "D",
+   "state": "NJ",
+   "current": false
+  },
+  {
+   "id": "K000394",
+   "chamber": "house",
+   "first": "Andy",
+   "last": "Kim",
+   "party": "D",
+   "state": "NJ",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "N000188",
+   "chamber": "house",
+   "first": "Donald",
+   "last": "Norcross",
+   "party": "D",
+   "state": "NJ",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "V000133",
+   "chamber": "house",
+   "first": "Jefferson",
+   "last": "Van Drew",
+   "party": "R",
+   "state": "NJ",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "C001136",
+   "chamber": "house",
+   "first": "Herbert C.",
+   "last": "Conaway",
+   "party": "D",
+   "state": "NJ",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "S000522",
+   "chamber": "house",
+   "first": "Christopher H.",
+   "last": "Smith",
+   "party": "R",
+   "state": "NJ",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "G000583",
+   "chamber": "house",
+   "first": "Josh",
+   "last": "Gottheimer",
+   "party": "D",
+   "state": "NJ",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "P000034",
+   "chamber": "house",
+   "first": "Frank",
+   "last": "Pallone",
+   "party": "D",
+   "state": "NJ",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "K000398",
+   "chamber": "house",
+   "first": "Thomas H.",
+   "last": "Kean",
+   "party": "R",
+   "state": "NJ",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "M001203",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "Malinowski",
+   "party": "D",
+   "state": "NJ",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "M001226",
+   "chamber": "house",
+   "first": "Robert",
+   "last": "Menendez",
+   "party": "D",
+   "state": "NJ",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S001165",
+   "chamber": "house",
+   "first": "Albio",
+   "last": "Sires",
+   "party": "D",
+   "state": "NJ",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "P000096",
+   "chamber": "house",
+   "first": "Bill",
+   "last": "Pascrell",
+   "party": "D",
+   "state": "NJ",
+   "district": 9,
+   "current": false
+  },
+  {
+   "id": "P000621",
+   "chamber": "house",
+   "first": "Nellie",
+   "last": "Pou",
+   "party": "D",
+   "state": "NJ",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "M001229",
+   "chamber": "house",
+   "first": "LaMonica",
+   "last": "McIver",
+   "party": "D",
+   "state": "NJ",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "P000604",
+   "chamber": "house",
+   "first": "Donald M.",
+   "last": "Payne",
+   "party": "D",
+   "state": "NJ",
+   "district": 10,
+   "current": false
+  },
+  {
+   "id": "M001246",
+   "chamber": "house",
+   "first": "Analilia",
+   "last": "Mejia",
+   "party": "D",
+   "state": "NJ",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "S001207",
+   "chamber": "house",
+   "first": "Mikie",
+   "last": "Sherrill",
+   "party": "D",
+   "state": "NJ",
+   "district": 11,
+   "current": false
+  },
+  {
+   "id": "W000822",
+   "chamber": "house",
+   "first": "Bonnie",
+   "last": "Watson Coleman",
+   "party": "D",
+   "state": "NJ",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "S359",
+   "chamber": "senate",
+   "first": "Martin",
+   "last": "Heinrich",
+   "party": "D",
+   "state": "NM",
+   "current": true
+  },
+  {
+   "id": "S409",
+   "chamber": "senate",
+   "first": "Ben",
+   "last": "Lujan",
+   "party": "D",
+   "state": "NM",
+   "current": true
+  },
+  {
+   "id": "H001080",
+   "chamber": "house",
+   "first": "Debra A.",
+   "last": "Haaland",
+   "party": "D",
+   "state": "NM",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "S001218",
+   "chamber": "house",
+   "first": "Melanie A.",
+   "last": "Stansbury",
+   "party": "D",
+   "state": "NM",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "H001084",
+   "chamber": "house",
+   "first": "Yvette",
+   "last": "Herrell",
+   "party": "R",
+   "state": "NM",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "V000136",
+   "chamber": "house",
+   "first": "Gabe",
+   "last": "Vasquez",
+   "party": "D",
+   "state": "NM",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "L000273",
+   "chamber": "house",
+   "first": "Teresa",
+   "last": "Leger Fernandez",
+   "party": "D",
+   "state": "NM",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "S385",
+   "chamber": "senate",
+   "first": "Catherine",
+   "last": "Cortez Masto",
+   "party": "D",
+   "state": "NV",
+   "current": true
+  },
+  {
+   "id": "S402",
+   "chamber": "senate",
+   "first": "Jacky",
+   "last": "Rosen",
+   "party": "D",
+   "state": "NV",
+   "current": true
+  },
+  {
+   "id": "T000468",
+   "chamber": "house",
+   "first": "Dina",
+   "last": "Titus",
+   "party": "D",
+   "state": "NV",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "A000369",
+   "chamber": "house",
+   "first": "Mark E.",
+   "last": "Amodei",
+   "party": "R",
+   "state": "NV",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "L000590",
+   "chamber": "house",
+   "first": "Susie",
+   "last": "Lee",
+   "party": "D",
+   "state": "NV",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "H001066",
+   "chamber": "house",
+   "first": "Steven",
+   "last": "Horsford",
+   "party": "D",
+   "state": "NV",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "S331",
+   "chamber": "senate",
+   "first": "Kirsten",
+   "last": "Gillibrand",
+   "party": "D",
+   "state": "NY",
+   "current": true
+  },
+  {
+   "id": "S270",
+   "chamber": "senate",
+   "first": "Charles",
+   "last": "Schumer",
+   "party": "D",
+   "state": "NY",
+   "current": true
+  },
+  {
+   "id": "L000598",
+   "chamber": "house",
+   "first": "Nick",
+   "last": "LaLota",
+   "party": "R",
+   "state": "NY",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "Z000017",
+   "chamber": "house",
+   "first": "Lee M.",
+   "last": "Zeldin",
+   "party": "R",
+   "state": "NY",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "G000597",
+   "chamber": "house",
+   "first": "Andrew R.",
+   "last": "Garbarino",
+   "party": "R",
+   "state": "NY",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S001222",
+   "chamber": "house",
+   "first": "George",
+   "last": "Santos",
+   "party": "R",
+   "state": "NY",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "S001201",
+   "chamber": "house",
+   "first": "Thomas R.",
+   "last": "Suozzi",
+   "party": "D",
+   "state": "NY",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "D000632",
+   "chamber": "house",
+   "first": "Anthony",
+   "last": "D'Esposito",
+   "party": "R",
+   "state": "NY",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "G000602",
+   "chamber": "house",
+   "first": "Laura",
+   "last": "Gillen",
+   "party": "D",
+   "state": "NY",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "R000602",
+   "chamber": "house",
+   "first": "Kathleen M.",
+   "last": "Rice",
+   "party": "D",
+   "state": "NY",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "M001137",
+   "chamber": "house",
+   "first": "Gregory W.",
+   "last": "Meeks",
+   "party": "D",
+   "state": "NY",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "M001188",
+   "chamber": "house",
+   "first": "Grace",
+   "last": "Meng",
+   "party": "D",
+   "state": "NY",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "V000081",
+   "chamber": "house",
+   "first": "Nydia M.",
+   "last": "Vel\u00e1zquez",
+   "party": "D",
+   "state": "NY",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "J000294",
+   "chamber": "house",
+   "first": "Hakeem S.",
+   "last": "Jeffries",
+   "party": "D",
+   "state": "NY",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "C001067",
+   "chamber": "house",
+   "first": "Yvette D.",
+   "last": "Clarke",
+   "party": "D",
+   "state": "NY",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "G000599",
+   "chamber": "house",
+   "first": "Daniel S.",
+   "last": "Goldman",
+   "party": "D",
+   "state": "NY",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "M000317",
+   "chamber": "house",
+   "first": "Nicole",
+   "last": "Malliotakis",
+   "party": "R",
+   "state": "NY",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "M000087",
+   "chamber": "house",
+   "first": "Carolyn B.",
+   "last": "Maloney",
+   "party": "D",
+   "state": "NY",
+   "district": 12,
+   "current": false
+  },
+  {
+   "id": "N000002",
+   "chamber": "house",
+   "first": "Jerrold",
+   "last": "Nadler",
+   "party": "D",
+   "state": "NY",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "E000297",
+   "chamber": "house",
+   "first": "Adriano",
+   "last": "Espaillat",
+   "party": "D",
+   "state": "NY",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "O000172",
+   "chamber": "house",
+   "first": "Alexandria",
+   "last": "Ocasio-Cortez",
+   "party": "D",
+   "state": "NY",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "T000486",
+   "chamber": "house",
+   "first": "Ritchie",
+   "last": "Torres",
+   "party": "D",
+   "state": "NY",
+   "district": 15,
+   "current": true
+  },
+  {
+   "id": "B001223",
+   "chamber": "house",
+   "first": "Jamaal",
+   "last": "Bowman",
+   "party": "D",
+   "state": "NY",
+   "district": 16,
+   "current": false
+  },
+  {
+   "id": "L000606",
+   "chamber": "house",
+   "first": "George",
+   "last": "Latimer",
+   "party": "D",
+   "state": "NY",
+   "district": 16,
+   "current": true
+  },
+  {
+   "id": "J000306",
+   "chamber": "house",
+   "first": "Mondaire",
+   "last": "Jones",
+   "party": "D",
+   "state": "NY",
+   "district": 17,
+   "current": false
+  },
+  {
+   "id": "L000599",
+   "chamber": "house",
+   "first": "Michael",
+   "last": "Lawler",
+   "party": "R",
+   "state": "NY",
+   "district": 17,
+   "current": true
+  },
+  {
+   "id": "M001185",
+   "chamber": "house",
+   "first": "Sean Patrick",
+   "last": "Maloney",
+   "party": "D",
+   "state": "NY",
+   "district": 18,
+   "current": false
+  },
+  {
+   "id": "R000579",
+   "chamber": "house",
+   "first": "Patrick",
+   "last": "Ryan",
+   "party": "D",
+   "state": "NY",
+   "district": 18,
+   "current": true
+  },
+  {
+   "id": "D000630",
+   "chamber": "house",
+   "first": "Antonio",
+   "last": "Delgado",
+   "party": "D",
+   "state": "NY",
+   "district": 19,
+   "current": false
+  },
+  {
+   "id": "M001221",
+   "chamber": "house",
+   "first": "Marcus J.",
+   "last": "Molinaro",
+   "party": "R",
+   "state": "NY",
+   "district": 19,
+   "current": false
+  },
+  {
+   "id": "R000622",
+   "chamber": "house",
+   "first": "Josh",
+   "last": "Riley",
+   "party": "D",
+   "state": "NY",
+   "district": 19,
+   "current": true
+  },
+  {
+   "id": "T000469",
+   "chamber": "house",
+   "first": "Paul",
+   "last": "Tonko",
+   "party": "D",
+   "state": "NY",
+   "district": 20,
+   "current": true
+  },
+  {
+   "id": "S001196",
+   "chamber": "house",
+   "first": "Elise M.",
+   "last": "Stefanik",
+   "party": "R",
+   "state": "NY",
+   "district": 21,
+   "current": true
+  },
+  {
+   "id": "M001231",
+   "chamber": "house",
+   "first": "John W.",
+   "last": "Mannion",
+   "party": "D",
+   "state": "NY",
+   "district": 22,
+   "current": true
+  },
+  {
+   "id": "W000828",
+   "chamber": "house",
+   "first": "Brandon",
+   "last": "Williams",
+   "party": "R",
+   "state": "NY",
+   "district": 22,
+   "current": false
+  },
+  {
+   "id": "L000600",
+   "chamber": "house",
+   "first": "Nicholas A.",
+   "last": "Langworthy",
+   "party": "R",
+   "state": "NY",
+   "district": 23,
+   "current": true
+  },
+  {
+   "id": "R000585",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "Reed",
+   "party": "R",
+   "state": "NY",
+   "district": 23,
+   "current": false
+  },
+  {
+   "id": "S001219",
+   "chamber": "house",
+   "first": "Joseph",
+   "last": "Sempolinski",
+   "party": "R",
+   "state": "NY",
+   "district": 23,
+   "current": false
+  },
+  {
+   "id": "K000386",
+   "chamber": "house",
+   "first": "John",
+   "last": "Katko",
+   "party": "R",
+   "state": "NY",
+   "district": 24,
+   "current": false
+  },
+  {
+   "id": "T000478",
+   "chamber": "house",
+   "first": "Claudia",
+   "last": "Tenney",
+   "party": "R",
+   "state": "NY",
+   "district": 24,
+   "current": true
+  },
+  {
+   "id": "M001206",
+   "chamber": "house",
+   "first": "Joseph D.",
+   "last": "Morelle",
+   "party": "D",
+   "state": "NY",
+   "district": 25,
+   "current": true
+  },
+  {
+   "id": "H001038",
+   "chamber": "house",
+   "first": "Brian",
+   "last": "Higgins",
+   "party": "D",
+   "state": "NY",
+   "district": 26,
+   "current": false
+  },
+  {
+   "id": "K000402",
+   "chamber": "house",
+   "first": "Timothy M.",
+   "last": "Kennedy",
+   "party": "D",
+   "state": "NY",
+   "district": 26,
+   "current": true
+  },
+  {
+   "id": "J000020",
+   "chamber": "house",
+   "first": "Chris",
+   "last": "Jacobs",
+   "party": "R",
+   "state": "NY",
+   "district": 27,
+   "current": false
+  },
+  {
+   "id": "S307",
+   "chamber": "senate",
+   "first": "Sherrod ",
+   "last": "Brown",
+   "party": "D",
+   "state": "OH",
+   "current": false
+  },
+  {
+   "id": "S438",
+   "chamber": "senate",
+   "first": "Jon",
+   "last": "Husted",
+   "party": "R",
+   "state": "OH",
+   "current": true
+  },
+  {
+   "id": "S434",
+   "chamber": "senate",
+   "first": "Bernie",
+   "last": "Moreno",
+   "party": "R",
+   "state": "OH",
+   "current": true
+  },
+  {
+   "id": "S349",
+   "chamber": "senate",
+   "first": "Rob",
+   "last": "Portman",
+   "party": "R",
+   "state": "OH",
+   "current": false
+  },
+  {
+   "id": "S421",
+   "chamber": "senate",
+   "first": "J.",
+   "last": "Vance",
+   "party": "R",
+   "state": "OH",
+   "current": false
+  },
+  {
+   "id": "C000266",
+   "chamber": "house",
+   "first": "Steve",
+   "last": "Chabot",
+   "party": "R",
+   "state": "OH",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "L000601",
+   "chamber": "house",
+   "first": "Greg",
+   "last": "Landsman",
+   "party": "D",
+   "state": "OH",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "T000490",
+   "chamber": "house",
+   "first": "David J.",
+   "last": "Taylor",
+   "party": "R",
+   "state": "OH",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "W000815",
+   "chamber": "house",
+   "first": "Brad R.",
+   "last": "Wenstrup",
+   "party": "R",
+   "state": "OH",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "B001281",
+   "chamber": "house",
+   "first": "Joyce",
+   "last": "Beatty",
+   "party": "D",
+   "state": "OH",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "J000289",
+   "chamber": "house",
+   "first": "Jim",
+   "last": "Jordan",
+   "party": "R",
+   "state": "OH",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "L000566",
+   "chamber": "house",
+   "first": "Robert E.",
+   "last": "Latta",
+   "party": "R",
+   "state": "OH",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "J000292",
+   "chamber": "house",
+   "first": "Bill",
+   "last": "Johnson",
+   "party": "R",
+   "state": "OH",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "R000619",
+   "chamber": "house",
+   "first": "Michael A.",
+   "last": "Rulli",
+   "party": "R",
+   "state": "OH",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "G000563",
+   "chamber": "house",
+   "first": "Bob",
+   "last": "Gibbs",
+   "party": "R",
+   "state": "OH",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "M001222",
+   "chamber": "house",
+   "first": "Max L.",
+   "last": "Miller",
+   "party": "R",
+   "state": "OH",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "D000626",
+   "chamber": "house",
+   "first": "Warren",
+   "last": "Davidson",
+   "party": "R",
+   "state": "OH",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "K000009",
+   "chamber": "house",
+   "first": "Marcy",
+   "last": "Kaptur",
+   "party": "D",
+   "state": "OH",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "T000463",
+   "chamber": "house",
+   "first": "Michael R.",
+   "last": "Turner",
+   "party": "R",
+   "state": "OH",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "B001313",
+   "chamber": "house",
+   "first": "Shontel M.",
+   "last": "Brown",
+   "party": "D",
+   "state": "OH",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "F000455",
+   "chamber": "house",
+   "first": "Marcia L.",
+   "last": "Fudge",
+   "party": "D",
+   "state": "OH",
+   "district": 11,
+   "current": false
+  },
+  {
+   "id": "B001306",
+   "chamber": "house",
+   "first": "Troy",
+   "last": "Balderson",
+   "party": "R",
+   "state": "OH",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "R000577",
+   "chamber": "house",
+   "first": "Tim",
+   "last": "Ryan",
+   "party": "D",
+   "state": "OH",
+   "district": 13,
+   "current": false
+  },
+  {
+   "id": "S001223",
+   "chamber": "house",
+   "first": "Emilia Strong",
+   "last": "Sykes",
+   "party": "D",
+   "state": "OH",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "J000295",
+   "chamber": "house",
+   "first": "David P.",
+   "last": "Joyce",
+   "party": "R",
+   "state": "OH",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "C001126",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Carey",
+   "party": "R",
+   "state": "OH",
+   "district": 15,
+   "current": true
+  },
+  {
+   "id": "S001187",
+   "chamber": "house",
+   "first": "Steve",
+   "last": "Stivers",
+   "party": "R",
+   "state": "OH",
+   "district": 15,
+   "current": false
+  },
+  {
+   "id": "G000588",
+   "chamber": "house",
+   "first": "Anthony",
+   "last": "Gonzalez",
+   "party": "R",
+   "state": "OH",
+   "district": 16,
+   "current": false
+  },
+  {
+   "id": "S440",
+   "chamber": "senate",
+   "first": "Alan",
+   "last": "Armstrong",
+   "party": "R",
+   "state": "OK",
+   "current": true
+  },
+  {
+   "id": "S236",
+   "chamber": "senate",
+   "first": "Jim",
+   "last": "Inhofe",
+   "party": "R",
+   "state": "OK",
+   "current": false
+  },
+  {
+   "id": "S378",
+   "chamber": "senate",
+   "first": "James",
+   "last": "Lankford",
+   "party": "R",
+   "state": "OK",
+   "current": true
+  },
+  {
+   "id": "S419",
+   "chamber": "senate",
+   "first": "Markwayne",
+   "last": "Mullin",
+   "party": "R",
+   "state": "OK",
+   "current": false
+  },
+  {
+   "id": "M001190",
+   "chamber": "house",
+   "first": "Markwayne",
+   "last": "Mullin",
+   "party": "R",
+   "state": "OK",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "H001082",
+   "chamber": "house",
+   "first": "Kevin",
+   "last": "Hern",
+   "party": "R",
+   "state": "OK",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "B001317",
+   "chamber": "house",
+   "first": "Josh",
+   "last": "Brecheen",
+   "party": "R",
+   "state": "OK",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "L000491",
+   "chamber": "house",
+   "first": "Frank D.",
+   "last": "Lucas",
+   "party": "R",
+   "state": "OK",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "C001053",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "Cole",
+   "party": "R",
+   "state": "OK",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "B000740",
+   "chamber": "house",
+   "first": "Stephanie I.",
+   "last": "Bice",
+   "party": "R",
+   "state": "OK",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "S322",
+   "chamber": "senate",
+   "first": "Jeff",
+   "last": "Merkley",
+   "party": "D",
+   "state": "OR",
+   "current": true
+  },
+  {
+   "id": "S247",
+   "chamber": "senate",
+   "first": "Ron",
+   "last": "Wyden",
+   "party": "D",
+   "state": "OR",
+   "current": true
+  },
+  {
+   "id": "B001278",
+   "chamber": "house",
+   "first": "Suzanne",
+   "last": "Bonamici",
+   "party": "D",
+   "state": "OR",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "B000668",
+   "chamber": "house",
+   "first": "Cliff",
+   "last": "Bentz",
+   "party": "R",
+   "state": "OR",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "B000574",
+   "chamber": "house",
+   "first": "Earl",
+   "last": "Blumenauer",
+   "party": "D",
+   "state": "OR",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "D000635",
+   "chamber": "house",
+   "first": "Maxine",
+   "last": "Dexter",
+   "party": "D",
+   "state": "OR",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "D000191",
+   "chamber": "house",
+   "first": "Peter A.",
+   "last": "DeFazio",
+   "party": "D",
+   "state": "OR",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "H001094",
+   "chamber": "house",
+   "first": "Val T.",
+   "last": "Hoyle",
+   "party": "D",
+   "state": "OR",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "B001326",
+   "chamber": "house",
+   "first": "Janelle S.",
+   "last": "Bynum",
+   "party": "D",
+   "state": "OR",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "C001135",
+   "chamber": "house",
+   "first": "Lori",
+   "last": "Chavez-DeRemer",
+   "party": "R",
+   "state": "OR",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "S001180",
+   "chamber": "house",
+   "first": "Kurt",
+   "last": "Schrader",
+   "party": "D",
+   "state": "OR",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "S001226",
+   "chamber": "house",
+   "first": "Andrea",
+   "last": "Salinas",
+   "party": "D",
+   "state": "OR",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "S309",
+   "chamber": "senate",
+   "first": "Bob",
+   "last": "Casey",
+   "party": "D",
+   "state": "PA",
+   "current": false
+  },
+  {
+   "id": "S418",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Fetterman",
+   "party": "D",
+   "state": "PA",
+   "current": true
+  },
+  {
+   "id": "S433",
+   "chamber": "senate",
+   "first": "David",
+   "last": "McCormick",
+   "party": "R",
+   "state": "PA",
+   "current": true
+  },
+  {
+   "id": "S351",
+   "chamber": "senate",
+   "first": "Patrick",
+   "last": "Toomey",
+   "party": "R",
+   "state": "PA",
+   "current": false
+  },
+  {
+   "id": "F000466",
+   "chamber": "house",
+   "first": "Brian K.",
+   "last": "Fitzpatrick",
+   "party": "R",
+   "state": "PA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "B001296",
+   "chamber": "house",
+   "first": "Brendan F.",
+   "last": "Boyle",
+   "party": "D",
+   "state": "PA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "E000296",
+   "chamber": "house",
+   "first": "Dwight",
+   "last": "Evans",
+   "party": "D",
+   "state": "PA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "D000631",
+   "chamber": "house",
+   "first": "Madeleine",
+   "last": "Dean",
+   "party": "D",
+   "state": "PA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "S001205",
+   "chamber": "house",
+   "first": "Mary Gay",
+   "last": "Scanlon",
+   "party": "D",
+   "state": "PA",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "H001085",
+   "chamber": "house",
+   "first": "Chrissy",
+   "last": "Houlahan",
+   "party": "D",
+   "state": "PA",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "M001230",
+   "chamber": "house",
+   "first": "Ryan",
+   "last": "Mackenzie",
+   "party": "R",
+   "state": "PA",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "W000826",
+   "chamber": "house",
+   "first": "Susan",
+   "last": "Wild",
+   "party": "D",
+   "state": "PA",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "B001327",
+   "chamber": "house",
+   "first": "Robert P.",
+   "last": "Bresnahan",
+   "party": "R",
+   "state": "PA",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "C001090",
+   "chamber": "house",
+   "first": "Matt",
+   "last": "Cartwright",
+   "party": "D",
+   "state": "PA",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "M001204",
+   "chamber": "house",
+   "first": "Daniel",
+   "last": "Meuser",
+   "party": "R",
+   "state": "PA",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "P000605",
+   "chamber": "house",
+   "first": "Scott",
+   "last": "Perry",
+   "party": "R",
+   "state": "PA",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "S001199",
+   "chamber": "house",
+   "first": "Lloyd",
+   "last": "Smucker",
+   "party": "R",
+   "state": "PA",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "K000395",
+   "chamber": "house",
+   "first": "Fred",
+   "last": "Keller",
+   "party": "R",
+   "state": "PA",
+   "district": 12,
+   "current": false
+  },
+  {
+   "id": "L000602",
+   "chamber": "house",
+   "first": "Summer L.",
+   "last": "Lee",
+   "party": "D",
+   "state": "PA",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "J000302",
+   "chamber": "house",
+   "first": "John",
+   "last": "Joyce",
+   "party": "R",
+   "state": "PA",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "R000610",
+   "chamber": "house",
+   "first": "Guy",
+   "last": "Reschenthaler",
+   "party": "R",
+   "state": "PA",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "T000467",
+   "chamber": "house",
+   "first": "Glenn",
+   "last": "Thompson",
+   "party": "R",
+   "state": "PA",
+   "district": 15,
+   "current": true
+  },
+  {
+   "id": "K000376",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Kelly",
+   "party": "R",
+   "state": "PA",
+   "district": 16,
+   "current": true
+  },
+  {
+   "id": "D000530",
+   "chamber": "house",
+   "first": "Christopher R.",
+   "last": "Deluzio",
+   "party": "D",
+   "state": "PA",
+   "district": 17,
+   "current": true
+  },
+  {
+   "id": "L000588",
+   "chamber": "house",
+   "first": "Conor",
+   "last": "Lamb",
+   "party": "D",
+   "state": "PA",
+   "district": 17,
+   "current": false
+  },
+  {
+   "id": "D000482",
+   "chamber": "house",
+   "first": "Michael F.",
+   "last": "Doyle",
+   "party": "D",
+   "state": "PA",
+   "district": 18,
+   "current": false
+  },
+  {
+   "id": "S259",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Reed",
+   "party": "D",
+   "state": "RI",
+   "current": true
+  },
+  {
+   "id": "S316",
+   "chamber": "senate",
+   "first": "Sheldon",
+   "last": "Whitehouse",
+   "party": "D",
+   "state": "RI",
+   "current": true
+  },
+  {
+   "id": "A000380",
+   "chamber": "house",
+   "first": "Gabe",
+   "last": "Amo",
+   "party": "D",
+   "state": "RI",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "C001084",
+   "chamber": "house",
+   "first": "David N.",
+   "last": "Cicilline",
+   "party": "D",
+   "state": "RI",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "L000559",
+   "chamber": "house",
+   "first": "James R.",
+   "last": "Langevin",
+   "party": "D",
+   "state": "RI",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "M001223",
+   "chamber": "house",
+   "first": "Seth",
+   "last": "Magaziner",
+   "party": "D",
+   "state": "RI",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S293",
+   "chamber": "senate",
+   "first": "Lindsey",
+   "last": "Graham",
+   "party": "R",
+   "state": "SC",
+   "current": false
+  },
+  {
+   "id": "S441",
+   "chamber": "senate",
+   "first": "Darline",
+   "last": "Graham",
+   "party": "R",
+   "state": "SC",
+   "current": true
+  },
+  {
+   "id": "S365",
+   "chamber": "senate",
+   "first": "Tim",
+   "last": "Scott",
+   "party": "R",
+   "state": "SC",
+   "current": true
+  },
+  {
+   "id": "M000194",
+   "chamber": "house",
+   "first": "Nancy",
+   "last": "Mace",
+   "party": "R",
+   "state": "SC",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "W000795",
+   "chamber": "house",
+   "first": "Joe",
+   "last": "Wilson",
+   "party": "R",
+   "state": "SC",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "B001325",
+   "chamber": "house",
+   "first": "Sheri",
+   "last": "Biggs",
+   "party": "R",
+   "state": "SC",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "D000615",
+   "chamber": "house",
+   "first": "Jeff",
+   "last": "Duncan",
+   "party": "R",
+   "state": "SC",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "T000480",
+   "chamber": "house",
+   "first": "William R.",
+   "last": "Timmons",
+   "party": "R",
+   "state": "SC",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "N000190",
+   "chamber": "house",
+   "first": "Ralph",
+   "last": "Norman",
+   "party": "R",
+   "state": "SC",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "C000537",
+   "chamber": "house",
+   "first": "James E.",
+   "last": "Clyburn",
+   "party": "D",
+   "state": "SC",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "F000478",
+   "chamber": "house",
+   "first": "Russell",
+   "last": "Fry",
+   "party": "R",
+   "state": "SC",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "R000597",
+   "chamber": "house",
+   "first": "Tom",
+   "last": "Rice",
+   "party": "R",
+   "state": "SC",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "S381",
+   "chamber": "senate",
+   "first": "Mike",
+   "last": "Rounds",
+   "party": "R",
+   "state": "SD",
+   "current": true
+  },
+  {
+   "id": "S303",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Thune",
+   "party": "R",
+   "state": "SD",
+   "current": true
+  },
+  {
+   "id": "J000301",
+   "chamber": "house",
+   "first": "Dusty",
+   "last": "Johnson",
+   "party": "R",
+   "state": "SD",
+   "district": 0,
+   "current": true
+  },
+  {
+   "id": "S396",
+   "chamber": "senate",
+   "first": "Marsha",
+   "last": "Blackburn",
+   "party": "R",
+   "state": "TN",
+   "current": true
+  },
+  {
+   "id": "S407",
+   "chamber": "senate",
+   "first": "Bill",
+   "last": "Hagerty",
+   "party": "R",
+   "state": "TN",
+   "current": true
+  },
+  {
+   "id": "H001086",
+   "chamber": "house",
+   "first": "Diana",
+   "last": "Harshbarger",
+   "party": "R",
+   "state": "TN",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "B001309",
+   "chamber": "house",
+   "first": "Tim",
+   "last": "Burchett",
+   "party": "R",
+   "state": "TN",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "F000459",
+   "chamber": "house",
+   "first": "Charles J. \"Chuck\"",
+   "last": "Fleischmann",
+   "party": "R",
+   "state": "TN",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "D000616",
+   "chamber": "house",
+   "first": "Scott",
+   "last": "DesJarlais",
+   "party": "R",
+   "state": "TN",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "C000754",
+   "chamber": "house",
+   "first": "Jim",
+   "last": "Cooper",
+   "party": "D",
+   "state": "TN",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "O000175",
+   "chamber": "house",
+   "first": "Andrew",
+   "last": "Ogles",
+   "party": "R",
+   "state": "TN",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "R000612",
+   "chamber": "house",
+   "first": "John W.",
+   "last": "Rose",
+   "party": "R",
+   "state": "TN",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "G000590",
+   "chamber": "house",
+   "first": "Mark E.",
+   "last": "Green",
+   "party": "R",
+   "state": "TN",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "V000139",
+   "chamber": "house",
+   "first": "Matt",
+   "last": "Van Epps",
+   "party": "R",
+   "state": "TN",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "K000392",
+   "chamber": "house",
+   "first": "David",
+   "last": "Kustoff",
+   "party": "R",
+   "state": "TN",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "C001068",
+   "chamber": "house",
+   "first": "Steve",
+   "last": "Cohen",
+   "party": "D",
+   "state": "TN",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "S287",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Cornyn",
+   "party": "R",
+   "state": "TX",
+   "current": true
+  },
+  {
+   "id": "S355",
+   "chamber": "senate",
+   "first": "Ted",
+   "last": "Cruz",
+   "party": "R",
+   "state": "TX",
+   "current": true
+  },
+  {
+   "id": "G000552",
+   "chamber": "house",
+   "first": "Louie",
+   "last": "Gohmert",
+   "party": "R",
+   "state": "TX",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "M001224",
+   "chamber": "house",
+   "first": "Nathaniel",
+   "last": "Moran",
+   "party": "R",
+   "state": "TX",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "C001120",
+   "chamber": "house",
+   "first": "Dan",
+   "last": "Crenshaw",
+   "party": "R",
+   "state": "TX",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S001224",
+   "chamber": "house",
+   "first": "Keith",
+   "last": "Self",
+   "party": "R",
+   "state": "TX",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "T000479",
+   "chamber": "house",
+   "first": "Van",
+   "last": "Taylor",
+   "party": "R",
+   "state": "TX",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "F000246",
+   "chamber": "house",
+   "first": "Pat",
+   "last": "Fallon",
+   "party": "R",
+   "state": "TX",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "G000589",
+   "chamber": "house",
+   "first": "Lance",
+   "last": "Gooden",
+   "party": "R",
+   "state": "TX",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "E000071",
+   "chamber": "house",
+   "first": "Jake",
+   "last": "Ellzey",
+   "party": "R",
+   "state": "TX",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "W000827",
+   "chamber": "house",
+   "first": "Ron",
+   "last": "Wright",
+   "party": "R",
+   "state": "TX",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "F000468",
+   "chamber": "house",
+   "first": "Lizzie",
+   "last": "Fletcher",
+   "party": "D",
+   "state": "TX",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "B000755",
+   "chamber": "house",
+   "first": "Kevin",
+   "last": "Brady",
+   "party": "R",
+   "state": "TX",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "L000603",
+   "chamber": "house",
+   "first": "Morgan",
+   "last": "Luttrell",
+   "party": "R",
+   "state": "TX",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "G000553",
+   "chamber": "house",
+   "first": "Al",
+   "last": "Green",
+   "party": "D",
+   "state": "TX",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "M001157",
+   "chamber": "house",
+   "first": "Michael T.",
+   "last": "McCaul",
+   "party": "R",
+   "state": "TX",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "P000048",
+   "chamber": "house",
+   "first": "August",
+   "last": "Pfluger",
+   "party": "R",
+   "state": "TX",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "G000601",
+   "chamber": "house",
+   "first": "Craig A.",
+   "last": "Goldman",
+   "party": "R",
+   "state": "TX",
+   "district": 12,
+   "current": true
+  },
+  {
+   "id": "G000377",
+   "chamber": "house",
+   "first": "Kay",
+   "last": "Granger",
+   "party": "R",
+   "state": "TX",
+   "district": 12,
+   "current": false
+  },
+  {
+   "id": "J000304",
+   "chamber": "house",
+   "first": "Ronny",
+   "last": "Jackson",
+   "party": "R",
+   "state": "TX",
+   "district": 13,
+   "current": true
+  },
+  {
+   "id": "W000814",
+   "chamber": "house",
+   "first": "Randy K. Sr.",
+   "last": "Weber",
+   "party": "R",
+   "state": "TX",
+   "district": 14,
+   "current": true
+  },
+  {
+   "id": "D000594",
+   "chamber": "house",
+   "first": "Monica",
+   "last": "De La Cruz",
+   "party": "R",
+   "state": "TX",
+   "district": 15,
+   "current": true
+  },
+  {
+   "id": "E000299",
+   "chamber": "house",
+   "first": "Veronica",
+   "last": "Escobar",
+   "party": "D",
+   "state": "TX",
+   "district": 16,
+   "current": true
+  },
+  {
+   "id": "S000250",
+   "chamber": "house",
+   "first": "Pete",
+   "last": "Sessions",
+   "party": "R",
+   "state": "TX",
+   "district": 17,
+   "current": true
+  },
+  {
+   "id": "J000032",
+   "chamber": "house",
+   "first": "Sheila",
+   "last": "Jackson Lee",
+   "party": "D",
+   "state": "TX",
+   "district": 18,
+   "current": false
+  },
+  {
+   "id": "L000605",
+   "chamber": "house",
+   "first": "Erica",
+   "last": "Lee Carter",
+   "party": "D",
+   "state": "TX",
+   "district": 18,
+   "current": false
+  },
+  {
+   "id": "M001245",
+   "chamber": "house",
+   "first": "Christian D.",
+   "last": "Menefee",
+   "party": "D",
+   "state": "TX",
+   "district": 18,
+   "current": true
+  },
+  {
+   "id": "T000489",
+   "chamber": "house",
+   "first": "Sylvester",
+   "last": "Turner",
+   "party": "D",
+   "state": "TX",
+   "district": 18,
+   "current": false
+  },
+  {
+   "id": "A000375",
+   "chamber": "house",
+   "first": "Jodey C.",
+   "last": "Arrington",
+   "party": "R",
+   "state": "TX",
+   "district": 19,
+   "current": true
+  },
+  {
+   "id": "C001091",
+   "chamber": "house",
+   "first": "Joaquin",
+   "last": "Castro",
+   "party": "D",
+   "state": "TX",
+   "district": 20,
+   "current": true
+  },
+  {
+   "id": "R000614",
+   "chamber": "house",
+   "first": "Chip",
+   "last": "Roy",
+   "party": "R",
+   "state": "TX",
+   "district": 21,
+   "current": true
+  },
+  {
+   "id": "N000026",
+   "chamber": "house",
+   "first": "Troy E.",
+   "last": "Nehls",
+   "party": "R",
+   "state": "TX",
+   "district": 22,
+   "current": true
+  },
+  {
+   "id": "G000594",
+   "chamber": "house",
+   "first": "Tony",
+   "last": "Gonzales",
+   "party": "R",
+   "state": "TX",
+   "district": 23,
+   "current": false
+  },
+  {
+   "id": "V000134",
+   "chamber": "house",
+   "first": "Beth",
+   "last": "Van Duyne",
+   "party": "R",
+   "state": "TX",
+   "district": 24,
+   "current": true
+  },
+  {
+   "id": "W000816",
+   "chamber": "house",
+   "first": "Roger",
+   "last": "Williams",
+   "party": "R",
+   "state": "TX",
+   "district": 25,
+   "current": true
+  },
+  {
+   "id": "B001248",
+   "chamber": "house",
+   "first": "Michael C.",
+   "last": "Burgess",
+   "party": "R",
+   "state": "TX",
+   "district": 26,
+   "current": false
+  },
+  {
+   "id": "G000603",
+   "chamber": "house",
+   "first": "Brandon",
+   "last": "Gill",
+   "party": "R",
+   "state": "TX",
+   "district": 26,
+   "current": true
+  },
+  {
+   "id": "C001115",
+   "chamber": "house",
+   "first": "Michael",
+   "last": "Cloud",
+   "party": "R",
+   "state": "TX",
+   "district": 27,
+   "current": true
+  },
+  {
+   "id": "C001063",
+   "chamber": "house",
+   "first": "Henry",
+   "last": "Cuellar",
+   "party": "D",
+   "state": "TX",
+   "district": 28,
+   "current": true
+  },
+  {
+   "id": "G000587",
+   "chamber": "house",
+   "first": "Sylvia R.",
+   "last": "Garcia",
+   "party": "D",
+   "state": "TX",
+   "district": 29,
+   "current": true
+  },
+  {
+   "id": "C001130",
+   "chamber": "house",
+   "first": "Jasmine",
+   "last": "Crockett",
+   "party": "D",
+   "state": "TX",
+   "district": 30,
+   "current": true
+  },
+  {
+   "id": "J000126",
+   "chamber": "house",
+   "first": "Eddie Bernice",
+   "last": "Johnson",
+   "party": "D",
+   "state": "TX",
+   "district": 30,
+   "current": false
+  },
+  {
+   "id": "C001051",
+   "chamber": "house",
+   "first": "John R.",
+   "last": "Carter",
+   "party": "R",
+   "state": "TX",
+   "district": 31,
+   "current": true
+  },
+  {
+   "id": "A000376",
+   "chamber": "house",
+   "first": "Colin Z.",
+   "last": "Allred",
+   "party": "D",
+   "state": "TX",
+   "district": 32,
+   "current": false
+  },
+  {
+   "id": "J000310",
+   "chamber": "house",
+   "first": "Julie",
+   "last": "Johnson",
+   "party": "D",
+   "state": "TX",
+   "district": 32,
+   "current": true
+  },
+  {
+   "id": "V000131",
+   "chamber": "house",
+   "first": "Marc A.",
+   "last": "Veasey",
+   "party": "D",
+   "state": "TX",
+   "district": 33,
+   "current": true
+  },
+  {
+   "id": "F000473",
+   "chamber": "house",
+   "first": "Mayra",
+   "last": "Flores",
+   "party": "R",
+   "state": "TX",
+   "district": 34,
+   "current": false
+  },
+  {
+   "id": "G000581",
+   "chamber": "house",
+   "first": "Vicente",
+   "last": "Gonzalez",
+   "party": "D",
+   "state": "TX",
+   "district": 34,
+   "current": true
+  },
+  {
+   "id": "V000132",
+   "chamber": "house",
+   "first": "Filemon",
+   "last": "Vela",
+   "party": "D",
+   "state": "TX",
+   "district": 34,
+   "current": false
+  },
+  {
+   "id": "C001131",
+   "chamber": "house",
+   "first": "Greg",
+   "last": "Casar",
+   "party": "D",
+   "state": "TX",
+   "district": 35,
+   "current": true
+  },
+  {
+   "id": "B001291",
+   "chamber": "house",
+   "first": "Brian",
+   "last": "Babin",
+   "party": "R",
+   "state": "TX",
+   "district": 36,
+   "current": true
+  },
+  {
+   "id": "D000399",
+   "chamber": "house",
+   "first": "Lloyd",
+   "last": "Doggett",
+   "party": "D",
+   "state": "TX",
+   "district": 37,
+   "current": true
+  },
+  {
+   "id": "H001095",
+   "chamber": "house",
+   "first": "Wesley",
+   "last": "Hunt",
+   "party": "R",
+   "state": "TX",
+   "district": 38,
+   "current": true
+  },
+  {
+   "id": "S431",
+   "chamber": "senate",
+   "first": "John ",
+   "last": "Curtis",
+   "party": "R",
+   "state": "UT",
+   "current": true
+  },
+  {
+   "id": "S346",
+   "chamber": "senate",
+   "first": "Mike",
+   "last": "Lee",
+   "party": "R",
+   "state": "UT",
+   "current": true
+  },
+  {
+   "id": "S401",
+   "chamber": "senate",
+   "first": "Mitt",
+   "last": "Romney",
+   "party": "R",
+   "state": "UT",
+   "current": false
+  },
+  {
+   "id": "C001114",
+   "chamber": "house",
+   "first": "John R.",
+   "last": "Curtis",
+   "party": "R",
+   "state": "UT",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "M001213",
+   "chamber": "house",
+   "first": "Blake D.",
+   "last": "Moore",
+   "party": "R",
+   "state": "UT",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "M001228",
+   "chamber": "house",
+   "first": "Celeste",
+   "last": "Maloy",
+   "party": "R",
+   "state": "UT",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S001192",
+   "chamber": "house",
+   "first": "Chris",
+   "last": "Stewart",
+   "party": "R",
+   "state": "UT",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "K000403",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Kennedy",
+   "party": "R",
+   "state": "UT",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "O000086",
+   "chamber": "house",
+   "first": "Burgess",
+   "last": "Owens",
+   "party": "R",
+   "state": "UT",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "S362",
+   "chamber": "senate",
+   "first": "Timothy",
+   "last": "Kaine",
+   "party": "D",
+   "state": "VA",
+   "current": true
+  },
+  {
+   "id": "S327",
+   "chamber": "senate",
+   "first": "Mark",
+   "last": "Warner",
+   "party": "D",
+   "state": "VA",
+   "current": true
+  },
+  {
+   "id": "W000804",
+   "chamber": "house",
+   "first": "Robert J.",
+   "last": "Wittman",
+   "party": "R",
+   "state": "VA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "K000399",
+   "chamber": "house",
+   "first": "Jennifer A.",
+   "last": "Kiggans",
+   "party": "R",
+   "state": "VA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "L000591",
+   "chamber": "house",
+   "first": "Elaine G.",
+   "last": "Luria",
+   "party": "D",
+   "state": "VA",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "S000185",
+   "chamber": "house",
+   "first": "Robert C. \"Bobby\"",
+   "last": "Scott",
+   "party": "D",
+   "state": "VA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "M001227",
+   "chamber": "house",
+   "first": "Jennifer L.",
+   "last": "McClellan",
+   "party": "D",
+   "state": "VA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "M001200",
+   "chamber": "house",
+   "first": "A. Donald",
+   "last": "McEachin",
+   "party": "D",
+   "state": "VA",
+   "district": 4,
+   "current": false
+  },
+  {
+   "id": "G000595",
+   "chamber": "house",
+   "first": "Bob",
+   "last": "Good",
+   "party": "R",
+   "state": "VA",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "M001239",
+   "chamber": "house",
+   "first": "John J.",
+   "last": "McGuire",
+   "party": "R",
+   "state": "VA",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "C001118",
+   "chamber": "house",
+   "first": "Ben",
+   "last": "Cline",
+   "party": "R",
+   "state": "VA",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "S001209",
+   "chamber": "house",
+   "first": "Abigail Davis",
+   "last": "Spanberger",
+   "party": "D",
+   "state": "VA",
+   "district": 7,
+   "current": false
+  },
+  {
+   "id": "V000138",
+   "chamber": "house",
+   "first": "Eugene Simon",
+   "last": "Vindman",
+   "party": "D",
+   "state": "VA",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "B001292",
+   "chamber": "house",
+   "first": "Donald S.",
+   "last": "Beyer",
+   "party": "D",
+   "state": "VA",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "G000568",
+   "chamber": "house",
+   "first": "H. Morgan",
+   "last": "Griffith",
+   "party": "R",
+   "state": "VA",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "S001230",
+   "chamber": "house",
+   "first": "Suhas",
+   "last": "Subramanyam",
+   "party": "D",
+   "state": "VA",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "W000825",
+   "chamber": "house",
+   "first": "Jennifer",
+   "last": "Wexton",
+   "party": "D",
+   "state": "VA",
+   "district": 10,
+   "current": false
+  },
+  {
+   "id": "C001078",
+   "chamber": "house",
+   "first": "Gerald E.",
+   "last": "Connolly",
+   "party": "D",
+   "state": "VA",
+   "district": 11,
+   "current": false
+  },
+  {
+   "id": "W000831",
+   "chamber": "house",
+   "first": "James R.",
+   "last": "Walkinshaw",
+   "party": "D",
+   "state": "VA",
+   "district": 11,
+   "current": true
+  },
+  {
+   "id": "S057",
+   "chamber": "senate",
+   "first": "Patrick",
+   "last": "Leahy",
+   "party": "D",
+   "state": "VT",
+   "current": false
+  },
+  {
+   "id": "S313",
+   "chamber": "senate",
+   "first": "Bernie",
+   "last": "Sanders",
+   "party": "I",
+   "state": "VT",
+   "current": true
+  },
+  {
+   "id": "S422",
+   "chamber": "senate",
+   "first": "Peter",
+   "last": "Welch",
+   "party": "D",
+   "state": "VT",
+   "current": true
+  },
+  {
+   "id": "B001318",
+   "chamber": "house",
+   "first": "Becca",
+   "last": "Balint",
+   "party": "D",
+   "state": "VT",
+   "district": 0,
+   "current": true
+  },
+  {
+   "id": "W000800",
+   "chamber": "house",
+   "first": "Peter",
+   "last": "Welch",
+   "party": "D",
+   "state": "VT",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "S275",
+   "chamber": "senate",
+   "first": "Maria",
+   "last": "Cantwell",
+   "party": "D",
+   "state": "WA",
+   "current": true
+  },
+  {
+   "id": "S229",
+   "chamber": "senate",
+   "first": "Patty",
+   "last": "Murray",
+   "party": "D",
+   "state": "WA",
+   "current": true
+  },
+  {
+   "id": "D000617",
+   "chamber": "house",
+   "first": "Suzan K.",
+   "last": "DelBene",
+   "party": "D",
+   "state": "WA",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "L000560",
+   "chamber": "house",
+   "first": "Rick",
+   "last": "Larsen",
+   "party": "D",
+   "state": "WA",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "H001056",
+   "chamber": "house",
+   "first": "Jaime",
+   "last": "Herrera Beutler",
+   "party": "R",
+   "state": "WA",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "G000600",
+   "chamber": "house",
+   "first": "Marie Gluesenkamp",
+   "last": "Perez",
+   "party": "D",
+   "state": "WA",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "N000189",
+   "chamber": "house",
+   "first": "Dan",
+   "last": "Newhouse",
+   "party": "R",
+   "state": "WA",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "B001322",
+   "chamber": "house",
+   "first": "Michael",
+   "last": "Baumgartner",
+   "party": "R",
+   "state": "WA",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "M001159",
+   "chamber": "house",
+   "first": "Cathy",
+   "last": "McMorris Rodgers",
+   "party": "R",
+   "state": "WA",
+   "district": 5,
+   "current": false
+  },
+  {
+   "id": "K000381",
+   "chamber": "house",
+   "first": "Derek",
+   "last": "Kilmer",
+   "party": "D",
+   "state": "WA",
+   "district": 6,
+   "current": false
+  },
+  {
+   "id": "R000621",
+   "chamber": "house",
+   "first": "Emily",
+   "last": "Randall",
+   "party": "D",
+   "state": "WA",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "J000298",
+   "chamber": "house",
+   "first": "Pramila",
+   "last": "Jayapal",
+   "party": "D",
+   "state": "WA",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "S001216",
+   "chamber": "house",
+   "first": "Kim",
+   "last": "Schrier",
+   "party": "D",
+   "state": "WA",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S000510",
+   "chamber": "house",
+   "first": "Adam",
+   "last": "Smith",
+   "party": "D",
+   "state": "WA",
+   "district": 9,
+   "current": true
+  },
+  {
+   "id": "S001159",
+   "chamber": "house",
+   "first": "Marilyn",
+   "last": "Strickland",
+   "party": "D",
+   "state": "WA",
+   "district": 10,
+   "current": true
+  },
+  {
+   "id": "S354",
+   "chamber": "senate",
+   "first": "Tammy",
+   "last": "Baldwin",
+   "party": "D",
+   "state": "WI",
+   "current": true
+  },
+  {
+   "id": "S345",
+   "chamber": "senate",
+   "first": "Ron",
+   "last": "Johnson",
+   "party": "R",
+   "state": "WI",
+   "current": true
+  },
+  {
+   "id": "S001213",
+   "chamber": "house",
+   "first": "Bryan",
+   "last": "Steil",
+   "party": "R",
+   "state": "WI",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "P000607",
+   "chamber": "house",
+   "first": "Mark",
+   "last": "Pocan",
+   "party": "D",
+   "state": "WI",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "K000188",
+   "chamber": "house",
+   "first": "Ron",
+   "last": "Kind",
+   "party": "D",
+   "state": "WI",
+   "district": 3,
+   "current": false
+  },
+  {
+   "id": "V000135",
+   "chamber": "house",
+   "first": "Derrick",
+   "last": "Van Orden",
+   "party": "R",
+   "state": "WI",
+   "district": 3,
+   "current": true
+  },
+  {
+   "id": "M001160",
+   "chamber": "house",
+   "first": "Gwen",
+   "last": "Moore",
+   "party": "D",
+   "state": "WI",
+   "district": 4,
+   "current": true
+  },
+  {
+   "id": "F000471",
+   "chamber": "house",
+   "first": "Scott",
+   "last": "Fitzgerald",
+   "party": "R",
+   "state": "WI",
+   "district": 5,
+   "current": true
+  },
+  {
+   "id": "G000576",
+   "chamber": "house",
+   "first": "Glenn",
+   "last": "Grothman",
+   "party": "R",
+   "state": "WI",
+   "district": 6,
+   "current": true
+  },
+  {
+   "id": "T000165",
+   "chamber": "house",
+   "first": "Thomas P.",
+   "last": "Tiffany",
+   "party": "R",
+   "state": "WI",
+   "district": 7,
+   "current": true
+  },
+  {
+   "id": "G000579",
+   "chamber": "house",
+   "first": "Mike",
+   "last": "Gallagher",
+   "party": "R",
+   "state": "WI",
+   "district": 8,
+   "current": false
+  },
+  {
+   "id": "W000829",
+   "chamber": "house",
+   "first": "Tony",
+   "last": "Wied",
+   "party": "R",
+   "state": "WI",
+   "district": 8,
+   "current": true
+  },
+  {
+   "id": "S372",
+   "chamber": "senate",
+   "first": "Shelley",
+   "last": "Capito",
+   "party": "R",
+   "state": "WV",
+   "current": true
+  },
+  {
+   "id": "S437",
+   "chamber": "senate",
+   "first": "James",
+   "last": "Justice",
+   "party": "R",
+   "state": "WV",
+   "current": true
+  },
+  {
+   "id": "S338",
+   "chamber": "senate",
+   "first": "Joseph",
+   "last": "Manchin",
+   "party": "I",
+   "state": "WV",
+   "current": false
+  },
+  {
+   "id": "M001180",
+   "chamber": "house",
+   "first": "David B.",
+   "last": "McKinley",
+   "party": "R",
+   "state": "WV",
+   "district": 1,
+   "current": false
+  },
+  {
+   "id": "M001205",
+   "chamber": "house",
+   "first": "Carol D.",
+   "last": "Miller",
+   "party": "R",
+   "state": "WV",
+   "district": 1,
+   "current": true
+  },
+  {
+   "id": "M001195",
+   "chamber": "house",
+   "first": "Alexander X.",
+   "last": "Mooney",
+   "party": "R",
+   "state": "WV",
+   "district": 2,
+   "current": false
+  },
+  {
+   "id": "M001235",
+   "chamber": "house",
+   "first": "Riley M.",
+   "last": "Moore",
+   "party": "R",
+   "state": "WV",
+   "district": 2,
+   "current": true
+  },
+  {
+   "id": "S317",
+   "chamber": "senate",
+   "first": "John",
+   "last": "Barrasso",
+   "party": "R",
+   "state": "WY",
+   "current": true
+  },
+  {
+   "id": "S410",
+   "chamber": "senate",
+   "first": "Cynthia",
+   "last": "Lummis",
+   "party": "R",
+   "state": "WY",
+   "current": true
+  },
+  {
+   "id": "C001109",
+   "chamber": "house",
+   "first": "Liz",
+   "last": "Cheney",
+   "party": "R",
+   "state": "WY",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "H001096",
+   "chamber": "house",
+   "first": "Harriet M.",
+   "last": "Hageman",
+   "party": "R",
+   "state": "WY",
+   "district": 0,
+   "current": true
+  },
+  {
+   "id": "G000582",
+   "chamber": "house",
+   "first": "Jenniffer",
+   "last": "Gonz\u00e1lez-Col\u00f3n",
+   "party": "R",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "H001103",
+   "chamber": "house",
+   "first": "Pablo Jose",
+   "last": "Hern\u00e1ndez",
+   "party": "D",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "K000404",
+   "chamber": "house",
+   "first": "Kimberlyn",
+   "last": "King-Hinds",
+   "party": "R",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "M001219",
+   "chamber": "house",
+   "first": "James C.",
+   "last": "Moylan",
+   "party": "R",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "N000147",
+   "chamber": "house",
+   "first": "Eleanor Holmes",
+   "last": "Norton",
+   "party": "D",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "P000610",
+   "chamber": "house",
+   "first": "Stacey E.",
+   "last": "Plaskett",
+   "party": "D",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "R000600",
+   "chamber": "house",
+   "first": "Aumua Amata Coleman",
+   "last": "Radewagen",
+   "party": "R",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "S001177",
+   "chamber": "house",
+   "first": "Gregorio Kilili Camacho",
+   "last": "Sablan",
+   "party": "D",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  },
+  {
+   "id": "S001204",
+   "chamber": "house",
+   "first": "Michael F. Q.",
+   "last": "San Nicolas",
+   "party": "D",
+   "state": "XX",
+   "district": 0,
+   "current": false
+  }
+ ]
+}

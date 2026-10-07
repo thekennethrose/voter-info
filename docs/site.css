@@ -1,0 +1,51 @@
+/* Shared tokens, base type and navigation for every page. */
+:root {
+  --paper: #f3f5f4;
+  --ink: #1c2433;
+  --muted: #5b6474;
+  --rule: #d3d8dd;
+  --nay-fill: #c3c9d1;
+  --brass: #8f6b17;
+  --focus: #2f5fb3;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #151a22; --ink: #e4e8ee; --muted: #98a2b2; --rule: #2e3644;
+    --nay-fill: #485264; --brass: #d1a84a; --focus: #7fa6ea;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #151a22; --ink: #e4e8ee; --muted: #98a2b2; --rule: #2e3644;
+  --nay-fill: #485264; --brass: #d1a84a; --focus: #7fa6ea;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1rem/1.55 "Public Sans", system-ui, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+main { max-width: 54rem; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+a { color: inherit; text-underline-offset: 0.2em; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+input, select, button { font: inherit; color: var(--ink); background: var(--paper); }
+input[type="search"], select { border: 1px solid var(--rule); border-radius: 3px; padding: 0.5rem 0.75rem; }
+
+nav.site { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; font-size: 0.9rem; margin-bottom: 2.5rem; }
+nav.site a { color: var(--muted); text-decoration: none; }
+nav.site a:hover { color: var(--ink); text-decoration: underline; }
+nav.site a[aria-current="page"] { color: var(--ink); font-weight: 600; }
+
+h1 {
+  font-weight: 800; font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.05;
+  letter-spacing: -0.02em; margin: 0 0 1rem; max-width: 20ch;
+}
+.lede { color: var(--muted); max-width: 62ch; margin: 0 0 2rem; }
+.muted { color: var(--muted); font-size: 0.875rem; }
+.empty, .error { padding: 2rem 0; color: var(--muted); }
+
+footer { margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.875rem; }
+footer h2 { font-size: 1rem; color: var(--ink); margin: 0 0 0.5rem; }
+footer p { max-width: 64ch; }

@@ -233,6 +233,16 @@
    "current": true
   },
   {
+   "id": "R000600",
+   "chamber": "house",
+   "first": "Aumua Amata Coleman",
+   "last": "Radewagen",
+   "party": "R",
+   "state": "AS",
+   "district": null,
+   "current": true
+  },
+  {
    "id": "S432",
    "chamber": "senate",
    "first": "Ruben",
@@ -1362,6 +1372,16 @@
    "current": true
   },
   {
+   "id": "N000147",
+   "chamber": "house",
+   "first": "Eleanor Holmes",
+   "last": "Norton",
+   "party": "D",
+   "state": "DC",
+   "district": null,
+   "current": true
+  },
+  {
    "id": "S430",
    "chamber": "senate",
    "first": "Lisa",
@@ -2011,6 +2031,26 @@
    "party": "R",
    "state": "GA",
    "district": 14,
+   "current": false
+  },
+  {
+   "id": "M001219",
+   "chamber": "house",
+   "first": "James C.",
+   "last": "Moylan",
+   "party": "R",
+   "state": "GU",
+   "district": null,
+   "current": true
+  },
+  {
+   "id": "S001204",
+   "chamber": "house",
+   "first": "Michael F. Q.",
+   "last": "San Nicolas",
+   "party": "D",
+   "state": "GU",
+   "district": null,
    "current": false
   },
   {
@@ -3600,6 +3640,26 @@
    "state": "MO",
    "district": 8,
    "current": true
+  },
+  {
+   "id": "K000404",
+   "chamber": "house",
+   "first": "Kimberlyn",
+   "last": "King-Hinds",
+   "party": "R",
+   "state": "MP",
+   "district": null,
+   "current": true
+  },
+  {
+   "id": "S001177",
+   "chamber": "house",
+   "first": "Gregorio Kilili Camacho",
+   "last": "Sablan",
+   "party": "D",
+   "state": "MP",
+   "district": null,
+   "current": false
   },
   {
    "id": "S395",
@@ -5662,6 +5722,26 @@
    "current": false
   },
   {
+   "id": "G000582",
+   "chamber": "house",
+   "first": "Jenniffer",
+   "last": "Gonz\u00e1lez-Col\u00f3n",
+   "party": "R",
+   "state": "PR",
+   "district": null,
+   "current": false
+  },
+  {
+   "id": "H001103",
+   "chamber": "house",
+   "first": "Pablo Jose",
+   "last": "Hern\u00e1ndez",
+   "party": "D",
+   "state": "PR",
+   "district": null,
+   "current": true
+  },
+  {
    "id": "S259",
    "chamber": "senate",
    "first": "John",
@@ -6796,6 +6876,16 @@
    "current": true
   },
   {
+   "id": "P000610",
+   "chamber": "house",
+   "first": "Stacey E.",
+   "last": "Plaskett",
+   "party": "D",
+   "state": "VI",
+   "district": null,
+   "current": true
+  },
+  {
    "id": "S057",
    "chamber": "senate",
    "first": "Patrick",
@@ -7212,96 +7302,6 @@
    "state": "WY",
    "district": 0,
    "current": true
-  },
-  {
-   "id": "G000582",
-   "chamber": "house",
-   "first": "Jenniffer",
-   "last": "Gonz\u00e1lez-Col\u00f3n",
-   "party": "R",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "H001103",
-   "chamber": "house",
-   "first": "Pablo Jose",
-   "last": "Hern\u00e1ndez",
-   "party": "D",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "K000404",
-   "chamber": "house",
-   "first": "Kimberlyn",
-   "last": "King-Hinds",
-   "party": "R",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "M001219",
-   "chamber": "house",
-   "first": "James C.",
-   "last": "Moylan",
-   "party": "R",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "N000147",
-   "chamber": "house",
-   "first": "Eleanor Holmes",
-   "last": "Norton",
-   "party": "D",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "P000610",
-   "chamber": "house",
-   "first": "Stacey E.",
-   "last": "Plaskett",
-   "party": "D",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "R000600",
-   "chamber": "house",
-   "first": "Aumua Amata Coleman",
-   "last": "Radewagen",
-   "party": "R",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "S001177",
-   "chamber": "house",
-   "first": "Gregorio Kilili Camacho",
-   "last": "Sablan",
-   "party": "D",
-   "state": "XX",
-   "district": 0,
-   "current": false
-  },
-  {
-   "id": "S001204",
-   "chamber": "house",
-   "first": "Michael F. Q.",
-   "last": "San Nicolas",
-   "party": "D",
-   "state": "XX",
-   "district": 0,
-   "current": false
   }
  ]
 }

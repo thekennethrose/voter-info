@@ -265,12 +265,23 @@ def member_details(congress, api_key):
             return out
 
 
-def current_member_ids(api_key):
-    """Bioguide ids of everyone serving in Congress right now."""
-    ids, offset = set(), 0
-    while True:
-        page = api("member", api_key, currentMember="true", limit=250, offset=offset)
-        ids.update(m["bioguideId"] for m in page["members"])
-        offset += 250
-        if offset >= page["pagination"]["count"]:
-            return ids
+TERRITORIES = {"DC", "PR", "GU", "AS", "VI", "MP"}
+
+
+def member(bioguide, api_key):
+    """One member's name, state, district and whether they serve in the House now.
+
+    Used where the paged member lists fall short: they can repeat some members
+    and skip others between pages."""
+    m = api(f"member/{bioguide}", api_key)["member"]
+    term = max(m.get("terms", [{}]), key=lambda t: t.get("startYear", 0))
+    last, _, first = m.get("invertedOrderName", "").partition(", ")
+    return {
+        "first": first.strip() or m.get("firstName", ""),
+        "last": last.strip() or m.get("lastName", ""),
+        "state": term.get("stateCode") or STATE_CODES.get(m.get("state"), "XX"),
+        "district": term.get("district"),
+        "current": bool(m.get("currentMember"))
+        and term.get("chamber") == "House of Representatives"
+        and not term.get("endYear"),
+    }

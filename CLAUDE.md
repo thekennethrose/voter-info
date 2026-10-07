@@ -66,6 +66,9 @@ python -m http.server -d docs 8000    # preview; pages need HTTP, not file://
 - senate.gov's firewall (Akamai) answers sustained traffic with temporary 403s. `sources.fetch` paces senate.gov to one request per second, retries 403/429/5xx and network errors with backoff (5s up to 2 min), and the Senate download runs single-threaded. Don't raise the concurrency.
 - clerk.house.gov returns HTTP 200 with a tiny error body for missing rolls; validity is checked by content (`is_house_roll`, `is_senate_roll`).
 - congress.gov's website (not the API) blocks scripts; vote.gov blocks automated link checks.
+- congress.gov's paged member lists (`/member`, `/member/congress/N`) can repeat some members and skip others between pages (539 reported, 533 returned). Never decide membership from them alone; `sources.member()` (one request per member) is reliable.
+- **Who is current:** voting members are current if they're in their chamber's latest roll call (everyone sitting is listed, even as Not Voting). Delegates from D.C. and the territories vote only on amendments in the Committee of the Whole, so they're checked individually on congress.gov. The Clerk's XML gives delegates the state "XX"; the real territory comes from congress.gov.
+- Senate vote lists are saved to `data/cache/menus/`; finished sessions are read from there, and the current session falls back to the saved copy if senate.gov blocks requests (a VPN's shared IP gets blocked quickly).
 - Tally bars scale to 100 seats (Senate) or 435 (House). Requirements: Senate cloture `3/5` = 60; `2/3` = two-thirds of those voting (House suspensions are `2/3`); otherwise a simple majority of those voting.
 - DeepSeek retired the `deepseek-chat` model name (2026-07-24); `voter_slice.py` uses `deepseek-flash`.
 - `.env` holds keys and is gitignored. The commit hook only recognizes `tvly-` and `sk-` key shapes; the congress.gov key has no prefix.

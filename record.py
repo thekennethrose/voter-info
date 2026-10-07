@@ -35,7 +35,6 @@ class Builder:
         self.files = {}  # "s119" / "h119" -> votes file contents
         self.casts = {}  # member id -> {roll call: cast}
         self.members = {}  # member id -> latest info
-        self.current_house = set()  # bioguide ids serving now
 
     def file(self, chamber, congress):
         return self.files.setdefault(
@@ -122,8 +121,7 @@ class Builder:
     def name_representatives(self, congresses):
         """House XML gives last names only, and "XX" as the state of delegates from
         D.C. and the territories; congress.gov supplies full names, states and
-        districts. It also says who serves now: delegates vote only on amendments,
-        so "in the latest roll call" can't tell whether they're current."""
+        districts."""
         for c in sorted(congresses):
             self.progress(f"Members of the {c}th Congress")
             for bio, d in sources.member_details(c, self.api_key).items():
@@ -132,8 +130,23 @@ class Builder:
                     m.update(first=d["first"], last=d["last"], district=d["district"])
                     if d["state"]:
                         m["state"] = d["state"]
-        self.progress("Current members")
-        self.current_house = sources.current_member_ids(self.api_key)
+        # Delegates vote only on amendments, so "in the latest roll call" can't tell
+        # whether they serve now; ask congress.gov one by one. Anyone the paged
+        # lists missed gets looked up the same way.
+        self.progress("Delegates and missing names")
+        for m in self.members.values():
+            if m["chamber"] != "house":
+                continue
+            if (
+                m["state"] in sources.TERRITORIES
+                or m["state"] == "XX"
+                or not m["first"]
+            ):
+                d = sources.member(m["id"], self.api_key)
+                m.update(first=d["first"], last=d["last"], state=d["state"],
+                         district=d["district"])  # fmt: skip
+                if m["state"] in sources.TERRITORIES:
+                    m["serving"] = d["current"]
 
 
 CODES = {"Yea": "Y", "Aye": "A", "Nay": "N", "No": "O", "Present": "P",
@@ -184,11 +197,10 @@ def write(sessions, b):
         newest[m["chamber"]] = max(newest.get(m["chamber"], ""), m["last_vote"])
     members = []
     for m in b.members.values():
-        entry = {k: v for k, v in m.items() if k != "last_vote"}
-        if m["chamber"] == "house":
-            entry["current"] = m["id"] in b.current_house
-        else:
-            entry["current"] = m["last_vote"] == newest[m["chamber"]]
+        entry = {k: v for k, v in m.items() if k not in ("last_vote", "serving")}
+        # Voting members: in the chamber's latest roll call (everyone sitting is
+        # listed, even as Not Voting). Delegates: congress.gov's word.
+        entry["current"] = m.get("serving", m["last_vote"] == newest[m["chamber"]])
         members.append(entry)
     members.sort(key=lambda m: (m["state"], m["chamber"] != "senate",
                                 m.get("district") or 0, m["last"]))  # fmt: skip

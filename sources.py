@@ -5,6 +5,7 @@ import hashlib
 import http.client
 import json
 import re
+import sys
 import threading
 import time
 import urllib.error
@@ -12,6 +13,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
+from datetime import date
 from pathlib import Path
 
 from votes import HOUSE_URL, SENATE_URL, session_year
@@ -138,9 +140,31 @@ def api(path, api_key, **params):
 
 
 def senate_menu(congress, session):
-    menu = fetch(
-        SENATE_MENU.format(c=congress, s=session), lambda b: b"<vote_summary" in b
-    )
+    """A session's vote list. Lists for finished sessions never change, so they're
+    read from the saved copy; the current session's list is re-downloaded, falling
+    back to the saved copy if senate.gov is blocking us."""
+    path = CACHE / "menus" / f"senate-{congress}-{session}.xml"
+    finished = session_year(congress, session) < date.today().year
+    if finished and path.exists():
+        menu = path.read_bytes()
+    else:
+        try:
+            menu = fetch(
+                SENATE_MENU.format(c=congress, s=session),
+                lambda b: b"<vote_summary" in b,
+            )
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_bytes(menu)
+        except (OSError, ValueError, http.client.HTTPException) as e:
+            if not path.exists():
+                raise
+            saved = date.fromtimestamp(path.stat().st_mtime)
+            print(
+                f"senate.gov unreachable ({e}); using the {congress}-{session} "
+                f"vote list saved {saved}. Newer Senate votes are left out.",
+                file=sys.stderr,
+            )
+            menu = path.read_bytes()
     root = ET.fromstring(menu)
     return [
         {
@@ -239,3 +263,25 @@ def member_details(congress, api_key):
         offset += 250
         if offset >= page["pagination"]["count"]:
             return out
+
+
+TERRITORIES = {"DC", "PR", "GU", "AS", "VI", "MP"}
+
+
+def member(bioguide, api_key):
+    """One member's name, state, district and whether they serve in the House now.
+
+    Used where the paged member lists fall short: they can repeat some members
+    and skip others between pages."""
+    m = api(f"member/{bioguide}", api_key)["member"]
+    term = max(m.get("terms", [{}]), key=lambda t: t.get("startYear", 0))
+    last, _, first = m.get("invertedOrderName", "").partition(", ")
+    return {
+        "first": first.strip() or m.get("firstName", ""),
+        "last": last.strip() or m.get("lastName", ""),
+        "state": term.get("stateCode") or STATE_CODES.get(m.get("state"), "XX"),
+        "district": term.get("district"),
+        "current": bool(m.get("currentMember"))
+        and term.get("chamber") == "House of Representatives"
+        and not term.get("endYear"),
+    }

@@ -19,8 +19,18 @@ function ordinal(n) {
   return n + (s[(v - 20) % 10] || s[v] || s[0]);
 }
 
-// "Senator", "Representative, 5th District", "Representative, at large"
-function role(m) {
+// Non-voting House members elected from D.C. and the territories.
+const TERRITORY_OFFICE = { DC: "Delegate", GU: "Delegate", AS: "Delegate", VI: "Delegate", MP: "Delegate", PR: "Resident Commissioner" };
+
+// "Senator", "Representative", "Delegate" or "Resident Commissioner"
+function office(m) {
   if (m.chamber === "senate") return "Senator";
+  return TERRITORY_OFFICE[m.state] ?? "Representative";
+}
+
+// "Senator", "Representative, 5th District", "Representative, at large", "Delegate"
+function role(m) {
+  const o = office(m);
+  if (o !== "Representative") return o;
   return m.district ? `Representative, ${ordinal(m.district)} District` : "Representative, at large";
 }

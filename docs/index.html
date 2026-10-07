@@ -3,272 +3,158 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Senate voting record</title>
+<title>Congressional voting records</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,600;0,800;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site.css">
 <style>
-  :root {
-    --paper: #f3f5f4;
-    --ink: #1c2433;
-    --muted: #5b6474;
-    --rule: #d3d8dd;
-    --nay-fill: #c3c9d1;
-    --brass: #8f6b17;
-    --focus: #2f5fb3;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) {
-      --paper: #151a22;
-      --ink: #e4e8ee;
-      --muted: #98a2b2;
-      --rule: #2e3644;
-      --nay-fill: #485264;
-      --brass: #d1a84a;
-      --focus: #7fa6ea;
-    }
-  }
-  :root[data-theme="dark"] {
-    --paper: #151a22; --ink: #e4e8ee; --muted: #98a2b2; --rule: #2e3644;
-    --nay-fill: #485264; --brass: #d1a84a; --focus: #7fa6ea;
-  }
 
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    background: var(--paper);
-    color: var(--ink);
-    font: 400 1rem/1.55 "Public Sans", system-ui, sans-serif;
-    font-variant-numeric: tabular-nums;
-  }
-  main { max-width: 52rem; margin: 0 auto; padding: 3rem 1rem 4rem; }
-  a { color: inherit; text-underline-offset: 0.2em; }
-  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 
-  header h1 {
-    font-weight: 800;
-    font-size: clamp(2rem, 5vw, 3.1rem);
-    line-height: 1.05;
-    letter-spacing: -0.02em;
-    margin: 0 0 1rem;
-    max-width: 18ch;
+  .find { display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; align-items: center; }
+  input[type="search"] {
+    font: inherit; font-size: 1.25rem; flex: 1 1 20rem; min-width: 0;
+    padding: 0.75rem 1rem; color: var(--ink); background: transparent;
+    border: 2px solid var(--ink); border-radius: 3px;
   }
-  .lede { color: var(--muted); max-width: 60ch; margin: 0 0 2rem; }
-
-  .controls { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-bottom: 2.5rem; }
+  .filters { display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; align-items: center; margin-top: 1rem; }
   .tabs { display: flex; border: 1px solid var(--ink); border-radius: 3px; overflow: hidden; }
   .tabs button {
     font: inherit; font-size: 0.9rem; background: none; color: var(--ink);
-    border: 0; padding: 0.5rem 0.9rem; cursor: pointer;
+    border: 0; padding: 0.4rem 0.9rem; cursor: pointer;
   }
   .tabs button + button { border-left: 1px solid var(--ink); }
   .tabs button[aria-pressed="true"] { background: var(--ink); color: var(--paper); font-weight: 600; }
-  input[type="search"] {
-    font: inherit; font-size: 0.9rem; flex: 1 1 14rem; min-width: 0;
-    padding: 0.5rem 0.75rem; color: var(--ink); background: transparent;
-    border: 1px solid var(--rule); border-radius: 3px;
+  label.former { font-size: 0.9rem; color: var(--muted); display: flex; gap: 0.4rem; align-items: center; }
+  #count { color: var(--muted); font-size: 0.875rem; margin: 0.75rem 0 0; }
+
+  h2.state {
+    font-size: 1.6rem; font-weight: 800; letter-spacing: -0.01em;
+    color: var(--muted); margin: 2rem 0 0.25rem;
   }
-
-  h2.year {
-    font-size: 2.25rem; font-weight: 800; letter-spacing: -0.02em;
-    margin: 2.5rem 0 0.5rem; color: var(--muted);
+  ul.people { list-style: none; margin: 0; padding: 0; }
+  ul.people li {
+    display: grid; grid-template-columns: 1fr 15rem 7rem auto; gap: 0.25rem 1rem; align-items: baseline;
+    padding: 0.7rem 0; border-top: 1px solid var(--rule);
   }
+  .name { font-weight: 600; font-size: 1.1rem; }
+  .role, .party, .note { color: var(--muted); font-size: 0.9rem; }
+  .record { font-size: 0.9rem; }
 
-  details.bill { border-top: 1px solid var(--rule); }
-  details.bill > summary {
-    list-style: none; cursor: pointer; padding: 1rem 0;
-    display: grid; grid-template-columns: 7.5rem 1fr; gap: 0 1rem;
-  }
-  details.bill > summary::-webkit-details-marker { display: none; }
-  .issue { font-weight: 800; }
-  .doc { font-weight: 600; max-width: 62ch; }
-  .meta { grid-column: 2; color: var(--muted); font-size: 0.875rem; margin-top: 0.25rem; }
-  .meta .toggle::before { content: "Show votes"; text-decoration: underline; text-underline-offset: 0.2em; }
-  details[open] .meta .toggle::before { content: "Hide votes"; }
+  .empty, .error { padding: 2rem 0; color: var(--muted); }
 
-  ol.votes { list-style: none; margin: 0 0 1.25rem 8.5rem; padding: 0; }
-  ol.votes li {
-    display: grid; grid-template-columns: 6.5rem 1fr 9.5rem; gap: 0.25rem 1rem;
-    padding: 0.75rem 0; border-top: 1px dashed var(--rule); font-size: 0.925rem;
-  }
-  .cast { display: flex; gap: 0.45rem; align-items: baseline; font-weight: 600; white-space: nowrap; }
-  .mark { width: 0.7rem; height: 0.7rem; border: 2px solid var(--ink); flex: none; transform: translateY(0.05rem); }
-  .mark.yea { background: var(--ink); }
-  .mark.nay { background: transparent; }
-  .mark.absent { border: 0; height: 3px; background: var(--muted); transform: translateY(-0.2rem); }
-  .what time { color: var(--muted); font-size: 0.85rem; display: block; }
-  .what a { display: block; }
-  .why { grid-column: 2 / -1; color: var(--muted); font-size: 0.825rem; }
-
-  .tally { font-size: 0.8rem; color: var(--muted); }
-  .bar { position: relative; height: 0.6rem; margin: 0.3rem 0 0.2rem; background: transparent; outline: 1px solid var(--rule); }
-  .bar .y { position: absolute; left: 0; top: 0; bottom: 0; background: var(--ink); }
-  .bar .n { position: absolute; right: 0; top: 0; bottom: 0; background: var(--nay-fill); }
-  .bar .need { position: absolute; top: -0.25rem; bottom: -0.25rem; width: 2px; background: var(--brass); }
-
-  .empty, .error { padding: 2rem 0; color: var(--muted); border-top: 1px solid var(--rule); }
-  footer { margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.875rem; }
-  footer h2 { font-size: 1rem; color: var(--ink); margin: 0 0 0.5rem; }
-  footer p { max-width: 64ch; }
-  .key { display: flex; flex-wrap: wrap; gap: 1.25rem; margin: 0.75rem 0 1rem; }
-  .key span { display: inline-flex; gap: 0.4rem; align-items: center; }
-  .key .bar { width: 4rem; display: inline-block; margin: 0; }
-
-  @media (max-width: 40rem) {
-    details.bill > summary { grid-template-columns: 1fr; }
-    .meta { grid-column: 1; }
-    ol.votes { margin-left: 0; }
-    ol.votes li { grid-template-columns: 6rem 1fr; }
-    .tally { grid-column: 2; }
+  @media (max-width: 44rem) {
+    ul.people li { grid-template-columns: 1fr auto; }
+    .role { grid-column: 1; }
+    .party { grid-column: 1; }
+    .record { grid-row: 1; grid-column: 2; }
   }
 </style>
 </head>
 <body>
 <main>
-  <header>
-    <h1 id="title">Senate voting record</h1>
-    <p class="lede" id="lede"></p>
-  </header>
+  <nav class="site" aria-label="Site">
+    <a href="./" aria-current="page">Members of Congress</a>
+    <a href="how-it-works.html">How voting works</a>
+    <a href="glossary.html">Glossary</a>
+  </nav>
+  <h1>Congressional voting records</h1>
+  <p class="lede">Find your senators and representative and see how they voted. Every vote links to the official roll call record.</p>
 
-  <div class="controls">
-    <div class="tabs" role="group" aria-label="Which votes to show">
-      <button type="button" data-tier="core" aria-pressed="true"></button>
-      <button type="button" data-tier="related" aria-pressed="false"></button>
-    </div>
-    <input type="search" id="q" placeholder="Search bills and votes" aria-label="Search bills and votes">
+  <div class="find">
+    <input type="search" id="q" placeholder="Name or state, like Georgia" aria-label="Search members of Congress by name or state" autofocus>
   </div>
-
-  <section id="list" aria-live="polite"></section>
-
-  <footer id="about">
-    <h2>How votes are chosen</h2>
-    <div class="key" aria-hidden="true">
-      <span><i class="mark yea"></i>Yea</span>
-      <span><i class="mark nay"></i>Nay</span>
-      <span><i class="mark absent"></i>Not voting</span>
-      <span><i class="bar"><i class="y" style="width:51%"></i><i class="n" style="width:48%"></i><i class="need" style="left:60%"></i></i>Yeas, nays, and votes needed</span>
+  <div class="filters">
+    <div class="tabs" role="group" aria-label="Chamber">
+      <button type="button" data-chamber="" aria-pressed="true">Both chambers</button>
+      <button type="button" data-chamber="senate" aria-pressed="false">Senate</button>
+      <button type="button" data-chamber="house" aria-pressed="false">House</button>
     </div>
-    <p>Every vote comes from the Senate's official roll call record and links to it. A bill counts as a healthcare bill when the Congressional Research Service files it under Health, or when the vote's official title names healthcare, Medicare, Medicaid or the Affordable Care Act. Bills filed under another area that carry healthcare subject tags, like spending and defense bills, are listed separately.</p>
+    <label class="former"><input type="checkbox" id="former"> Include former members</label>
+  </div>
+  <p id="count" aria-live="polite"></p>
+
+  <section id="list"></section>
+
+  <footer>
+    <p>Senate votes come from senate.gov and House votes from the Clerk of the House. Each bill's policy area comes from the Congressional Research Service via congress.gov.</p>
     <p id="stamp"></p>
   </footer>
 </main>
 
+<script src="states.js"></script>
 <script>
-const params = new URLSearchParams(location.search);
-const senator = params.get("senator") || "S414";
-const topic = params.get("topic") || "healthcare";
-const src = `data/${senator}-${topic}.json`;
-
-const NEEDED = { "3/5": 60, "2/3": 67 };
-const fmtDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+let members = [], chamber = "";
 
-let data, tier = "core", query = "";
-
-function why(reason) {
-  if (reason.startsWith("policy area: ")) return "The Congressional Research Service files this bill under Health.";
-  if (reason.startsWith("title keyword: ")) {
-    const k = reason.slice(15);
-    const label = { medicare: "Medicare", medicaid: "Medicaid", "affordable care act": "the Affordable Care Act" }[k] ?? k;
-    return `The vote's official title mentions ${label}.`;
-  }
-  const m = reason.match(/^subjects: (.*) \(policy area: (.*)\)$/);
-  if (m) return `Filed under ${m[2]}, with healthcare subject tags: ${m[1]}.`;
-  return reason;
+function haystack(m) {
+  const where = m.chamber === "house" && m.district ? `${m.state}-${m.district} district ${m.district}` : "";
+  return [m.first, m.last, m.state, STATES[m.state], PARTIES[m.party], role(m), where].join(" ").toLowerCase();
 }
 
-function castClass(cast) {
-  return cast === "Yea" ? "yea" : cast === "Nay" ? "nay" : "absent";
-}
-
-function tally(v) {
-  const needed = NEEDED[v.requirement] ?? Math.floor((v.yeas + v.nays) / 2) + 1;
-  const label = NEEDED[v.requirement] ? `needed ${needed}` : "needed a simple majority";
-  return `<div class="tally">
-    <div class="bar" role="img" aria-label="${v.yeas} yea, ${v.nays} nay, ${label}">
-      <i class="y" style="width:${v.yeas}%"></i><i class="n" style="width:${v.nays}%"></i><i class="need" style="left:${needed}%"></i>
-    </div>
-    ${v.yeas}–${v.nays}, ${label}
-  </div>`;
-}
-
-function voteRow(v) {
+function row(m) {
   return `<li>
-    <span class="cast"><i class="mark ${castClass(v.cast)}"></i>${esc(v.cast)}</span>
-    <span class="what"><time datetime="${v.date}">${fmtDate(v.date)}</time>
-      <a href="${esc(v.source)}">${esc(v.title)}</a>${esc(v.result)}</span>
-    ${tally(v)}
-    <span class="why">${esc(why(v.reason))}</span>
+    <span class="name">${esc(`${m.first} ${m.last}`.trim())}${m.current ? "" : ` <span class="note">former</span>`}</span>
+    <span class="role">${esc(role(m))}</span>
+    <span class="party">${esc(PARTIES[m.party] ?? m.party)}</span>
+    <a class="record" href="member.html?id=${encodeURIComponent(m.id)}">Voting record</a>
   </li>`;
 }
 
-function billBlock(g) {
-  const n = g.votes.length;
-  const doc = g.votes.find((v) => v.document)?.document || g.votes[0].title;
-  return `<details class="bill"${n <= 2 ? " open" : ""}>
-    <summary>
-      <span class="issue">${esc(g.issue)}</span>
-      <span class="doc">${esc(doc)}</span>
-      <span class="meta">${n} recorded ${n === 1 ? "vote" : "votes"}, latest ${fmtDate(g.votes[0].date)}. <span class="toggle"></span></span>
-    </summary>
-    <ol class="votes">${g.votes.map(voteRow).join("")}</ol>
-  </details>`;
-}
-
-function matches(g) {
-  if (!query) return true;
-  const hay = [g.issue, ...g.votes.flatMap((v) => [v.title, v.document])].join(" ").toLowerCase();
-  return hay.includes(query);
-}
-
 function render() {
-  const groups = data.items.filter((g) => g.tier === tier && matches(g));
+  const terms = document.getElementById("q").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const showFormer = document.getElementById("former").checked;
+  // A bare state code ("ga") means that state, not every name containing "ga" (Gallego).
+  const code = terms.length === 1 && STATES[terms[0].toUpperCase()] ? terms[0].toUpperCase() : null;
+  const hit = (m) => (code ? m.state === code : terms.every((t) => m._hay.includes(t)));
+  const shown = members.filter((m) => (showFormer || m.current) && (!chamber || m.chamber === chamber) && hit(m));
+
+  document.getElementById("count").textContent = `${shown.length} ${shown.length === 1 ? "member" : "members"}`;
   const list = document.getElementById("list");
-  if (!groups.length) {
-    list.innerHTML = `<p class="empty">No bills match “${esc(query)}”. Clear the search to see all of them.</p>`;
+  if (!shown.length) {
+    list.innerHTML = `<p class="empty">No one matches that search. Try a last name or a state, like Georgia.</p>`;
     return;
   }
-  let year, html = "";
-  for (const g of groups) {
-    const y = g.votes[0].date.slice(0, 4);
-    if (y !== year) { html += `<h2 class="year">${y}</h2>`; year = y; }
-    html += billBlock(g);
+  let state, html = "";
+  for (const m of shown) {
+    if (m.state !== state) {
+      if (state) html += "</ul>";
+      html += `<h2 class="state">${esc(STATES[m.state] ?? m.state)}</h2><ul class="people">`;
+      state = m.state;
+    }
+    html += row(m);
   }
-  list.innerHTML = html;
+  list.innerHTML = html + "</ul>";
 }
 
-function setup() {
-  const name = data.senator.replace(/ \(.*/, "");
-  const who = data.senator.match(/\((.*)\)/)?.[1] ?? "";
-  const counts = { core: 0, related: 0 };
-  data.items.forEach((g) => counts[g.tier]++);
-  const years = data.items.flatMap((g) => g.votes.map((v) => v.date.slice(0, 4))).sort();
-
-  document.title = `Senator ${name}: ${topic} votes`;
-  document.getElementById("title").textContent = `How Senator ${name} voted on ${topic}`;
-  document.getElementById("lede").textContent =
-    `${name} (${who}) cast these votes from ${years[0]} to ${years.at(-1)}. Each one links to the Senate's official record.`;
-  document.querySelector('[data-tier="core"]').textContent = `Healthcare bills and nominations (${counts.core})`;
-  document.querySelector('[data-tier="related"]').textContent = `Other bills with healthcare provisions (${counts.related})`;
-  document.getElementById("stamp").textContent =
-    `Data built ${fmtDate(data.generated)} from Senate sessions ${data.sessions.join(", ")}. Subject tags from congress.gov.`;
-
-  document.querySelectorAll(".tabs button").forEach((b) =>
-    b.addEventListener("click", () => {
-      tier = b.dataset.tier;
-      document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-pressed", x === b));
-      render();
-    }));
-  document.getElementById("q").addEventListener("input", (e) => { query = e.target.value.trim().toLowerCase(); render(); });
-  render();
-}
-
-fetch(src)
-  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then((json) => { data = json; setup(); })
+fetch("data/members.json")
+  .then((r) => { if (!r.ok) throw new Error(); return r.json(); })
+  .then((dir) => {
+    const rank = (m) => [STATES[m.state] ?? m.state, m.chamber === "senate" ? 0 : 1, m.district || 0, m.last];
+    members = dir.members
+      .map((m) => ({ ...m, _hay: haystack(m), _rank: rank(m) }))
+      .sort((a, b) => {
+        for (let i = 0; i < 4; i++) {
+          const x = a._rank[i], y = b._rank[i];
+          if (x !== y) return typeof x === "number" ? x - y : String(x).localeCompare(String(y));
+        }
+        return 0;
+      });
+    document.getElementById("stamp").textContent =
+      `Directory built ${new Date(dir.generated + "T12:00").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}.`;
+    document.getElementById("q").addEventListener("input", render);
+    document.getElementById("former").addEventListener("change", render);
+    document.querySelectorAll(".tabs button").forEach((b) =>
+      b.addEventListener("click", () => {
+        chamber = b.dataset.chamber;
+        document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+        render();
+      }));
+    render();
+  })
   .catch(() => {
     document.getElementById("list").innerHTML =
-      `<p class="error">Couldn't load ${esc(src)}. Build it with <code>python record.py ${esc(senator)} ${esc(topic)} …</code>, then serve this folder over HTTP rather than opening the file directly.</p>`;
+      `<p class="error">The directory hasn't been built yet. Run <code>python record.py</code>, then serve this folder over HTTP.</p>`;
   });
 </script>
 </body>

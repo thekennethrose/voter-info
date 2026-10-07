@@ -255,12 +255,11 @@ function setup(casts, files, dir) {
   }
 
   const name = `${member.first} ${member.last}`.trim();
-  const title = member.chamber === "senate" ? "Senator" : "Representative";
+  const title = office(member);
   const all = Object.keys(casts).filter((rc) => files[rc.split("-")[0]]?.votes[rc]);
   const years = all.map((rc) => files[rc.split("-")[0]].votes[rc].date.slice(0, 4)).sort();
-  const where = member.chamber === "senate"
-    ? STATES[member.state] ?? member.state
-    : `${STATES[member.state] ?? member.state}, ${role(member).replace("Representative, ", "")}`;
+  const place = STATES[member.state] ?? member.state;
+  const where = title === "Representative" ? `${place}, ${role(member).replace("Representative, ", "")}` : place;
   const noms = groups.nominations.length;
 
   document.title = `${name}: voting record`;

@@ -35,6 +35,7 @@ class Builder:
         self.files = {}  # "s119" / "h119" -> votes file contents
         self.casts = {}  # member id -> {roll call: cast}
         self.members = {}  # member id -> latest info
+        self.current_house = set()  # bioguide ids serving now
 
     def file(self, chamber, congress):
         return self.files.setdefault(
@@ -119,13 +120,20 @@ class Builder:
             self.add("house", data, f"{c}-{s}-{n}", ref, meta, roll)
 
     def name_representatives(self, congresses):
-        """House XML gives last names only; congress.gov adds full names and districts."""
+        """House XML gives last names only, and "XX" as the state of delegates from
+        D.C. and the territories; congress.gov supplies full names, states and
+        districts. It also says who serves now: delegates vote only on amendments,
+        so "in the latest roll call" can't tell whether they're current."""
         for c in sorted(congresses):
             self.progress(f"Members of the {c}th Congress")
             for bio, d in sources.member_details(c, self.api_key).items():
                 m = self.members.get(bio)
                 if m and m["chamber"] == "house":
                     m.update(first=d["first"], last=d["last"], district=d["district"])
+                    if d["state"]:
+                        m["state"] = d["state"]
+        self.progress("Current members")
+        self.current_house = sources.current_member_ids(self.api_key)
 
 
 CODES = {"Yea": "Y", "Aye": "A", "Nay": "N", "No": "O", "Present": "P",
@@ -177,7 +185,10 @@ def write(sessions, b):
     members = []
     for m in b.members.values():
         entry = {k: v for k, v in m.items() if k != "last_vote"}
-        entry["current"] = m["last_vote"] == newest[m["chamber"]]
+        if m["chamber"] == "house":
+            entry["current"] = m["id"] in b.current_house
+        else:
+            entry["current"] = m["last_vote"] == newest[m["chamber"]]
         members.append(entry)
     members.sort(key=lambda m: (m["state"], m["chamber"] != "senate",
                                 m.get("district") or 0, m["last"]))  # fmt: skip

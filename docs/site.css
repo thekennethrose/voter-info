@@ -49,3 +49,9 @@ h1 {
 footer { margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.875rem; }
 footer h2 { font-size: 1rem; color: var(--ink); margin: 0 0 0.5rem; }
 footer p { max-width: 64ch; }
+
+.tip { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.875rem; }
+.tip h2 { font-size: 1rem; color: var(--ink); margin: 0 0 0.5rem; }
+.tip p { max-width: 64ch; margin: 0 0 0.75rem; }
+.tip a { display: inline-block; border-radius: 8px; }
+.tip img { display: block; height: 36px; width: auto; }

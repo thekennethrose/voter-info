@@ -38,6 +38,7 @@ Adding issues never adds files. Bill numbers restart each Congress, so keys incl
 - `docs/senator.html`: redirect to `member.html` for old links
 - `docs/states.js`: state/party names and the `role()` label shared by both pages
 - `docs/site.css`: color tokens (light/dark), base type, site nav; every page links it
+- Tip jar: every page ends with the same `<section class="tip">` linking ko-fi.com/broaden1202; the button is Ko-fi's official image, saved as `docs/kofi.png` so pages make no third-party requests
 - `docs/glossary.html`: plain-English definitions of terms in vote titles, each with an `id` anchor (`glossary.html#cloture`)
 - `docs/how-it-works.html`: how elections work and how Congress votes, linking only to official sources (.gov) that have been checked to load
 - Definitions and process descriptions must match official sources (senate.gov, house.gov, usa.gov, archives.gov, CRS). Verify before adding or changing one.

@@ -6,6 +6,7 @@ A nonpartisan reference showing how every member of the U.S. Congress voted, gro
 
 - Search any senator or representative by name, state, district or chamber
 - See each member's recorded votes on bills, grouped by issue, plus Senate votes on nominations
+- For a pilot group of members, see what they said in the Congressional Record and news coverage that names them, with articles that quote the Record word for word shown next to the official text
 - Look up procedural terms like *cloture* or *motion to recommit* in the [glossary](https://thekennethrose.github.io/voter-info/glossary.html)
 - Read a plain-language guide to [how voting works](https://thekennethrose.github.io/voter-info/how-it-works.html), from elections to floor votes
 

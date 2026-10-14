@@ -1,4 +1,5 @@
-# Secrets
+# Secrets: API keys (congress.gov/GovInfo, Media Cloud, Tavily, DeepSeek) live in
+# .env only; .env.example lists the names with no values.
 .env
 .env.*
 !.env.example

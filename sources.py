@@ -1,4 +1,5 @@
-"""Fetching from senate.gov, clerk.house.gov and congress.gov, with a disk cache."""
+"""Fetching from senate.gov, clerk.house.gov, congress.gov, GovInfo and GDELT, with a
+disk cache."""
 
 import gzip
 import hashlib
@@ -11,6 +12,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import urllib.robotparser
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
@@ -78,10 +80,12 @@ def _wait_turn(host):
         _last_request[host] = time.monotonic()
 
 
-def fetch(url, valid=lambda body: True, tries=len(BACKOFF) + 1):
+def fetch(url, valid=lambda body: True, tries=len(BACKOFF) + 1, headers=None):
     """GET with pacing, and retries on throttling, server errors and garbage bodies."""
     host = urllib.parse.urlsplit(url).hostname
-    req = urllib.request.Request(url, headers={"User-Agent": "voter-info/0.1"})
+    req = urllib.request.Request(
+        url, headers={"User-Agent": "voter-info/0.1", **(headers or {})}
+    )
     for attempt in range(tries):
         _wait_turn(host)
         try:
@@ -285,3 +289,227 @@ def member(bioguide, api_key):
         and term.get("chamber") == "House of Representatives"
         and not term.get("endYear"),
     }
+
+
+# --- Congressional Record (GovInfo) ---
+
+GOVINFO = "https://api.govinfo.gov/published/{start}/{end}?collection=CREC&pageSize=1000&offsetMark=*&api_key={k}"
+CREC_MODS = "https://www.govinfo.gov/metadata/pkg/{pkg}/mods.xml"
+CREC_HTML = "https://www.govinfo.gov/content/pkg/{pkg}/html/{granule}.htm"
+CREC_PAGE = "https://www.govinfo.gov/app/details/{pkg}/{granule}"
+SENATORS = "https://www.senate.gov/legislative/LIS_MEMBER/cvc_member_data.xml"
+MODS = "{http://www.loc.gov/mods/v3}"
+
+
+def crec_issues(start, end, api_key):
+    """Daily issues of the Record published between two ISO dates, oldest first."""
+    url, out = GOVINFO.format(start=start, end=end, k=api_key), []
+    while url:
+        page = json.loads(fetch(url))
+        out += [(p["packageId"], p["dateIssued"]) for p in page["packages"]]
+        nxt = page.get("nextPage")
+        url = nxt and f"{nxt}&api_key={api_key}"
+    return sorted(out, key=lambda p: p[1])
+
+
+def is_mods(body):
+    return b"<mods" in body[:2000]
+
+
+def is_crec_html(body):
+    return b"<pre>" in body
+
+
+def crec_granules(mods):
+    """Every section of one day's Record that has a member speaking: id, title,
+    class (SENATE / HOUSE / EXTENSIONS), subclass, and the speakers as
+    (bioguide id, name as printed, e.g. "Mr. ROGERS of Alabama")."""
+    root = ET.fromstring(mods)
+    for item in root.iter(f"{MODS}relatedItem"):
+        ext = item.find(f"{MODS}extension")
+        if item.get("type") != "constituent" or ext is None:
+            continue
+        speakers = [
+            (m.get("bioGuideId"), m.findtext(f"{MODS}name[@type='parsed']") or "")
+            for m in ext.iter(f"{MODS}congMember")
+            if m.get("role") == "SPEAKING" and m.get("bioGuideId")
+        ]
+        if speakers:
+            yield {
+                "granule": ext.findtext(f"{MODS}accessId"),
+                "date": ext.findtext(f"{MODS}granuleDate"),
+                "title": " ".join(
+                    item.findtext(f"{MODS}titleInfo/{MODS}title").split()
+                ),
+                "class": ext.findtext(f"{MODS}granuleClass"),
+                "subclass": ext.findtext(f"{MODS}subGranuleClass"),
+                "speakers": speakers,
+            }
+
+
+def senate_bioguide():
+    """Current senators' LIS id -> bioguide id, from senate.gov. Falls back to the
+    saved copy if senate.gov is blocking us."""
+    path = CACHE / "menus" / "senators.xml"
+    try:
+        body = fetch(SENATORS, lambda b: b"<senators" in b)
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(body)
+    except (OSError, ValueError, http.client.HTTPException):
+        if not path.exists():
+            raise
+        body = path.read_bytes()
+    return {
+        s.get("lis_member_id"): s.findtext("bioguideId")
+        for s in ET.fromstring(body).iter("senator")
+    }
+
+
+# --- News coverage (GDELT) ---
+
+GDELT = (
+    "https://api.gdeltproject.org/api/v2/doc/doc?query={q}&mode=artlist"
+    "&maxrecords=250&format=json&sort=datedesc&startdatetime={start}&enddatetime={end}"
+)
+GDELT_MAX = 250
+# GDELT asks for one request every 5 seconds and answers faster ones with a
+# plain-text notice (HTTP 200) or a 429. In practice 6 seconds still drew 429s.
+MIN_GAP["api.gdeltproject.org"] = 10.0
+GDELT_COOLDOWN = 90
+
+
+class Throttled(Exception):
+    """GDELT is refusing requests; asking again only prolongs it."""
+
+
+def gdelt(query, start, end):
+    """Articles GDELT indexed between two datetimes (YYYYMMDDHHMMSS) that match.
+    After a refusal, waits once and tries again; retrying faster keeps the block
+    going."""
+    url = GDELT.format(q=urllib.parse.quote(query), start=start, end=end)
+    for attempt in range(2):
+        try:
+            body = fetch(url, lambda b: b.lstrip()[:1] == b"{", tries=1)
+            return json.loads(body or b"{}").get("articles", [])
+        except (ValueError, urllib.error.HTTPError) as e:
+            if attempt:
+                raise Throttled(str(e)) from e
+            time.sleep(GDELT_COOLDOWN)
+
+
+# --- News coverage (Media Cloud) ---
+
+MEDIACLOUD = "https://search.mediacloud.org/api/{path}?{query}"
+# Media Cloud allows at most 10 requests a minute.
+MIN_GAP["search.mediacloud.org"] = 7.0
+
+
+def mediacloud(path, api_key, **params):
+    url = MEDIACLOUD.format(path=path, query=urllib.parse.urlencode(params))
+    headers = {"Authorization": f"Token {api_key}", "Accept": "application/json"}
+    return json.loads(fetch(url, headers=headers))
+
+
+def mediacloud_stories(query, start, end, collections, api_key):
+    """Every story in Media Cloud's collections matching the query between two ISO
+    dates: url, title, publish_date, media_url, media_name."""
+    out, token = [], None
+    while True:
+        params = {"q": query, "start": start, "end": end,
+                  "cs": ",".join(str(c) for c in collections),
+                  "platform": "onlinenews-mediacloud", "page_size": 1000}  # fmt: skip
+        if token:
+            params["pagination_token"] = token
+        page = mediacloud("search/story-list", api_key, **params)
+        out += page.get("stories", [])
+        token = page.get("pagination_token")
+        if not token:
+            return out
+
+
+ARTICLE_UA = "voter-info/0.1 (+https://github.com/thekennethrose/voter-info)"
+_robots = {}
+_robots_lock = threading.Lock()
+
+
+def _allowed(url):
+    """Honor each site's robots.txt."""
+    parts = urllib.parse.urlsplit(url)
+    root = f"{parts.scheme}://{parts.netloc}"
+    with _robots_lock:
+        rp = _robots.get(root)
+        if rp is None:
+            rp = urllib.robotparser.RobotFileParser()
+            try:
+                req = urllib.request.Request(
+                    f"{root}/robots.txt", headers={"User-Agent": ARTICLE_UA}
+                )
+                with urllib.request.urlopen(req, timeout=15) as r:
+                    rp.parse(r.read(500_000).decode("utf-8", "replace").splitlines())
+            except urllib.error.HTTPError as e:  # same rules as RobotFileParser.read
+                rp.parse(
+                    ["User-agent: *", "Disallow: /"] if e.code in (401, 403) else []
+                )
+            except (OSError, http.client.HTTPException, ValueError):
+                rp.parse([])
+            _robots[root] = rp
+    return rp.can_fetch(ARTICLE_UA, url)
+
+
+ARTICLE_GAP = 1.0  # seconds between requests to the same news site
+
+
+def article(url):
+    """A news article's headline and the text a reader can see ({"title", "text",
+    "partial"}: partial if some was hidden, e.g. for subscribers), or None if the
+    site refuses, blocks or fails. The page is saved compressed to data/raw/media/
+    (never published) so text can be re-extracted without downloading again;
+    failures are remembered too, so reruns don't hammer sites that block us."""
+    import speeches
+
+    key = hashlib.sha256(url.encode()).hexdigest()[:20]
+    path = Path("data/raw/media") / f"{key}.html.gz"
+    failed = path.with_name(f"{key}.failed")
+    if path.exists():
+        body = gzip.decompress(path.read_bytes())
+    elif failed.exists():
+        return None
+    else:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        body = None
+        try:
+            if _allowed(url):
+                host = urllib.parse.urlsplit(url).hostname
+                MIN_GAP.setdefault(host, ARTICLE_GAP)
+                _wait_turn(host)
+                req = urllib.request.Request(url, headers={"User-Agent": ARTICLE_UA})
+                with urllib.request.urlopen(req, timeout=15) as r:
+                    if "html" in (r.headers.get("Content-Type") or ""):
+                        body = r.read(4_000_000)
+        except (OSError, http.client.HTTPException, ValueError):
+            pass
+        if not body:
+            failed.touch()
+            return None
+        path.write_bytes(gzip.compress(body))
+    text, partial = speeches.page_text(body)
+    return {"title": speeches.page_title(body), "text": text, "partial": partial}
+
+
+# --- Outlet ratings ---
+
+ROBERTSON = "https://personalization.ccs.neu.edu/static/archive/bias_scores.tar.gz"
+
+
+def robertson_scores():
+    """domain -> partisan audience score, -1 (shared only by Democrats) to 1
+    (shared only by Republicans). Robertson et al. 2018, from ~500K Twitter users
+    matched to voter records."""
+    import csv
+    import io
+    import tarfile
+
+    with tarfile.open(fileobj=io.BytesIO(cached(ROBERTSON)), mode="r:gz") as tar:
+        f = tar.extractfile("bias_scores/bias_scores.csv")
+        rows = csv.DictReader(io.TextIOWrapper(f, "utf-8"))
+        return {r["domain"]: float(r["score"]) for r in rows if r["score"]}

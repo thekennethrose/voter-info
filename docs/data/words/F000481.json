@@ -1,0 +1,4793 @@
+{
+ "generated": "2026-10-13",
+ "record_from": "2025-01-03",
+ "media_from": "2026-09-13",
+ "capped": [],
+ "floor": [
+  {
+   "g": "CREC-2026-09-16-pt1-PgH5850",
+   "date": "2026-09-16",
+   "title": "WATER RESOURCES DEVELOPMENT ACT OF 2026",
+   "kind": "house",
+   "words": 514
+  },
+  {
+   "g": "CREC-2026-09-14-pt1-PgH5538-2",
+   "date": "2026-09-14",
+   "title": "HONORING MICHAEL FIGURES",
+   "kind": "house",
+   "words": 847
+  },
+  {
+   "g": "CREC-2026-07-22-pt1-PgE729-2",
+   "date": "2026-07-22",
+   "title": "INTRODUCTION OF THE TUSKEGEE AIRMEN MEMORIAL ACT OF 2026",
+   "kind": "extension",
+   "words": 397
+  },
+  {
+   "g": "CREC-2026-07-15-pt1-PgE691-3",
+   "date": "2026-07-15",
+   "title": "INTRODUCTION OF THE TARIFF IMPACTED FARMER SUPPORT ACT OF 2026",
+   "kind": "extension",
+   "words": 357
+  },
+  {
+   "g": "CREC-2026-06-24-pt1-PgH4218",
+   "date": "2026-06-24",
+   "title": "HONORING MIKHAIL TORRANCE",
+   "kind": "house",
+   "words": 996
+  },
+  {
+   "g": "CREC-2026-06-24-pt1-PgE612",
+   "date": "2026-06-24",
+   "title": "INTRODUCTION OF THE AFFORDABLE YOUTH ENRICHMENT OPPORTUNITIES ACT",
+   "kind": "extension",
+   "words": 302
+  },
+  {
+   "g": "CREC-2026-03-27-pt1-PgH2782-8",
+   "date": "2026-03-27",
+   "title": "DEFENDING AMERICAN PROPERTY ABROAD ACT OF 2026",
+   "kind": "house",
+   "words": 397
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2662",
+   "date": "2026-03-24",
+   "title": "AMERICAN WATER STEWARDSHIP ACT",
+   "kind": "house",
+   "words": 526
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2661",
+   "date": "2026-03-24",
+   "title": "SUPERSONIC AVIATION MODERNIZATION ACT",
+   "kind": "house",
+   "words": 511
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2660",
+   "date": "2026-03-24",
+   "title": "AIRMEN CERTIFICATE ACCESSIBILITY ACT",
+   "kind": "house",
+   "words": 357
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2659",
+   "date": "2026-03-24",
+   "title": "RECREATIONAL DRONE EMPOWERMENT ACT",
+   "kind": "house",
+   "words": 307
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2658",
+   "date": "2026-03-24",
+   "title": "AIRPORT REGULATORY RELIEF ACT OF 2025",
+   "kind": "house",
+   "words": 520
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2657",
+   "date": "2026-03-24",
+   "title": "ACPAC MODERNIZATION ACT",
+   "kind": "house",
+   "words": 487
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2655",
+   "date": "2026-03-24",
+   "title": "AVIATION SUPPLY CHAIN SAFETY AND SECURITY DIGITIZATION ACT OF 2025",
+   "kind": "house",
+   "words": 322
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2654",
+   "date": "2026-03-24",
+   "title": "WILDFIRE AERIAL RESPONSE SAFETY ACT",
+   "kind": "house",
+   "words": 518
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2652",
+   "date": "2026-03-24",
+   "title": "MADE IN AMERICA JOBS ACT OF 2026",
+   "kind": "house",
+   "words": 379
+  },
+  {
+   "g": "CREC-2025-12-15-pt1-PgH5872",
+   "date": "2025-12-15",
+   "title": "ENHANCING SCIENCE, TREATMENT, AND UPKEEP OF AMERICA'S RESILIENT AND IMPORTANT ESTUARINE SYSTEMS ACT",
+   "kind": "house",
+   "words": 826
+  },
+  {
+   "g": "CREC-2025-12-15-pt1-PgH5869",
+   "date": "2025-12-15",
+   "title": "FEDERAL MARITIME COMMISSION REAUTHORIZATION ACT OF 2025",
+   "kind": "house",
+   "words": 191
+  },
+  {
+   "g": "CREC-2025-12-15-pt1-PgH5867",
+   "date": "2025-12-15",
+   "title": "SAVE OUR SEAS 2.0 AMENDMENTS ACT",
+   "kind": "house",
+   "words": 459
+  },
+  {
+   "g": "CREC-2025-11-19-pt1-PgH4810",
+   "date": "2025-11-19",
+   "title": "TUSKEGEE AIRMEN MOMENT OF SILENCE",
+   "kind": "house",
+   "words": 307
+  },
+  {
+   "g": "CREC-2025-11-17-pt1-PgH4678",
+   "date": "2025-11-17",
+   "title": "EXPRESSING CONDOLENCES AND SUPPORT FOR THE VICTIMS OF THE JULY 4 FLOODING IN TEXAS, HONORING ACTS OF HEROISM, AND COMMITTING TO STAND WITH THOSE IMPACTED BY THESE FLOODS",
+   "kind": "house",
+   "words": 813
+  },
+  {
+   "g": "CREC-2025-09-18-pt1-PgH4423-3",
+   "date": "2025-09-18",
+   "title": "SICKLE CELL AWARENESS MONTH",
+   "kind": "house",
+   "words": 256
+  },
+  {
+   "g": "CREC-2025-09-15-pt1-PgH4303-2",
+   "date": "2025-09-15",
+   "title": "HONORING VICTIMS OF 16TH STREET BAPTIST CHURCH BOMBING",
+   "kind": "house",
+   "words": 513
+  },
+  {
+   "g": "CREC-2025-09-15-pt1-PgH4278",
+   "date": "2025-09-15",
+   "title": "COURTHOUSE AFFORDABILITY AND SPACE EFFICIENCY ACT OF 2025",
+   "kind": "house",
+   "words": 301
+  },
+  {
+   "g": "CREC-2025-09-15-pt1-PgH4277",
+   "date": "2025-09-15",
+   "title": "WATER RESOURCES TECHNICAL ASSISTANCE REVIEW ACT",
+   "kind": "house",
+   "words": 433
+  },
+  {
+   "g": "CREC-2025-09-08-pt1-PgH3879",
+   "date": "2025-09-08",
+   "title": "MID-ATLANTIC RIVER BASIN COMMISSIONS REVIEW ACT",
+   "kind": "house",
+   "words": 302
+  },
+  {
+   "g": "CREC-2025-09-08-pt1-PgH3877",
+   "date": "2025-09-08",
+   "title": "PERSONNEL OVERSIGHT AND SHIFT TRACKING ACT OF 2025",
+   "kind": "house",
+   "words": 334
+  },
+  {
+   "g": "CREC-2025-09-08-pt1-PgH3876",
+   "date": "2025-09-08",
+   "title": "SHARED PROPERTY AGENCY COLLABORATION AND ENGAGEMENT ACT OF 2025",
+   "kind": "house",
+   "words": 203
+  },
+  {
+   "g": "CREC-2025-09-08-pt1-PgH3875",
+   "date": "2025-09-08",
+   "title": "FACILITY FOR RUNWAY OPERATIONS AND SAFE TRANSPORTATION ACT",
+   "kind": "house",
+   "words": 403
+  },
+  {
+   "g": "CREC-2025-09-08-pt1-PgH3874",
+   "date": "2025-09-08",
+   "title": "TRANSITIONING RETIRING AND NEW SERVICE MEMBERS TO PORT OCEAN RAIL AND TRUCK JOBS ACT",
+   "kind": "house",
+   "words": 236
+  },
+  {
+   "g": "CREC-2025-09-08-pt1-PgH3872",
+   "date": "2025-09-08",
+   "title": "MENTAL HEALTH IN AVIATION ACT OF 2025",
+   "kind": "house",
+   "words": 245
+  },
+  {
+   "g": "CREC-2025-07-17-pt1-PgH3373-4",
+   "date": "2025-07-17",
+   "title": "DIGITAL ASSET MARKET CLARITY ACT OF 2025",
+   "kind": "house",
+   "words": 321
+  },
+  {
+   "g": "CREC-2025-07-14-pt1-PgH3235-2",
+   "date": "2025-07-14",
+   "title": "HONORING JOHN LEWIS",
+   "kind": "house",
+   "words": 627
+  },
+  {
+   "g": "CREC-2025-07-14-pt1-PgH3235",
+   "date": "2025-07-14",
+   "title": "HONORING DR. KALISHA DESSOURCES FIGURES",
+   "kind": "house",
+   "words": 117
+  },
+  {
+   "g": "CREC-2025-06-24-pt1-PgH2900-2",
+   "date": "2025-06-24",
+   "title": "PROVIDING FOR CONSIDERATION OF H.R. 3944, MILITARY CONSTRUCTION, VETERANS AFFAIRS, AND RELATED AGENCIES APPROPRIATIONS ACT, 2026; PROVIDING FOR CONSIDERATION OF H.R. 275, SPECIAL INTEREST ALIEN...",
+   "kind": "house",
+   "words": 457
+  },
+  {
+   "g": "CREC-2025-05-21-pt2-PgH2220-2",
+   "date": "2025-05-21",
+   "title": "PROVIDING FOR CONSIDERATION OF H.R. 1, ONE BIG BEAUTIFUL BILL ACT",
+   "kind": "house",
+   "words": 175
+  },
+  {
+   "g": "CREC-2025-04-29-pt1-PgH1690",
+   "date": "2025-04-29",
+   "title": "HONORING ALEXIS MARGARET HERMAN",
+   "kind": "house",
+   "words": 714
+  },
+  {
+   "g": "CREC-2025-04-28-pt1-PgH1673",
+   "date": "2025-04-28",
+   "title": "HEALTH DISPARITIES IN MINORITY COMMUNITIES",
+   "kind": "house",
+   "words": 1732
+  },
+  {
+   "g": "CREC-2025-04-10-pt1-PgH1569-2",
+   "date": "2025-04-10",
+   "title": "SAFEGUARD AMERICAN VOTER ELIGIBILITY ACT",
+   "kind": "house",
+   "words": 210
+  },
+  {
+   "g": "CREC-2025-03-11-pt1-PgH1078-3",
+   "date": "2025-03-11",
+   "title": "MONTGOMERY GREYHOUND BUS STATION",
+   "kind": "house",
+   "words": 668
+  },
+  {
+   "g": "CREC-2025-03-05-pt1-PgH981-2",
+   "date": "2025-03-05",
+   "title": "PEOPLE, NOT STATISTICS",
+   "kind": "house",
+   "words": 341
+  },
+  {
+   "g": "CREC-2025-02-27-pt1-PgH901",
+   "date": "2025-02-27",
+   "title": "REMEMBERING HISTORY AND WHY IT IS IMPORTANT",
+   "kind": "house",
+   "words": 965
+  },
+  {
+   "g": "CREC-2025-02-24-pt1-PgH752-4",
+   "date": "2025-02-24",
+   "title": "BLACK HISTORY MONTH",
+   "kind": "house",
+   "words": 2052
+  },
+  {
+   "g": "CREC-2025-02-05-pt1-PgH466-2",
+   "date": "2025-02-05",
+   "title": "CONDITIONS FOR DISASTER AID",
+   "kind": "house",
+   "words": 475
+  }
+ ],
+ "media": [
+  {
+   "date": "2026-10-13",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/analysis-why-shomari-figures-wife-will-not-be-voting-for-him-in-the-general-election/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Analysis: Why Shomari Figures' wife will not be voting for him in the general election",
+   "checked": true
+  },
+  {
+   "date": "2026-10-13",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-algop-warns-democrats-are-fired-up-al-trans-candidate-fires-back-abrams-rallies-for-jones-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: ALGOP warns Democrats are fired up, AL trans candidate fires back, Abrams rallies for Jones, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-10-13",
+   "domain": "decaturdaily.com",
+   "url": "https://www.decaturdaily.com/news/elections/democrats-outspend-republicans-on-ads-nearly-2-to-1-in-alabama-s-2nd-district-race/article_54efc5fd-d26f-491c-97dd-420aabe2b03e.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Democrats outspend Republicans on ads nearly 2-to-1 in Alabama\u2019s 2nd District race",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-12",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/stadthagen-sounds-alarm-on-gop-turnout-democrats-are-more-fired-up-than-they-ever-have-been/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Stadthagen sounds alarm on GOP turnout: \u2018Democrats are more fired up than they ever have been\u2019",
+   "checked": true
+  },
+  {
+   "date": "2026-10-12",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/caroleene-dobson-shomari-figures-routinely-voted-against-the-most-basic-ballot-box-protections/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Caroleene Dobson: Shomari Figures 'routinely voted against the most basic ballot box protections'",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "wvasfm.org",
+   "url": "https://www.wvasfm.org/wvas-local/2026-10-09/alabama-power-makes-preparations-ahead-of-hurricane-isaias",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama Power Makes Preparations Ahead of Hurricane Isaias",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "troymessenger.com",
+   "url": "https://www.troymessenger.com/news/rhett-marques-calls-out-shomari-figures-over-stock-trading-bill-figures-fires-back-402c5ca1",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Rhett Marques calls out Shomari Figures over stock trading b...",
+   "checked": false
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "nbcnews.com",
+   "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-vance-2026-midterm-elections-congress-live-updates-rcna602380",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump names conservative commentator as new White House press secretary",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/10/08/rep-figures-montgomery-citycounty-officials-hold-briefing-isaias-nears/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Montgomery city/county officials hold weather briefing ahead of Isaias",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "waff.com",
+   "url": "https://www.waff.com/2026/10/08/rep-figures-montgomery-citycounty-officials-hold-briefing-isaias-nears/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Montgomery city/county officials hold weather briefing ahead of Isaias",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "precinctreporter.com",
+   "url": "https://precinctreporter.com/2026/10/08/black-voters-midterms-hinge-on-uneven-turnout-redistricting/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Black Voters: Midterms Hinge on Uneven Turnout, Redistricting - Precinct Reporter Group News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "amsterdamnews.com",
+   "url": "https://amsterdamnews.com/news/2026/10/08/midterm-maps-changed-so-could-black-political-power/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Midterm maps changed. So could Black political power",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/shomari-figures-again-caught-taking-credit-for-funding-he-voted-against-opposed-39-million-in-projects-for-own-district/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Shomari Figures again caught taking credit for funding he voted against \u2013 opposed $39 million in projects for own district",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "westsidestorynewspaper.com",
+   "url": "https://westsidestorynewspaper.com/letter-to-the-editor-for-black-voters-midterms-hinge-on-uneven-turnout-redistricting/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Westsidestory Newspaper Online",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "sdvoice.info",
+   "url": "https://sdvoice.info/for-black-voters-midterms-hinge-on-uneven-turnout-redistricting/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "For Black Voters, Midterms Hinge on Uneven Turnout, Redistricting",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-the-unrepentant-liars-in-the-media-lie-as-election-nears-britt-and-tuberville-warn-voters-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: The unrepentant liars in the media lie as election nears, Britt and Tuberville warn voters, and more ...",
+   "checked": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-trump-returns-to-alabama-dumb-south-alabama-kids-ruin-lives-over-social-media-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Trump returns to Alabama, dumb South Alabama kids ruin lives over social media, and more ...",
+   "checked": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "defendernetwork.com",
+   "url": "https://defendernetwork.com/news/politics/the-midterm-maps-changed-so-could-black-political-power/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The midterm maps changed. So could Black political power",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/they-dont-love-this-nation-katie-britt-welcomes-trump-back-to-mobile-and-unloads-on-the-most-radical-group-of-candidates-this-country-has-ever-seen/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'They don't love this nation': Katie Britt welcomes Trump back to Mobile and unloads on 'the most radical group of candidates this country has ever seen'",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/she-will-never-let-you-down-trump-gives-katherine-robertson-his-complete-and-total-endorsement-for-attorney-general-at-mobile-rally/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'She will never let you down': Trump gives Katherine Robertson his 'complete and total endorsement' for Alabama Attorney General at Mobile rally",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/president-trump-stumps-for-candidates-in-alabama-and-says-hell-be-back-again-next-week",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump stumps for candidates in Alabam, says he'll be back again next week | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/president-trump-rallies-in-mobile-tonight-heres-everything-we-know/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump rallies in Mobile tonight: Here's everything we know",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/here-in-alabama-we-know-exactly-what-a-woman-is-algop-chairman-scott-stadthagen-torches-shomari-figures-and-doug-jones-at-trumps-mobile-rally/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Here in Alabama, we know exactly what a woman is': ALGOP Chairman Scott Stadthagen torches Shomari Figures and Doug Jones at Trump's Mobile rally",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/craziness-vs-common-sense-state-rep-rhett-marques-rallies-with-president-trump-pledges-to-turn-alabamas-2nd-from-blue-back-to-red/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Craziness vs. common sense': State Rep. Rhett Marques rallies with President Trump, pledges to turn Alabama's 2nd 'from blue back to red'",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wtva.com",
+   "url": "https://www.wtva.com/2026/10/02/groundbreaking-held-mobile-river-bridge-bayway-project/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Groundbreaking held for Mobile River Bridge and Bayway project",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wsoctv.com",
+   "url": "https://www.wsoctv.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wsls.com",
+   "url": "https://www.wsls.com/news/politics/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wsjm.com",
+   "url": "https://www.wsjm.com/2026/10/02/trump-heads-to-deep-red-alabama-to-thank-loyal-voters-as-gop-eyes-a-key-house-seat/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump heads to deep-red Alabama to \u2018thank\u2019 loyal voters as GOP eyes a key House seat",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wsbtv.com",
+   "url": "https://www.wsbtv.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wral.com",
+   "url": "https://www.wral.com/news/ap/be247-trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wpxi.com",
+   "url": "https://www.wpxi.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wokv.com",
+   "url": "https://www.wokv.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wlox.com",
+   "url": "https://www.wlox.com/2026/10/02/groundbreaking-held-mobile-river-bridge-bayway-project/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Groundbreaking held for Mobile River Bridge and Bayway project",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "whittierdailynews.com",
+   "url": "https://www.whittierdailynews.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "whittierdailynews.com",
+   "url": "https://www.whittierdailynews.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "whio.com",
+   "url": "https://www.whio.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wftv.com",
+   "url": "https://www.wftv.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/trump-heads-to-deep-red-alabama-to-thank-loyal-voters-as-gop-eyes-a-key-house-seat",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump heads to deep-red Alabama to 'thank' loyal voters as GOP eyes a key House seat | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "the-journal.com",
+   "url": "https://www.the-journal.com/articles/associated-press/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "saratogian.com",
+   "url": "https://www.saratogian.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "saratogian.com",
+   "url": "https://www.saratogian.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "pottsmerc.com",
+   "url": "https://www.pottsmerc.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "pilotonline.com",
+   "url": "https://www.pilotonline.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "pbs.org",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-rally-in-alabama-as-he-tries-to-boost-up-midterm-enthusiasm",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "WATCH: Trump holds rally in Alabama as he tries to boost midterm enthusiasm",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "orlandosentinel.com",
+   "url": "https://www.orlandosentinel.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "newsday.com",
+   "url": "https://www.newsday.com/news/nation/trump-mobile-alabama-tuberville-l14220",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "news4jax.com",
+   "url": "https://www.news4jax.com/news/politics/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "ms.now",
+   "url": "https://www.ms.now/news/trump-alabama-rally-jones-tuberville-figures",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama Democrats see Trump\u2019s Mobile rally as a sign of GOP nerves",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "montereyherald.com",
+   "url": "https://www.montereyherald.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "marinij.com",
+   "url": "https://www.marinij.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "ksat.com",
+   "url": "https://www.ksat.com/news/politics/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "kiro7.com",
+   "url": "https://www.kiro7.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/10/02/groundbreaking-held-mobile-river-bridge-bayway-project/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Groundbreaking held for Mobile River Bridge and Bayway project",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "durangoherald.com",
+   "url": "https://www.durangoherald.com/articles/associated-press/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "clickorlando.com",
+   "url": "https://www.clickorlando.com/news/politics/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "clickondetroit.com",
+   "url": "https://www.clickondetroit.com/news/politics/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "click2houston.com",
+   "url": "https://www.click2houston.com/news/politics/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "citizensvoice.com",
+   "url": "https://www.citizensvoice.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "chicoer.com",
+   "url": "https://www.chicoer.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "chicoer.com",
+   "url": "https://www.chicoer.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "boston25news.com",
+   "url": "https://www.boston25news.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/10/02/trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/10/02/paxtion-trump-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "actionnewsjax.com",
+   "url": "https://www.actionnewsjax.com/news/politics/trump-heads-alabama/45YGNSD4FQYYNOWU2E6QRHBR3I/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wtop.com",
+   "url": "https://wtop.com/news/2026/10/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he\u2019ll be back again next week \u2013 WTOP News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "krmg.com",
+   "url": "https://krmg.com/2026/10/02/trump-heads-to-alabama-i-go-there-because-they-want-to-see-me-there/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/governor-ivey-awards-nearly-55-million-in-new-rural-health-grants-funded-by-trumps-one-big-beautiful-bill-across-alabama/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Governor Ivey awards nearly $55 million in new rural health grants funded by Trump's One Big Beautiful Bill across Alabama",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "whittierdailynews.com",
+   "url": "https://www.whittierdailynews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "pilotonline.com",
+   "url": "https://www.pilotonline.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "orlandosentinel.com",
+   "url": "https://www.orlandosentinel.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "nydailynews.com",
+   "url": "https://www.nydailynews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "marinij.com",
+   "url": "https://www.marinij.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/10-democrat-held-house-seats-republicans-could-flip-save-majority",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "10 Democrat-held House seats Republicans could flip to save their majority",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "citizensvoice.com",
+   "url": "https://www.citizensvoice.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/10/01/vulnerable-house-2026-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 10 most vulnerable House members just over a month before Election Day",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "wsbt.com",
+   "url": "https://wsbt.com/news/nation-world/trump-to-campaign-in-several-red-states-ahead-of-midterms-report-jd-vance-rnc-iowa-florida-texas-alaska-oklahoma-alabama-ohio-nebraska-ken-paxton-dan-sullivan-pete-ricketts",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump to campaign in several red states ahead of midterms: report",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "rollcall.com",
+   "url": "https://rollcall.com/2026/10/01/pain-in-the-ass-trump-again-shows-annoyance-with-paxton-after-leaked-audio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Pain in the ass\u2019: Trump again shows annoyance with Paxton after leaked audio",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "greenecodemocrat.com",
+   "url": "https://greenecodemocrat.com/2026/10/01/figures-bill-would-fund-college-for-public-servants-children/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "New Bill to Fund Education for Dependents of Public Servants",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "foxwilmington.com",
+   "url": "https://foxwilmington.com/10-democrat-held-house-seats-republicans-could-flip-to-save-their-majority/?utm_source=rss&utm_medium=rss&utm_campaign=10-democrat-held-house-seats-republicans-could-flip-to-save-their-majority",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "10 Democrat-held House seats Republicans could flip to save their majority | Fox Wilmington WSFX-TV",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "decaturdaily.com",
+   "url": "https://www.decaturdaily.com/news/elections/analyst-sees-many-competitive-races-this-year-but-alabama-is-a-challenge-for-dems/article_4b825d9b-6dad-4108-98eb-dae1907ccba9.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Analyst sees many competitive races this year, but Alabama is a challenge for Dems",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "alabamagazette.com",
+   "url": "https://www.alabamagazette.com/story/2026/09/30/news/pelosi-is-coming-to-campaign-in-alabama-for-congresswoman-terri-sewell/12723.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Pelosi is coming to campaign in Alabama for Congresswoman Terri Sewell",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "lasvegassun.com",
+   "url": "https://lasvegassun.com/news/2026/sep/30/now-it-has-passed-senate-what-comes-next-protect-c/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Now that it has passed the Senate, what comes next with the Protect College Sports Act?",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsjm.com",
+   "url": "https://www.wsjm.com/2026/09/29/why-trump-is-going-to-republican-leaning-states-for-midterm-election-rallies/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Why Trump is going to Republican-leaning states for midterm election rallies",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wral.com",
+   "url": "https://www.wral.com/news/ap/6daad-now-that-it-has-passed-the-senate-what-comes-next-with-the-protect-college-sports-act/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Now that it has passed the Senate, what comes next with the Protect College Sports Act?",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/why-trump-is-going-to-republican-leaning-states-for-midterm-election-rallies",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Why Trump is going to Republican-leaning states for midterm election rallies | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "the-messenger.com",
+   "url": "https://www.the-messenger.com/sports/national/article_94cc4c7e-0f99-5fa6-a61e-80cecb4b28c7.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Now that it has passed the Senate, what comes next with the Protect College Sports Act?",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "newsday.com",
+   "url": "https://www.newsday.com/sports/college-sports-nil-congress-d25153",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Now that it has passed the Senate, what comes next with the Protect College Sports Act?",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-jones-silent-gop-voters-trump-iran-talks-gates-billion-death-ai-warning-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Jones\u2019 silent GOP voters, Trump-Iran talks, Gates\u2019 billion-death AI warning, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "griffindailynews.com",
+   "url": "https://www.griffindailynews.com/news/national/centrist-groups-call-for-all-party-primaries-reduce-extremism/article_25434894-794e-593a-9e2d-616b5e87d722.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Centrist groups call for all-party primaries, reduce extremism",
+   "checked": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/27/trump-said-he-would-campaign-midterm-battlegrounds-hes-starting-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "wbhm.org",
+   "url": "https://www.wbhm.org/local-news/2026-09-27/trump-said-he-would-campaign-in-midterm-battlegrounds-hell-be-in-deep-red-alabama-instead",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He'll be in deep red Alabama instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/09/27/trump-said-he-would-campaign-midterm-battlegrounds-hes-starting-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "cnn.com",
+   "url": "https://www.cnn.com/2026/09/27/politics/republicans-strategy-offense-midterms",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Where Republicans are playing offense ahead of the midterms",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/25/sparks-targets-farm-cost-squeeze-bid-reclaim-alabama-ag-commissioner-seat/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sparks targets farm cost squeeze in bid to reclaim Alabama ag commissioner seat",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wtvm.com",
+   "url": "https://www.wtvm.com/2026/09/25/russell-county-democratic-headquarters-opens-phenix-city/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Russell County Democratic headquarters opens in Phenix City",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wsoctv.com",
+   "url": "https://www.wsoctv.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wsls.com",
+   "url": "https://www.wsls.com/news/politics/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wsbtv.com",
+   "url": "https://www.wsbtv.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wral.com",
+   "url": "https://www.wral.com/news/ap/3cf2a-trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wpxi.com",
+   "url": "https://www.wpxi.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wokv.com",
+   "url": "https://www.wokv.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "whittierdailynews.com",
+   "url": "https://www.whittierdailynews.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "whio.com",
+   "url": "https://www.whio.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wftv.com",
+   "url": "https://www.wftv.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wdbo.com",
+   "url": "https://www.wdbo.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "timesleader.com",
+   "url": "https://www.timesleader.com/news/1760769/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "the-journal.com",
+   "url": "https://www.the-journal.com/articles/associated-press/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "saratogian.com",
+   "url": "https://www.saratogian.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/donald-trump-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump makes",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "pottsmerc.com",
+   "url": "https://www.pottsmerc.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "pilotonline.com",
+   "url": "https://www.pilotonline.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "orlandosentinel.com",
+   "url": "https://www.orlandosentinel.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "newsday.com",
+   "url": "https://www.newsday.com/news/nation/trump-alabama-oklahoma-midterms-republicans-panic-e21654",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "news4jax.com",
+   "url": "https://www.news4jax.com/news/politics/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "marinij.com",
+   "url": "https://www.marinij.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "ksat.com",
+   "url": "https://www.ksat.com/news/politics/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "kiro7.com",
+   "url": "https://www.kiro7.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "durangoherald.com",
+   "url": "https://www.durangoherald.com/articles/associated-press/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "clickorlando.com",
+   "url": "https://www.clickorlando.com/news/politics/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "clickondetroit.com",
+   "url": "https://www.clickondetroit.com/news/politics/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "click2houston.com",
+   "url": "https://www.click2houston.com/news/politics/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "citizensvoice.com",
+   "url": "https://www.citizensvoice.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "chicoer.com",
+   "url": "https://www.chicoer.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "capitalgazette.com",
+   "url": "https://www.capitalgazette.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "boston25news.com",
+   "url": "https://www.boston25news.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "baltimoresun.com",
+   "url": "https://www.baltimoresun.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/09/25/election-2026-trump-campaigning-red-states/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "actionnewsjax.com",
+   "url": "https://www.actionnewsjax.com/news/politics/trump-said-he-would/AV5CUKZIKI3FBCT5EBET3U46AI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "wtop.com",
+   "url": "https://wtop.com/national/2026/09/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He\u2019s starting in deep red states instead \u2013 WTOP News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "krmg.com",
+   "url": "https://krmg.com/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump said he would campaign in midterm battlegrounds. He's starting in deep red states instead",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "enewscourier.com",
+   "url": "https://enewscourier.com/2026/09/25/trump-sets-october-2-alabama-visit-to-rally-support-for-gop-candidates/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump sets October 2 Alabama visit to rally support for GOP candidates - Athens The News Courier",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/montgomery-mayor-steven-reed-calls-2nd-district-stolen-says-alabama-democrats-are-not-organized-to-save-figures-seat/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Montgomery Mayor Steven Reed calls 2nd District \u2018stolen\u2019 \u2013 says Alabama Democrats are not organized to save Figures\u2019 seat",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-trump-at-the-un-reed-says-alabama-democrats-are-not-prepared-over-stolen-seat-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Trump at the UN, Reed says Alabama Democrats are not prepared over 'stolen' seat, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/katie-britt-joins-trump-in-oval-office-as-lindsey-graham-sanctions-bill-is-signed-into-law/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt joins Trump in Oval Office as Lindsey Graham sanctions bill is signed into law",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/trump-gop-redistrcting/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Backfiring Republican trick to secure power is shaking the GOP to its core",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/gop-concerns-trump-midterm/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'The biggest battleground': Republicans hit the panic button in deep-red Alabama",
+   "checked": true
+  },
+  {
+   "date": "2026-09-19",
+   "domain": "capitalgazette.com",
+   "url": "https://www.capitalgazette.com/2026/09/19/andrew-young-eric-holder-reflect-on-the-state-of-civil-voting-rights-after-court-decisions/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Andrew Young, Eric Holder reflect on the state of civil, voting rights after court decisions",
+   "checked": true
+  },
+  {
+   "date": "2026-09-19",
+   "domain": "baltimoresun.com",
+   "url": "https://www.baltimoresun.com/2026/09/19/andrew-young-eric-holder-reflect-on-the-state-of-civil-voting-rights-after-court-decisions/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Andrew Young, Eric Holder reflect on the state of civil, voting rights after court decisions",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/18/how-alabamas-congressional-delegation-voted-russia-sanctions-bill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "How Alabama\u2019s congressional delegation voted on Russia sanctions bill",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/18/how-alabamas-congressional-delegation-voted-russia-sanctions-bill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "How Alabama\u2019s congressional delegation voted on Russia sanctions bill",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "wtvm.com",
+   "url": "https://www.wtvm.com/2026/09/17/house-passes-bill-rename-tuskegee-post-office-after-tuskegee-airmen/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "House passes bill to rename Tuskegee post office after Tuskegee Airmen",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "greenecodemocrat.com",
+   "url": "https://greenecodemocrat.com/2026/09/17/political-analysis-narrows-gop-edge-in-alabamas-2nd-congressional-district/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama's 2nd Congressional District Race: A Shift in Dynamics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-analyst-al-02-flips-to-leans-gop-britt-backs-law-enforcement-sneed-calls-trump-dividend-a-bribe-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Analyst AL-02 flips to 'Leans GOP,' Britt backs law enforcement, Sneed calls Trump dividend a bribe, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "ms.now",
+   "url": "https://www.ms.now/all-in/republicans-on-defense-midterms-competitive-democrats-congress",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Democrats are looking competitive ahead of the midterms \u2014 and it has the GOP spooked",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ms.now",
+   "url": "https://www.ms.now/news/midterms-election-2026-politics-map-top-races-congress-governor",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The 50 races defining the 2026 midterms",
+   "checked": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "philasun.com",
+   "url": "https://philasun.com/election-2025/civil-rights-groups-make-urgent-plea-for-voting-rights-in-dc-ahead-of-midterm-elections/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Civil rights groups make urgent plea for voting rights in DC, ahead of midterm elections - The Philadelphia Sunday Sun",
+   "checked": true
+  }
+ ]
+}

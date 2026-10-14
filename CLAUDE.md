@@ -27,8 +27,21 @@ Output, `docs/data/` (wiped and rewritten each run; always build every published
 
 Adding issues never adds files. Bill numbers restart each Congress, so keys include the Congress.
 
+## In their words (pilot)
+
+`python words.py [--no-media] [ID ...]` (no args = the 10 `PILOT` members) builds a second view on `member.html` (`&view=words[&show=media]`). No LLM anywhere in it.
+
+- **On the floor:** GovInfo's Congressional Record, 119th Congress on. Each day's MODS (`www.govinfo.gov/metadata/pkg/CREC-…/mods.xml`) lists every section with speakers' bioguide ids; `speeches.turns()` cuts a speaker's paragraphs out of the section's HTML. A section that opens without a speaker's name continues the previous speech, so it's attributed only when MODS lists one speaker. Turns stop at "printed in the Record" (inserted letters, articles, bill text aren't the member's words). MODS sometimes lists a member who doesn't speak in the section; those yield no turns and are dropped.
+- **Labels come from the Record's own markings:** Senate `<bullet>` = submitted, not spoken (legend printed in every issue); class `EXTENSIONS` = Extension of Remarks; subclasses `SSTATEMENTS*` = statements on introduced bills; everything else is "Senate/House proceedings", never "speech". The House marks inserted words only by typeface, which the HTML lacks. GovInfo prints "Statements on Introduced Bills" twice (umbrella + per bill); `dedupe()` drops the copy.
+- **In the media:** two indexes, merged by normalized URL (`url_key`; each article records `via`). GDELT DOC API: `"First Last" sourcecountry:US`, one query over `MEDIA_DAYS` (30 in the pilot) split in half while it hits the 250 cap, paced 10 s, one 90 s retry, then skipped for the run (`sources.Throttled`). Media Cloud (`MEDIACLOUD_API_KEY` in `.env`; skipped if unset): `search/story-list` over its U.S. National and U.S. State & Local collections (`MEDIACLOUD_COLLECTIONS`), paced 7 s (10/min limit; quota 10,000 requests/week, 1,000 stories per request); `mediacloud_query` puts the title-or-state test in the query (`"Sen. Name"`, `"Name State"~3`), which cut namesakes ~3x; no article text from the API. Articles are checked only against the text a reader can see (`speeches.page_text` skips `display:none`/`visibility:hidden`, the `hidden` attribute, and whole class names like `subscriber-only`/`paywall`, never on `<html>`/`<body>`; not `aria-hidden`, which is visible. Sites like dailyrepublic.com send the full article in a hidden `subscriber-only` div, and a match there can't be checked by a reader. Raw pages are cached gzipped in `data/raw/media/*.html.gz` so extraction rules can change without refetching), one request per second per site. Every article either returns is kept in `data/media/ID.json` (committed, not published) because GDELT only searches back three months. Each article is fetched (honest UA, robots.txt honored; snapshots in `data/raw/media/`, never published) and kept only if it names the member with their chamber title or state nearby (`names_member`). Unreadable articles are kept only if the headline has the last name, marked unchecked. We never choose or rank outlets.
+- **Comparison:** an article "quotes the Record" if it shares 12+ consecutive words with the member's speeches from the 120 days before (`speeches.Index`; punctuation, case, apostrophes ignored). 12-word runs used by 3+ members are stock phrasing and don't count. Runs more than half capitalized words are names (usually bill titles) and don't count (`is_name`). The UI says "Same wording as the Record", not "quotes": some matches are the member's own press-release language. Identical headlines (wire stories, often 100+ sites) are shown once with the other sites folded under them. Full text is published only for quoted sections (`docs/data/words/text/ID/GRANULE.json`); the rest link to GovInfo. Spans are word positions; `words.js` uses the same word regex as `speeches.WORD`.
+- **Outlet ratings are always someone else's, attributed, ink only.** Raters live in `words.RATERS`; only those in `PUBLISHED_RATERS` are written to `outlets.json`, and the page shows no rating UI when none are. It's empty for now: Robertson et al. 2018 partisan audience scores (`sources.robertson_scores`) are "research purposes only", so not published until the authors agree; AllSides blocks scripts, waiting on their API. Never bin, relabel or average ratings.
+- GDELT answers over-eager clients with a plain-text notice (HTTP 200) or 429; on 2026-10-13 it throttled a residential IP for hours after a handful of queries plus retries. Never retry it quickly. `--no-media` rebuilds without either index.
+
 ## Files
 
+- `words.py`: builds `docs/data/words/` (In their words); `speeches.py`: Record turns and quote matching; CLI: `python speeches.py CREC-2026-09-30 CREC-2026-09-30-pt1-PgS5192 "Mr. PADILLA"`
+- `docs/words.js`: the In their words view, loaded by `member.html`
 - `votes.py`: parse Senate/House roll-call XML; CLI: `python votes.py senate 119-1 644 S414`, `python votes.py house 119-1 190 A000370`
 - `sources.py`: fetching with retries, cache, classification, congress.gov lookups
 - `record.py`: builds `docs/data/`
@@ -59,7 +72,7 @@ python -m http.server -d docs 8000    # preview; pages need HTTP, not file://
 - `main` is protected by a ruleset: no direct pushes. Always `git switch -c type/desc` from an up-to-date `main`, and check `git branch --show-current` before committing.
 - Conventional Commits, enforced by a hook. Allowed types include `data` and `prompt`.
 - PR then `gh pr merge --squash --delete-branch`.
-- Commit `docs/data/` with code changes; it's the published record and its history matters. The large-file hook skips `docs/data/`.
+- Commit `docs/data/` with code changes; it's the published record and its history matters. The large-file hook skips `docs/data/` and `data/media/`.
 
 ## Limits and gotchas
 
@@ -78,6 +91,7 @@ python -m http.server -d docs 8000    # preview; pages need HTTP, not file://
 ## Not built yet
 
 - Treaty votes, quorum calls, procedural votes not tied to a bill
+- In their words for all members (pilot covers 10), a weekly GitHub Action for it, AllSides ratings
 - Statements and positions from candidates' own sites (LLM path: needs verbatim-quote checks in code and typed claims)
 - A fuller methodology page
 - Linking one person's Senate and House records

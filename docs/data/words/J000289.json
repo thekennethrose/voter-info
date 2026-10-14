@@ -1,0 +1,4822 @@
+{
+ "generated": "2026-10-13",
+ "record_from": "2025-01-03",
+ "media_from": "2026-09-16",
+ "capped": [],
+ "floor": [
+  {
+   "g": "CREC-2026-10-01-pt1-PgE999-6",
+   "date": "2026-10-01",
+   "title": "RECOGNIZING DWIGHT AND MARTHA SCHAR",
+   "kind": "extension",
+   "words": 320
+  },
+  {
+   "g": "CREC-2026-09-02-pt1-PgH5443-2",
+   "date": "2026-09-02",
+   "title": "PROPOSING AN AMENDMENT TO THE CONSTITUTION OF THE UNITED STATES TO REQUIRE THAT THE SUPREME COURT OF THE UNITED STATES BE COMPOSED OF NINE JUSTICES",
+   "kind": "house",
+   "words": 402
+  },
+  {
+   "g": "CREC-2026-08-27-pt1-PgE813",
+   "date": "2026-08-27",
+   "title": "HONORING THE LEGACY OF CHARLES F. KETTERING",
+   "kind": "extension",
+   "words": 325
+  },
+  {
+   "g": "CREC-2026-07-22-pt1-PgE725-4",
+   "date": "2026-07-22",
+   "title": "CELEBRATING THE 50TH ANNIVERSARY OF D&D INGREDIENTS",
+   "kind": "extension",
+   "words": 201
+  },
+  {
+   "g": "CREC-2026-07-14-pt1-PgH4441-2",
+   "date": "2026-07-14",
+   "title": "PROTECTING PRIVACY IN PURCHASES ACT",
+   "kind": "house",
+   "words": 261
+  },
+  {
+   "g": "CREC-2026-07-02-pt1-PgE649-2",
+   "date": "2026-07-02",
+   "title": "HONORING THE 2026 ALLEN COUNTY AGRICULTURAL HALL OF FAME INDUCTEES",
+   "kind": "extension",
+   "words": 57
+  },
+  {
+   "g": "CREC-2026-06-10-pt1-PgH4079-8",
+   "date": "2026-06-10",
+   "title": "EXTENSION OF AUTHORITIES OF TITLE VII OF THE FOREIGN INTELLIGENCE SURVEILLANCE ACT OF 1978",
+   "kind": "house",
+   "words": 787
+  },
+  {
+   "g": "CREC-2026-06-09-pt1-PgH4017",
+   "date": "2026-06-09",
+   "title": "SECURE AMERICA ACT",
+   "kind": "house",
+   "words": 407
+  },
+  {
+   "g": "CREC-2026-06-03-pt1-PgE519-4",
+   "date": "2026-06-03",
+   "title": "RECOGNIZING NORTH CENTRAL STATE COLLEGE AND THE OHIO STATE UNIVERSITY-- MANSFIELD",
+   "kind": "extension",
+   "words": 212
+  },
+  {
+   "g": "CREC-2026-05-11-pt1-PgE425-2",
+   "date": "2026-05-11",
+   "title": "HONORING BASEBALL HALL OF FAMER RAY BROWN",
+   "kind": "extension",
+   "words": 320
+  },
+  {
+   "g": "CREC-2026-04-30-pt1-PgH3322-5",
+   "date": "2026-04-30",
+   "title": "EXTENSION OF AUTHORITIES OF TITLE VII OF THE FOREIGN INTELLIGENCE SURVEILLANCE ACT OF 1978",
+   "kind": "house",
+   "words": 246
+  },
+  {
+   "g": "CREC-2026-04-29-pt1-PgH3160",
+   "date": "2026-04-29",
+   "title": "FALLEN SERVICEMEMBERS RELIGIOUS HERITAGE RESTORATION ACT",
+   "kind": "house",
+   "words": 1109
+  },
+  {
+   "g": "CREC-2026-04-29-pt1-PgH3147-3",
+   "date": "2026-04-29",
+   "title": "CONCURRENT RESOLUTION ON THE BUDGET FOR FISCAL YEAR 2026",
+   "kind": "house",
+   "words": 457
+  },
+  {
+   "g": "CREC-2026-04-27-pt1-PgE374-3",
+   "date": "2026-04-27",
+   "title": "HONORING THE 2026 OHIO MILITARY HALL OF FAME FOR VALOR INDUCTEES",
+   "kind": "extension",
+   "words": 105
+  },
+  {
+   "g": "CREC-2026-04-16-pt1-PgH2940",
+   "date": "2026-04-16",
+   "title": "DESIGNATION OF HAITI FOR TEMPORARY PROTECTED STATUS",
+   "kind": "house",
+   "words": 306
+  },
+  {
+   "g": "CREC-2026-04-09-pt1-PgE307-2",
+   "date": "2026-04-09",
+   "title": "HONORING THE HARDIN COUNTY CHAMBER AND BUSINESS ALLIANCE 2026 AWARDS WINNERS",
+   "kind": "extension",
+   "words": 54
+  },
+  {
+   "g": "CREC-2026-03-27-pt2-PgH2793-6",
+   "date": "2026-03-27",
+   "title": "PROVIDING FOR DISPOSITION OF SENATE AMENDMENT TO H.R. 7147, DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026",
+   "kind": "house",
+   "words": 367
+  },
+  {
+   "g": "CREC-2026-03-24-pt1-PgH2641-4",
+   "date": "2026-03-24",
+   "title": "MUHAMMAD ALI AMERICAN BOXING REVIVAL ACT OF 2026",
+   "kind": "house",
+   "words": 245
+  },
+  {
+   "g": "CREC-2026-03-18-pt1-PgH2568",
+   "date": "2026-03-18",
+   "title": "DEPORTING FRAUDSTERS ACT OF 2026",
+   "kind": "house",
+   "words": 520
+  },
+  {
+   "g": "CREC-2026-03-18-pt1-PgE232-3",
+   "date": "2026-03-18",
+   "title": "TRIBUTE TO MARTIN LOUIS \"MICK\" GIVEN",
+   "kind": "extension",
+   "words": 288
+  },
+  {
+   "g": "CREC-2026-02-03-pt1-PgE97-3",
+   "date": "2026-02-03",
+   "title": "RECOGNIZING THE LIMA NOON OPTIMIST CLUB'S ANNUAL YOUTH APPRECIATION LUNCHEON",
+   "kind": "extension",
+   "words": 151
+  },
+  {
+   "g": "CREC-2026-02-02-pt1-PgH1927",
+   "date": "2026-02-02",
+   "title": "MOVING NATIONAL WOMAN'S RELIEF CORPS INCORPORATION AND DOMICILE TO ILLINOIS; PRINCIPAL OFFICE TO MURPHYSBORO, ILLINOIS",
+   "kind": "house",
+   "words": 469
+  },
+  {
+   "g": "CREC-2026-02-02-pt1-PgH1925-10",
+   "date": "2026-02-02",
+   "title": "MEDAL OF SACRIFICE ACT OF 2025",
+   "kind": "house",
+   "words": 397
+  },
+  {
+   "g": "CREC-2025-11-18-pt1-PgH4730",
+   "date": "2025-11-18",
+   "title": "ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE",
+   "kind": "house",
+   "words": 282
+  },
+  {
+   "g": "CREC-2025-11-18-pt1-PgH4725-2",
+   "date": "2025-11-18",
+   "title": "EPSTEIN FILES TRANSPARENCY ACT",
+   "kind": "house",
+   "words": 371
+  },
+  {
+   "g": "CREC-2025-07-25-pt1-PgE729",
+   "date": "2025-07-25",
+   "title": "RECOGNIZING THE 2025 CLASS OF THE OHIO AGRICULTURAL HALL OF FAME",
+   "kind": "extension",
+   "words": 487
+  },
+  {
+   "g": "CREC-2025-07-17-pt1-PgE688-2",
+   "date": "2025-07-17",
+   "title": "CELEBRATING THE 40TH ANNIVERSARY OF HONDA'S ANNA ENGINE PLANT",
+   "kind": "extension",
+   "words": 219
+  },
+  {
+   "g": "CREC-2025-06-12-pt1-PgH2796-3",
+   "date": "2025-06-12",
+   "title": "RESCISSIONS ACT OF 2025",
+   "kind": "house",
+   "words": 152
+  },
+  {
+   "g": "CREC-2025-05-21-pt2-PgH2235-2",
+   "date": "2025-05-21",
+   "title": "ONE BIG BEAUTIFUL BILL ACT",
+   "kind": "house",
+   "words": 406
+  },
+  {
+   "g": "CREC-2025-05-13-pt1-PgH1961",
+   "date": "2025-05-13",
+   "title": "EXPRESSING SUPPORT FOR LOCAL LAW ENFORCEMENT OFFICERS",
+   "kind": "house",
+   "words": 1352
+  },
+  {
+   "g": "CREC-2025-04-24-pt1-PgE336-2",
+   "date": "2025-04-24",
+   "title": "HONORING THE 2025 OHIO MILITARY HALL OF FAME INDUCTEES",
+   "kind": "extension",
+   "words": 81
+  },
+  {
+   "g": "CREC-2025-04-08-pt1-PgH1482",
+   "date": "2025-04-08",
+   "title": "NO ROGUE RULINGS ACT OF 2025",
+   "kind": "house",
+   "words": 366
+  },
+  {
+   "g": "CREC-2025-02-25-pt1-PgH791-3",
+   "date": "2025-02-25",
+   "title": "CONCURRENT RESOLUTION ON THE BUDGET FOR FISCAL YEAR 2025",
+   "kind": "house",
+   "words": 547
+  },
+  {
+   "g": "CREC-2025-02-13-pt1-PgH682-7",
+   "date": "2025-02-13",
+   "title": "AGENT RAUL GONZALEZ OFFICER SAFETY ACT",
+   "kind": "house",
+   "words": 656
+  },
+  {
+   "g": "CREC-2025-01-28-pt1-PgE74-4",
+   "date": "2025-01-28",
+   "title": "RECOGNIZING THE LIMA NOON OPTIMIST CLUB'S ANNUAL YOUTH APPRECIATION LUNCHEON",
+   "kind": "extension",
+   "words": 154
+  }
+ ],
+ "media": [
+  {
+   "date": "2026-10-13",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/terichristoph/2026/10/13/gop-plan-to-let-victims-sue-over-sanctuary-policies-n2208074",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "See You in Court: Sanctuary City Politicians May Soon Have to Pay for the Chaos They Unleashed",
+   "checked": true
+  },
+  {
+   "date": "2026-10-13",
+   "domain": "gazette.com",
+   "url": "https://gazette.com/2026/10/13/editorial-another-reason-to-vote-for-amendment-81/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "EDITORIAL: Another reason to vote for Amendment 81",
+   "checked": true
+  },
+  {
+   "date": "2026-10-12",
+   "domain": "patriotpost.us",
+   "url": "https://patriotpost.us/articles/1001776-monday-short-cuts",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Monday Short Cuts",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-10",
+   "domain": "peninsuladailynews.com",
+   "url": "https://www.peninsuladailynews.com/2026/10/10/letter-sexual-trauma-bill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "LETTER: Sexual trauma bill - Peninsula Daily News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-10",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/politics/2026/10/10/exclusive-rick-renzi-jack-smith-uses-the-process-to-destroy-you-politically-calls-for-prosecutorial-immunity-reform/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Rick Renzi: Jack Smith \u2018Uses the Process to Destroy You Politically\u2019",
+   "checked": true
+  },
+  {
+   "date": "2026-10-10",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/jenniferoo/2026/10/10/jd-vance-stumps-for-the-home-team-in-ohio-rallying-votes-for-vivek-ramaswamy-and-jon-husted-n2207992",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "JD Vance Stumps for the Home Team in Ohio, Rallying Votes for Vivek Ramaswamy and Jon Husted",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "salon.com",
+   "url": "https://www.salon.com/2026/10/09/what-will-trump-do-after-the-midterms-with-nothing-left-to-lose/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "What will Trump do after the midterms, with nothing left to lose? - Salon.com",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "motherjones.com",
+   "url": "https://www.motherjones.com/politics/2026/10/david-flippo-arizona-land-reserve-robert-mcdowell-stephen-tuminello-turning-points-house-freedom-caucus-nevada/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "David Flippo has close ties to accused fraudster whose company spent lavishly on his behalf",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/denver-boulder-ignored-ice-detainers-migrants-child-abuse-assault-arrests-house-gop-report-reveals",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Denver, Boulder ignored ICE detainers for migrants with child abuse, assault arrests, House GOP report reveals",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/kimberly-guilfoyle-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump revenge probe could unravel over key detail: ex-federal prosecutor",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "gazette.com",
+   "url": "https://gazette.com/2026/10/09/report-colorados-sanctuary-policies-threaten-public-safety-3/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. House: Colorado\u2019s \u2018sanctuary\u2019 policies threaten public safety",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "nydailynews.com",
+   "url": "https://www.nydailynews.com/2026/10/08/mike-johnson-may-step-down-democrats-win-house/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Mike Johnson hints he could step down if Democrats win House",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/clips/2026/10/08/jim-jordan-the-left-hates-two-countries-america-and-israel/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jim Jordan: 'The Left Hates Two Countries \u2014 America and Israel'",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "foxwilmington.com",
+   "url": "https://foxwilmington.com/jordan-emerges-as-potential-next-gop-leader-if-dems-seize-house/?utm_source=rss&utm_medium=rss&utm_campaign=jordan-emerges-as-potential-next-gop-leader-if-dems-seize-house",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jordan emerges as potential next GOP leader if Dems seize House | Fox Wilmington WSFX-TV",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/jordan-emerges-potential-next-gop-leader-dems-seize-house",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jordan emerges as potential next GOP leader if Dems seize House",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/clips/2026/10/07/its-always-worse-than-we-thought-jim-jordan-discusses-long-pattern-of-abuses-against-trump-during-biden-admin/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'It\u2019s Always Worse than We Thought': Jim Jordan Discusses 'Long Pattern' of Abuses Against Trump During Biden Admin",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/politics/2026/10/06/rep-bryan-steil-actblues-update-of-donation-standards-confirms-failure-to-verify-donors/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Rep. Bryan Steil: ActBlue's Update of Donation Standards 'Confirms' Failure to Verify Donors",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wsbt.com",
+   "url": "https://wsbt.com/news/nation-world/declassified-documents-reveal-surveillance-of-trump-family-and-chief-of-staff-in-early-fbi-jim-jordan-jack-smith",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Declassified documents reveal surveillance of Trump family and chief of staff in early FBI",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/terichristoph/2026/10/06/actblues-latest-action-proves-the-democrat-fundraising-platform-was-up-to-no-good-n2207800",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "ActBlue Just Told on Itself With Damning New Move",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "hotair.com",
+   "url": "https://hotair.com/ed-morrissey/2026/10/06/tuesdays-final-word-n3819686",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Tuesday's Final Word",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "arktimes.com",
+   "url": "https://arktimes.com/arkansas-blog/2026/10/06/affordability-healthcare-accountability-center-of-heated-race-for-central-arkansas-us-house-seat",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Affordability, healthcare, accountability center of heated race for central Arkansas US House seat - Arkansas Times",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/democrat-fundraising-giant-makes-damning-admission-gop-probes-foreign-donation-allegations",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Dem fundraising giant makes damning admission as GOP probes foreign donation allegations",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "talkingpointsmemo.com",
+   "url": "https://talkingpointsmemo.com/morning-memo/with-four-weeks-to-go-dems-are-in-the-drivers-seat",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "With 4 Weeks to Go, Dems Are in the Driver\u2019s Seat",
+   "checked": true
+  },
+  {
+   "date": "2026-10-04",
+   "domain": "pjmedia.com",
+   "url": "https://pjmedia.com/tim-o-brien/2026/10/04/are-republican-campaigns-forgetting-about-their-x-platform-advantage-n4957951",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Are Republican Campaigns Forgetting About Their X Platform Advantage?",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/reporters-notebook-congress-dodged-fall-shutdown-real-fight-looms",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Reporter's Notebook: Congress dodged a fall shutdown, but the real fight looms",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "yourislandnews.com",
+   "url": "https://yourislandnews.com/honeycutt-to-hold-beaufort-meet-and-greet-thursday/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Honeycutt to hold Beaufort meet-and-greet Thursday \u2013 The Island News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "wpxi.com",
+   "url": "https://www.wpxi.com/news/local/ex-trump-prosecutor-smith-forcefully-defends-investigations-republicans-assail-his-teams-tactics/P4HBOWY3R5GFBFGVSRGNKK5HRU/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "salemnews.net",
+   "url": "https://www.salemnews.net/news/local-news/2026/09/ex-trump-prosecutor-smith-forcefully-defends-investigations-as-republicans-assail-his-teams-tactics/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "onlineathens.com",
+   "url": "https://www.onlineathens.com/story/news/2026/09/30/georgia-election-2026-why-jim-jordan-is-campaigning-in-oconee-county/92020551007/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Georgia election 2026: Why Jim Jordan is campaigning in Oconee County",
+   "checked": false
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "delphosherald.com",
+   "url": "https://www.delphosherald.com/h1-district-welcomes-jordan-school-board-talks-report-card-h1/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "District welcomes Jordan; school board talks report card",
+   "checked": false
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "cnn.com",
+   "url": "https://www.cnn.com/2026/09/30/politics/doj-minnesota-immigration-federal-judges-blanche",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump administration escalates feud with federal judges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "wowo.com",
+   "url": "https://wowo.com/hailey-act-would-expand-amber-alerts-for-high-risk-missing-children/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "HAILEY Act Would Expand Amber Alerts for High-Risk Missing Children - WOWO News/Talk 92.3 FM and 1190 AM",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "foxnews.com",
+   "url": "https://radio.foxnews.com/2026/09/30/straight-of-hormuz-blockade-tightens/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Straight of Hormuz Blockade Tightens",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wymt.com",
+   "url": "https://www.wymt.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wymt.com",
+   "url": "https://www.wymt.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wyff4.com",
+   "url": "https://www.wyff4.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wxii12.com",
+   "url": "https://www.wxii12.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wwnytv.com",
+   "url": "https://www.wwnytv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wwnytv.com",
+   "url": "https://www.wwnytv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wvva.com",
+   "url": "https://www.wvva.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wvva.com",
+   "url": "https://www.wvva.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wvtm13.com",
+   "url": "https://www.wvtm13.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtvm.com",
+   "url": "https://www.wtvm.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtvm.com",
+   "url": "https://www.wtvm.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtva.com",
+   "url": "https://www.wtva.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtva.com",
+   "url": "https://www.wtva.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtok.com",
+   "url": "https://www.wtok.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtok.com",
+   "url": "https://www.wtok.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtoc.com",
+   "url": "https://www.wtoc.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtoc.com",
+   "url": "https://www.wtoc.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wthitv.com",
+   "url": "https://www.wthitv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wthitv.com",
+   "url": "https://www.wthitv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtae.com",
+   "url": "https://www.wtae.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsoctv.com",
+   "url": "https://www.wsoctv.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsmv.com",
+   "url": "https://www.wsmv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsmv.com",
+   "url": "https://www.wsmv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsls.com",
+   "url": "https://www.wsls.com/news/politics/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsbtv.com",
+   "url": "https://www.wsbtv.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsaz.com",
+   "url": "https://www.wsaz.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsaz.com",
+   "url": "https://www.wsaz.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsaw.com",
+   "url": "https://www.wsaw.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsaw.com",
+   "url": "https://www.wsaw.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wrdw.com",
+   "url": "https://www.wrdw.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wrdw.com",
+   "url": "https://www.wrdw.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wral.com",
+   "url": "https://www.wral.com/news/ap/5739c-ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wpxi.com",
+   "url": "https://www.wpxi.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wpbf.com",
+   "url": "https://www.wpbf.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wowt.com",
+   "url": "https://www.wowt.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wowt.com",
+   "url": "https://www.wowt.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wokv.com",
+   "url": "https://www.wokv.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wnem.com",
+   "url": "https://www.wnem.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wnem.com",
+   "url": "https://www.wnem.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wndu.com",
+   "url": "https://www.wndu.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wndu.com",
+   "url": "https://www.wndu.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wmur.com",
+   "url": "https://www.wmur.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wmtw.com",
+   "url": "https://www.wmtw.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wmbfnews.com",
+   "url": "https://www.wmbfnews.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wmbfnews.com",
+   "url": "https://www.wmbfnews.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wlwt.com",
+   "url": "https://www.wlwt.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wlox.com",
+   "url": "https://www.wlox.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wlox.com",
+   "url": "https://www.wlox.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wlky.com",
+   "url": "https://www.wlky.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wlfi.com",
+   "url": "https://www.wlfi.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wlfi.com",
+   "url": "https://www.wlfi.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wkyt.com",
+   "url": "https://www.wkyt.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wkyt.com",
+   "url": "https://www.wkyt.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wjhg.com",
+   "url": "https://www.wjhg.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wjhg.com",
+   "url": "https://www.wjhg.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "witn.com",
+   "url": "https://www.witn.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "witn.com",
+   "url": "https://www.witn.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wistv.com",
+   "url": "https://www.wistv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wistv.com",
+   "url": "https://www.wistv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wisn.com",
+   "url": "https://www.wisn.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wilx.com",
+   "url": "https://www.wilx.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wilx.com",
+   "url": "https://www.wilx.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wibw.com",
+   "url": "https://www.wibw.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wibw.com",
+   "url": "https://www.wibw.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "whsv.com",
+   "url": "https://www.whsv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "whsv.com",
+   "url": "https://www.whsv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "whio.com",
+   "url": "https://www.whio.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wgem.com",
+   "url": "https://www.wgem.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wgem.com",
+   "url": "https://www.wgem.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wgal.com",
+   "url": "https://www.wgal.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wftv.com",
+   "url": "https://www.wftv.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wfsb.com",
+   "url": "https://www.wfsb.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wfsb.com",
+   "url": "https://www.wfsb.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wflx.com",
+   "url": "https://www.wflx.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wflx.com",
+   "url": "https://www.wflx.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "westernmassnews.com",
+   "url": "https://www.westernmassnews.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "westernmassnews.com",
+   "url": "https://www.westernmassnews.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wesh.com",
+   "url": "https://www.wesh.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wect.com",
+   "url": "https://www.wect.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wect.com",
+   "url": "https://www.wect.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "weau.com",
+   "url": "https://www.weau.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "weau.com",
+   "url": "https://www.weau.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdtv.com",
+   "url": "https://www.wdtv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdtv.com",
+   "url": "https://www.wdtv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdsu.com",
+   "url": "https://www.wdsu.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdbo.com",
+   "url": "https://www.wdbo.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdbj7.com",
+   "url": "https://www.wdbj7.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdbj7.com",
+   "url": "https://www.wdbj7.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdam.com",
+   "url": "https://www.wdam.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wdam.com",
+   "url": "https://www.wdam.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wcvb.com",
+   "url": "https://www.wcvb.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wctv.tv",
+   "url": "https://www.wctv.tv/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wctv.tv",
+   "url": "https://www.wctv.tv/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wcjb.com",
+   "url": "https://www.wcjb.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wcjb.com",
+   "url": "https://www.wcjb.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wcax.com",
+   "url": "https://www.wcax.com/2026/09/29/ex-trump-prosecutor-smith-forcefully-defends-investigations-republicans-assail-his-teams-tactics/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbtv.com",
+   "url": "https://www.wbtv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbtv.com",
+   "url": "https://www.wbtv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbng.com",
+   "url": "https://www.wbng.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbng.com",
+   "url": "https://www.wbng.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbko.com",
+   "url": "https://www.wbko.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbko.com",
+   "url": "https://www.wbko.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbbjtv.com",
+   "url": "https://www.wbbjtv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbbjtv.com",
+   "url": "https://www.wbbjtv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbay.com",
+   "url": "https://www.wbay.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbay.com",
+   "url": "https://www.wbay.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbaltv.com",
+   "url": "https://www.wbaltv.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wapt.com",
+   "url": "https://www.wapt.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "walb.com",
+   "url": "https://www.walb.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "walb.com",
+   "url": "https://www.walb.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wagmtv.com",
+   "url": "https://www.wagmtv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wagmtv.com",
+   "url": "https://www.wagmtv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "waff.com",
+   "url": "https://www.waff.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "waff.com",
+   "url": "https://www.waff.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wafb.com",
+   "url": "https://www.wafb.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wafb.com",
+   "url": "https://www.wafb.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wabi.tv",
+   "url": "https://www.wabi.tv/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "valleynewslive.com",
+   "url": "https://www.valleynewslive.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "valleynewslive.com",
+   "url": "https://www.valleynewslive.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "uppermichiganssource.com",
+   "url": "https://www.uppermichiganssource.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "uppermichiganssource.com",
+   "url": "https://www.uppermichiganssource.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "thebanner.com",
+   "url": "https://www.thebanner.com/politics-power/national-politics/jack-smith-senate-hearing-S2QVHVJEQJGFDICQUBSZZ2JIUQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "the-journal.com",
+   "url": "https://www.the-journal.com/articles/associated-press/ex-special-counsel-smith-tells-senators-he-wont-be-silenced-by-trumps-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "spokesman.com",
+   "url": "https://www.spokesman.com/stories/2026/sep/29/jack-smith-clashes-with-senators-over-trump-probes/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jack Smith clashes with senators over Trump probes, says he will not be silenced",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "saratogian.com",
+   "url": "https://www.saratogian.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "pottsmerc.com",
+   "url": "https://www.pottsmerc.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "pbs.org",
+   "url": "https://www.pbs.org/newshour/politics/watch-jack-smith-says-he-would-prosecute-trump-again-for-serious-crimes-against-our-nation",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "WATCH: Jack Smith says he would prosecute Trump again for 'serious crimes against our nation'",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "orlandosentinel.com",
+   "url": "https://www.orlandosentinel.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "newsday.com",
+   "url": "https://www.newsday.com/news/nation/jack-smith-trump-congress-m62223",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "newschannel10.com",
+   "url": "https://www.newschannel10.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "newschannel10.com",
+   "url": "https://www.newschannel10.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "news4jax.com",
+   "url": "https://www.news4jax.com/news/politics/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "nbcphiladelphia.com",
+   "url": "https://www.nbcphiladelphia.com/news/national-international/jack-smith-testifies-senate-hearing-trump-indictments/4471068/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-special counsel Jack Smith tells senators he won't be 'silenced' by Trump threats",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "nbcnewyork.com",
+   "url": "https://www.nbcnewyork.com/news/national-international/jack-smith-testifies-senate-hearing-trump-indictments/6553360/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-special counsel Jack Smith tells Senators he won\u2019t be \u2018silenced\u2019 by Trump threats \u2013 NBC New York",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "nbcnews.com",
+   "url": "https://www.nbcnews.com/politics/justice-department/senate-gop-press-jack-smith-trump-jan-6-probe-doj-targets-investigator-rcna600306",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jack Smith defends Trump probes in Senate hearing filled with GOP insults",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "nbclosangeles.com",
+   "url": "https://www.nbclosangeles.com/news/national-international/jack-smith-testifies-senate-hearing-trump-indictments/3948636/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-special counsel Jack Smith tells senators he won't be 'silenced' by Trump threats",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "mysuncoast.com",
+   "url": "https://www.mysuncoast.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "mysuncoast.com",
+   "url": "https://www.mysuncoast.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "mynbc5.com",
+   "url": "https://www.mynbc5.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "marshallindependent.com",
+   "url": "https://www.marshallindependent.com/news/national-news-apwire/2026/09/ex-trump-prosecutor-smith-forcefully-defends-investigations-as-republicans-assail-his-teams-tactics/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "marinij.com",
+   "url": "https://www.marinij.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "live5news.com",
+   "url": "https://www.live5news.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "live5news.com",
+   "url": "https://www.live5news.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ky3.com",
+   "url": "https://www.ky3.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ky3.com",
+   "url": "https://www.ky3.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kxii.com",
+   "url": "https://www.kxii.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kxii.com",
+   "url": "https://www.kxii.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kwtx.com",
+   "url": "https://www.kwtx.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kwtx.com",
+   "url": "https://www.kwtx.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kwqc.com",
+   "url": "https://www.kwqc.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kwqc.com",
+   "url": "https://www.kwqc.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kwch.com",
+   "url": "https://www.kwch.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kwch.com",
+   "url": "https://www.kwch.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kttc.com",
+   "url": "https://www.kttc.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kttc.com",
+   "url": "https://www.kttc.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ktre.com",
+   "url": "https://www.ktre.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ktre.com",
+   "url": "https://www.ktre.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ktiv.com",
+   "url": "https://www.ktiv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ktiv.com",
+   "url": "https://www.ktiv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kswo.com",
+   "url": "https://www.kswo.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kswo.com",
+   "url": "https://www.kswo.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ksla.com",
+   "url": "https://www.ksla.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ksla.com",
+   "url": "https://www.ksla.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ksl.com",
+   "url": "https://www.ksl.com/article/news/politics/ex-trump-prosecutor-smith-defends-investigations-as-republicans-assail-his-teams-tactics/51629902",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith defends investigations as Republicans assail his team",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ksbw.com",
+   "url": "https://www.ksbw.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ksat.com",
+   "url": "https://www.ksat.com/news/politics/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kptv.com",
+   "url": "https://www.kptv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kptv.com",
+   "url": "https://www.kptv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kplctv.com",
+   "url": "https://www.kplctv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kplctv.com",
+   "url": "https://www.kplctv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kotatv.com",
+   "url": "https://www.kotatv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kotatv.com",
+   "url": "https://www.kotatv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kolotv.com",
+   "url": "https://www.kolotv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kolotv.com",
+   "url": "https://www.kolotv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "koco.com",
+   "url": "https://www.koco.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "koat.com",
+   "url": "https://www.koat.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "knopnews2.com",
+   "url": "https://www.knopnews2.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "knopnews2.com",
+   "url": "https://www.knopnews2.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "knoe.com",
+   "url": "https://www.knoe.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "knoe.com",
+   "url": "https://www.knoe.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kmvt.com",
+   "url": "https://www.kmvt.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kmvt.com",
+   "url": "https://www.kmvt.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kmbc.com",
+   "url": "https://www.kmbc.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kltv.com",
+   "url": "https://www.kltv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kltv.com",
+   "url": "https://www.kltv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kktv.com",
+   "url": "https://www.kktv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kktv.com",
+   "url": "https://www.kktv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kjct8.com",
+   "url": "https://www.kjct8.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kjct8.com",
+   "url": "https://www.kjct8.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kiro7.com",
+   "url": "https://www.kiro7.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kgns.tv",
+   "url": "https://www.kgns.tv/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kgns.tv",
+   "url": "https://www.kgns.tv/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kfyrtv.com",
+   "url": "https://www.kfyrtv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kfyrtv.com",
+   "url": "https://www.kfyrtv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kfvs12.com",
+   "url": "https://www.kfvs12.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kfvs12.com",
+   "url": "https://www.kfvs12.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "ketv.com",
+   "url": "https://www.ketv.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kctv5.com",
+   "url": "https://www.kctv5.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kctv5.com",
+   "url": "https://www.kctv5.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kcrg.com",
+   "url": "https://www.kcrg.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kcrg.com",
+   "url": "https://www.kcrg.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kcra.com",
+   "url": "https://www.kcra.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kcci.com",
+   "url": "https://www.kcci.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kcbd.com",
+   "url": "https://www.kcbd.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kcbd.com",
+   "url": "https://www.kcbd.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kbtx.com",
+   "url": "https://www.kbtx.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kbtx.com",
+   "url": "https://www.kbtx.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kalb.com",
+   "url": "https://www.kalb.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kalb.com",
+   "url": "https://www.kalb.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kait8.com",
+   "url": "https://www.kait8.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "kait8.com",
+   "url": "https://www.kait8.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "hawaiinewsnow.com",
+   "url": "https://www.hawaiinewsnow.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "hawaiinewsnow.com",
+   "url": "https://www.hawaiinewsnow.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "griffindailynews.com",
+   "url": "https://www.griffindailynews.com/news/national/smith-defends-trump-prosecutions-phone-call-logs/article_5016fba5-00a6-5169-a2f2-6ccea5f4ee87.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Smith defends Trump prosecutions, phone call logs",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "foxcarolina.com",
+   "url": "https://www.foxcarolina.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "foxcarolina.com",
+   "url": "https://www.foxcarolina.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox8live.com",
+   "url": "https://www.fox8live.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox8live.com",
+   "url": "https://www.fox8live.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox5vegas.com",
+   "url": "https://www.fox5vegas.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox5vegas.com",
+   "url": "https://www.fox5vegas.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox34.com",
+   "url": "https://www.fox34.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox34.com",
+   "url": "https://www.fox34.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox19.com",
+   "url": "https://www.fox19.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox19.com",
+   "url": "https://www.fox19.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "durangoherald.com",
+   "url": "https://www.durangoherald.com/articles/associated-press/ex-special-counsel-smith-tells-senators-he-wont-be-silenced-by-trumps-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "denverpost.com",
+   "url": "https://www.denverpost.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "clickorlando.com",
+   "url": "https://www.clickorlando.com/news/politics/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "clickondetroit.com",
+   "url": "https://www.clickondetroit.com/news/politics/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "click2houston.com",
+   "url": "https://www.click2houston.com/news/politics/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "cleveland19.com",
+   "url": "https://www.cleveland19.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "cleveland19.com",
+   "url": "https://www.cleveland19.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "capitalgazette.com",
+   "url": "https://www.capitalgazette.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/radio/2026/09/29/exclusive-rep-jim-jordan-sheriffs-are-suing-their-own-states-over-sanctuary-policies-jeopardizing-safety/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Exclusive \u2013 Rep. Jim Jordan: We Have Sheriffs Suing Their Own States for Jeopardizing Safety by Ignoring Immigration Law",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/politics/2026/09/29/exclusive-rep-jim-jordan-democrat-immigration-policy-is-designed-to-undermine-america/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Exclusive--Jim Jordan: Democrat Immigration Policy 'Is Designed to Undermine' America",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "boston25news.com",
+   "url": "https://www.boston25news.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "baltimoresun.com",
+   "url": "https://www.baltimoresun.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "azfamily.com",
+   "url": "https://www.azfamily.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "azfamily.com",
+   "url": "https://www.azfamily.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/jack-smith-hearing-2677959181/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Legal experts expose the glaring hole in GOP attacks on Jack Smith",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/09/29/jack-smith-senate-hearing-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "actionnewsjax.com",
+   "url": "https://www.actionnewsjax.com/news/politics/ex-trump-prosecutor/SQUGNT6FTE5KJFINRHE2ZLATZQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "4029tv.com",
+   "url": "https://www.4029tv.com/article/jack-smith-tells-senate-judiciary-committee/73940566",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans criticize team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "14news.com",
+   "url": "https://www.14news.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "14news.com",
+   "url": "https://www.14news.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "13abc.com",
+   "url": "https://www.13abc.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "13abc.com",
+   "url": "https://www.13abc.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "1011now.com",
+   "url": "https://www.1011now.com/2026/09/29/jack-smith-testifies-before-senate-trump-criminal-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-prosecutor Smith defends Trump probes amid GOP attacks",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "1011now.com",
+   "url": "https://www.1011now.com/2026/09/29/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wtop.com",
+   "url": "https://wtop.com/us-politics/2026/09/ex-trump-prosecutor-smith-will-tell-senators-he-wont-be-silenced-by-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics \u2013 WTOP News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wsvn.com",
+   "url": "https://wsvn.com/news/politics/senate-hearing-jack-smith/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team\u2019s tactics - WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "pjmedia.com",
+   "url": "https://pjmedia.com/catherinesalgado/2026/09/29/jack-smith-spied-on-thousands-of-personal-checks-to-trump-campaign-n4957762",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jack Smith Spied on Thousands of Personal Checks to Trump, GOP Campaigns",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "lasvegassun.com",
+   "url": "https://lasvegassun.com/news/2026/sep/29/ex-trump-prosecutor-smith-forcefully-defends-inves/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "krmg.com",
+   "url": "https://krmg.com/2026/09/29/ex-special-counsel-smith-tells-senators-he-wont-be-silenced-by-trumps-threats-of-prosecution/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team's tactics",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "pbs.org",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-jack-smith-testifies-before-senate-judiciary-as-gop-targets-past-trump-probes",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "WATCH: Jack Smith testifies before Senate Judiciary as GOP targets past Trump probes",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "rollcall.com",
+   "url": "https://rollcall.com/2026/09/28/senators-gear-up-for-judiciary-clash-with-jack-smith/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators gear up for Judiciary clash with Jack Smith",
+   "checked": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/jim-jordan-2677947953/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jim Jordan frets over probes of allies:",
+   "checked": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "onnradio.com",
+   "url": "https://www.onnradio.com/2026/09/27/jim-jordan-predicts-third-trump-impeachment-if-democrats-take-control-of-house/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jim Jordan predicts third Trump impeachment if Democrats take control of House",
+   "checked": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "baocalitoday.com",
+   "url": "https://www.baocalitoday.com/breaking-news/dan-chu-chac-chan-se-nam-ha-vien-va-luan-toi-trump-lan-thu-ba.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "D\u00e2n Ch\u1ee7 ch\u1eafc ch\u1eafn s\u1ebd n\u1eafm H\u1ea1 Vi\u1ec7n v\u00e0 lu\u1eadn t\u1ed9i Trump l\u1ea7n th\u1ee9 ba - Nh\u1eadt B\u00e1o Calitoday",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-26",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/politics/2026/09/26/america-first-champion-senator-bernie-moreno-steps-into-the-fight-club-october-1/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "America First Champion Senator Bernie Moreno Steps into the Fight Club October 1",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/jack-smith-2677941678/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Fireworks loom as Republicans deliver",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/immigration/2026/09/25/daca-dui-defendants-get-preferential-treatment-over-u-s-citizens-democrat-run-arlington-county-virginia/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DACA DUI Defendants Get Preferential Treatment in Arlington County, VA.",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "nypost.com",
+   "url": "https://nypost.com/2026/09/25/us-news/virginia-mom-of-stabbed-daughter-says-blue-state-das-are-putting-illegal-immigrant-criminals-first/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Virginia angel mom says blue state DAs are putting illegal immigrant criminals before public safety",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "tnledger.com",
+   "url": "http://www.tnledger.com/editorial/article.aspx?id=208334",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith forcefully defends investigations as Republicans assail his team",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "tnledger.com",
+   "url": "http://www.tnledger.com/editorial/article.aspx?id=208282",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ex-Trump prosecutor Smith will tell senators he won",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "foxwilmington.com",
+   "url": "https://foxwilmington.com/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety/?utm_source=rss&utm_medium=rss&utm_campaign=angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Angel mom says blue state DAs are putting illegal immigrant criminals before public safety | Fox Wilmington WSFX-TV",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/us/angel-mom-says-blue-state-das-putting-illegal-immigrant-criminals-before-public-safety",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Angel mom says blue state DAs are putting illegal immigrant criminals before public safety",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/explosive-new-report-puts-jack-smith-back-hot-seat-jim-jordan-alleges-he-tried-sway-2024-election",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Explosive new report puts Jack Smith back in hot seat as Jim Jordan alleges he tried to 'sway' 2024 election",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/ben-smith/2026/09/23/dojs-inspector-general-wouldnt-seize-scott-perrys-phone-prosecutors-got-it-anyway-n2207263",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Agent in Jack Smith Arctic Frost Probe Says Prosecutors Hid Lawmakers\u2019 Names Behind Phone Numbers",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailycaller.com",
+   "url": "https://dailycaller.com/2026/09/23/jack-smith-constitution-house-judiciary-committee/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jack Smith Violated Constitution To Spy On Republicans In Lawless \u2018Arctic Frost\u2019 Investigation, Committee Alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "ypradio.org",
+   "url": "https://www.ypradio.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wypr.org",
+   "url": "https://www.wypr.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wyomingpublicmedia.org",
+   "url": "https://www.wyomingpublicmedia.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wxxinews.org",
+   "url": "https://www.wxxinews.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wxpr.org",
+   "url": "https://www.wxpr.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wvxu.org",
+   "url": "https://www.wvxu.org/news-from-npr/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wvtf.org",
+   "url": "https://www.wvtf.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wvasfm.org",
+   "url": "https://www.wvasfm.org/politics/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wuwm.com",
+   "url": "https://www.wuwm.com/politics-government/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wuwf.org",
+   "url": "https://www.wuwf.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wuft.org",
+   "url": "https://www.wuft.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wrvo.org",
+   "url": "https://www.wrvo.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wmuk.org",
+   "url": "https://www.wmuk.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wmra.org",
+   "url": "https://www.wmra.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wlrn.org",
+   "url": "https://www.wlrn.org/national-politics/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wkyufm.org",
+   "url": "https://www.wkyufm.org/news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wknofm.org",
+   "url": "https://www.wknofm.org/elections/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "whqr.org",
+   "url": "https://www.whqr.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wgcu.org",
+   "url": "https://www.wgcu.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wfae.org",
+   "url": "https://www.wfae.org/united-states-world/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wemu.org",
+   "url": "https://www.wemu.org/npr-national-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wbhm.org",
+   "url": "https://www.wbhm.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wbaa.org",
+   "url": "https://www.wbaa.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "wamc.org",
+   "url": "https://www.wamc.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "waer.org",
+   "url": "https://www.waer.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "upr.org",
+   "url": "https://www.upr.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "publicradiotulsa.org",
+   "url": "https://www.publicradiotulsa.org/npr-national-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "npr.org",
+   "url": "https://www.npr.org/2026/09/22/g-s1-144369/freedom-caucus-trump-republicans",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "nhpr.org",
+   "url": "https://www.nhpr.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "mtpr.org",
+   "url": "https://www.mtpr.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "marfapublicradio.org",
+   "url": "https://www.marfapublicradio.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "lakeshorepublicmedia.org",
+   "url": "https://www.lakeshorepublicmedia.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kyuk.org",
+   "url": "https://www.kyuk.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kvpr.org",
+   "url": "https://www.kvpr.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kvnf.org",
+   "url": "https://www.kvnf.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kunr.org",
+   "url": "https://www.kunr.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kunm.org",
+   "url": "https://www.kunm.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kunc.org",
+   "url": "https://www.kunc.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "ksut.org",
+   "url": "https://www.ksut.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "ksmu.org",
+   "url": "https://www.ksmu.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "ksfr.org",
+   "url": "https://www.ksfr.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "krwg.org",
+   "url": "https://www.krwg.org/national-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kpbs.org",
+   "url": "https://www.kpbs.org/news/politics/2026/09/22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "knkx.org",
+   "url": "https://www.knkx.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "knba.org",
+   "url": "https://www.knba.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "knau.org",
+   "url": "https://www.knau.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kmxt.org",
+   "url": "https://www.kmxt.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kmuw.org",
+   "url": "https://www.kmuw.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kjzz.org",
+   "url": "https://www.kjzz.org/npr-top-stories/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kios.org",
+   "url": "https://www.kios.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kgou.org",
+   "url": "https://www.kgou.org/politics-and-government/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kdnk.org",
+   "url": "https://www.kdnk.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kdll.org",
+   "url": "https://www.kdll.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kdlg.org",
+   "url": "https://www.kdlg.org/as-heard-on-npr/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kawc.org",
+   "url": "https://www.kawc.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kasu.org",
+   "url": "https://www.kasu.org/politics/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "iowapublicradio.org",
+   "url": "https://www.iowapublicradio.org/news-from-npr/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "hppr.org",
+   "url": "https://www.hppr.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "gpb.org",
+   "url": "https://www.gpb.org/news/2026/09/22/the-house-freedom-caucus-has-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "boisestatepublicradio.org",
+   "url": "https://www.boisestatepublicradio.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "aspenpublicradio.org",
+   "url": "https://www.aspenpublicradio.org/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "apr.org",
+   "url": "https://www.apr.org/politics-government/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "newcastlerecord.com",
+   "url": "https://newcastlerecord.com/2026/09/22/news-from-the-9th-healthy-moms-healthy-babies-2026-09-23/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "News from the 9th: Healthy Moms Healthy Babies",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "knpr.org",
+   "url": "https://knpr.org/npr/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "kansaspublicradio.org",
+   "url": "https://kansaspublicradio.org/npr-news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "hawaiipublicradio.org",
+   "url": "https://www.hawaiipublicradio.org/national-international/2026-09-21/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/politics/2026/09/21/house-gop-probe-of-democrat-fundraising-machine-actblue-is-far-from-over/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "House GOP: Probe of Democrat Fundraising Machine ActBlue Is 'Far from Over'",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "arlnow.com",
+   "url": "https://www.arlnow.com/2026/09/21/new-house-committee-blasts-arlingtons-sanctuary-policies-in-latest-escalation/#comment-6936731550",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "NEW: House committee blasts Arlington\u2019s \u2018sanctuary\u2019 policies in latest escalation | ARLnow.com",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "nypost.com",
+   "url": "https://nypost.com/2026/09/21/us-news/gop-warns-aggressive-actblue-illegal-foreign-donation-investigation-is-far-from-over/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GOP warns \u2018aggressive\u2019 ActBlue illegal foreign donation investigation is \u2018far from over\u2019",
+   "checked": true
+  },
+  {
+   "date": "2026-09-20",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/politics/2026/09/20/poll-more-democrats-plan-to-ditch-mail-in-ballots-and-vote-in-person-in-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Poll: More Democrats Plan to Ditch Mail-In Ballots and Vote in Person",
+   "checked": true
+  },
+  {
+   "date": "2026-09-20",
+   "domain": "nypost.com",
+   "url": "https://nypost.com/2026/09/20/opinion/miranda-devine-dems-bring-russiagate-back-from-the-dead-to-haunt-the-midterms-and-former-trump-staffer-michael-caputo/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Miranda Devine: Dems bring Russiagate back from the dead to haunt the midterms and former Trump staffer Michael Caputo",
+   "checked": true
+  },
+  {
+   "date": "2026-09-19",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/clips/2026/09/19/exclusive-jim-jordans-keys-to-winning-the-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Exclusive: Jim Jordan's Keys to Winning the Midterms",
+   "checked": true
+  },
+  {
+   "date": "2026-09-19",
+   "domain": "nrvnews.com",
+   "url": "https://nrvnews.com/healthy-moms-healthy-babies/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Healthy Moms Healthy Babies - NRVNews",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/house-gop-not-done-actblue-after-bombshell-internal-memos-raise-foreign-cash-questions",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "House GOP not done with ActBlue after bombshell internal memos raise foreign cash questions",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "townhall.com",
+   "url": "https://townhall.com/news/amy-curtis/2026/09/18/jim-jordan-subpoena-steve-descano-n2683137",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jim Jordan Subpoenas Fairfax DA Steve Descano Over Handling of Illegal Alien Defendants",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "yellowscene.com",
+   "url": "https://yellowscene.com/2026/09/17/rep-junie-joseph-responds-to-congressional-subpoena-of-boulder-county-district-attorney/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Rep. Junie Joseph Responds to Congressional Subpoena of Boulder County District Attorney - Yellow Scene Magazine",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "breitbart.com",
+   "url": "https://www.breitbart.com/politics/2026/09/17/kiggans-campaign-lurias-actblue-ties-funneled-illegal-cash-to-democrats/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jen Kiggans: Elaine Luria ActBlue Ties Funneled Illegal Cash",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "kgnu.org",
+   "url": "https://kgnu.org/house-republicans-subpoena-district-attorney-michael-dougherty-bvsd-defends-school-closures-parents-question-urgency-new-order-by-gov-polis-aims-to-protect-bees-and-other-pollinators-from-habitat/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "House Republicans subpoena District Attorney Michael Dougherty; BVSD defends school closures, parents question urgency; New order by Gov. Polis aims to protect bees and other pollinators from habitat loss",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/jim-jordan-subpoenas-blue-state-das-accused-preferential-treatment-illegal-immigrant-criminals",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jim Jordan subpoenas blue state DAs accused of 'preferential treatment' for illegal immigrant criminals",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/dem-fundraising-giant-actblue-accused-fraudulent-donation-cover-up-explosive-report",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Dem fundraising giant ActBlue accused of fraudulent donation 'cover-up' in explosive report",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "townhall.com",
+   "url": "https://townhall.com/news/amy-curtis/2026/09/16/explosive-judiciary-committee-report-accuses-actblue-of-major-fraudulent-donation-cover-up-n2683088",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Explosive Judiciary Committee Report Accuses ActBlue of Major Fraudulent Donation Cover-Up",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/bobhoge/2026/09/16/blistering-house-reports-accuses-dem-money-machine-actblue-of-actively-enabling-foreign-donations-n2207003",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Blistering House Report Accuses Dem Money Machine ActBlue of Actively Enabling Foreign Donations",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "dailycaller.com",
+   "url": "https://dailycaller.com/2026/09/16/environmental-law-institute-letter-michael-lucci-state-armor-ccp/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Institute Training US Judges On Climate May Be CCP-Linked, Group Tells Congress",
+   "checked": true
+  }
+ ]
+}

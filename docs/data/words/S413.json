@@ -1,0 +1,5938 @@
+{
+ "generated": "2026-10-13",
+ "record_from": "2025-01-03",
+ "media_from": "2026-09-13",
+ "capped": [],
+ "floor": [
+  {
+   "g": "CREC-2026-09-30-pt1-PgS5265",
+   "date": "2026-09-30",
+   "title": "Introductory Statement on S. 5634",
+   "kind": "introduced",
+   "words": 339
+  },
+  {
+   "g": "CREC-2026-09-30-pt1-PgS5264",
+   "date": "2026-09-30",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 293
+  },
+  {
+   "g": "CREC-2026-09-30-pt1-PgS5192",
+   "date": "2026-09-30",
+   "title": "STOP INSIDER TRADING ACT",
+   "kind": "senate",
+   "words": 910
+  },
+  {
+   "g": "CREC-2026-09-29-pt1-PgS5172-2",
+   "date": "2026-09-29",
+   "title": "Introductory Statement on S. 5585",
+   "kind": "introduced",
+   "words": 405
+  },
+  {
+   "g": "CREC-2026-09-29-pt1-PgS5148",
+   "date": "2026-09-29",
+   "title": "WILDFIRE EMISSIONS PREVENTION ACT OF 2026",
+   "kind": "senate",
+   "words": 313
+  },
+  {
+   "g": "CREC-2026-09-24-pt1-PgS5005",
+   "date": "2026-09-24",
+   "title": "Introductory Statement on S. 5563",
+   "kind": "introduced",
+   "words": 390,
+   "quoted_in": [
+    115
+   ]
+  },
+  {
+   "g": "CREC-2026-09-24-pt1-PgS5004-2",
+   "date": "2026-09-24",
+   "title": "Introductory Statement on S. 5559",
+   "kind": "introduced",
+   "words": 325
+  },
+  {
+   "g": "CREC-2026-09-24-pt1-PgS5004",
+   "date": "2026-09-24",
+   "title": "Introductory Statement on S. 5558",
+   "kind": "introduced",
+   "words": 309
+  },
+  {
+   "g": "CREC-2026-09-23-pt1-PgS4892-2",
+   "date": "2026-09-23",
+   "title": "PROTECT COLLEGE SPORTS ACT OF 2026",
+   "kind": "senate",
+   "words": 1157,
+   "quoted_in": [
+    187
+   ]
+  },
+  {
+   "g": "CREC-2026-09-17-pt1-PgS4799-2",
+   "date": "2026-09-17",
+   "title": "Introductory Statement on S. 5433",
+   "kind": "introduced",
+   "words": 352,
+   "quoted_in": [
+    133
+   ]
+  },
+  {
+   "g": "CREC-2026-09-14-pt1-PgS4641",
+   "date": "2026-09-14",
+   "title": "ELECTIONS",
+   "kind": "senate",
+   "words": 1366
+  },
+  {
+   "g": "CREC-2026-08-07-pt1-PgS4556-2",
+   "date": "2026-08-07",
+   "title": "AMENDING THE HELP AMERICA VOTE ACT OF 2002 TO REQUIRE VOTERS TO PROVIDE PHOTO IDENTIFICATION--Motion to Proceed",
+   "kind": "senate",
+   "words": 146
+  },
+  {
+   "g": "CREC-2026-08-06-pt1-PgS4520",
+   "date": "2026-08-06",
+   "title": "Introductory Statement on S. 5309",
+   "kind": "introduced",
+   "words": 329
+  },
+  {
+   "g": "CREC-2026-08-06-pt1-PgS4519-4",
+   "date": "2026-08-06",
+   "title": "Introductory Statement on S. 5304",
+   "kind": "introduced",
+   "words": 342
+  },
+  {
+   "g": "CREC-2026-08-06-pt1-PgS4519-3",
+   "date": "2026-08-06",
+   "title": "Introductory Statement on S. 5303",
+   "kind": "introduced",
+   "words": 498
+  },
+  {
+   "g": "CREC-2026-08-06-pt1-PgS4519-2",
+   "date": "2026-08-06",
+   "title": "Introductory Statement on S. 5301",
+   "kind": "introduced",
+   "words": 243
+  },
+  {
+   "g": "CREC-2026-08-06-pt1-PgS4487",
+   "date": "2026-08-06",
+   "title": "Unanimous Consent Requests (Executive Session)",
+   "kind": "senate",
+   "words": 423
+  },
+  {
+   "g": "CREC-2026-08-05-pt1-PgS4472-4",
+   "date": "2026-08-05",
+   "title": "TRIBUTE TO MIKE WITHERELL",
+   "kind": "senate",
+   "words": 387
+  },
+  {
+   "g": "CREC-2026-08-05-pt1-PgS4451-2",
+   "date": "2026-08-05",
+   "title": "Immigration and Customs Enforcement (Executive Session)",
+   "kind": "senate",
+   "words": 280
+  },
+  {
+   "g": "CREC-2026-08-04-pt1-PgS4429",
+   "date": "2026-08-04",
+   "title": "REMEMBERING LARRY MAZZOLA, SR.",
+   "kind": "submitted",
+   "words": 529
+  },
+  {
+   "g": "CREC-2026-07-29-pt1-PgS4325",
+   "date": "2026-07-29",
+   "title": "Unanimous Consent Requests (Executive Session)",
+   "kind": "senate",
+   "words": 1071
+  },
+  {
+   "g": "CREC-2026-07-28-pt1-PgS4294",
+   "date": "2026-07-28",
+   "title": "TRIBUTE TO BARBARA GROOM",
+   "kind": "submitted",
+   "words": 712
+  },
+  {
+   "g": "CREC-2026-07-28-pt1-PgS4293-3",
+   "date": "2026-07-28",
+   "title": "REMEMBERING CLINT REILLY",
+   "kind": "submitted",
+   "words": 600
+  },
+  {
+   "g": "CREC-2026-07-27-pt1-PgS4278-3",
+   "date": "2026-07-27",
+   "title": "Unanimous Consent Requests (Executive Session)",
+   "kind": "senate",
+   "words": 901
+  },
+  {
+   "g": "CREC-2026-07-22-pt1-PgS4233-2",
+   "date": "2026-07-22",
+   "title": "Introductory Statement on S. 5066",
+   "kind": "introduced",
+   "words": 367
+  },
+  {
+   "g": "CREC-2026-07-16-pt1-PgS4140",
+   "date": "2026-07-16",
+   "title": "Introductory Statement on S. 5020",
+   "kind": "introduced",
+   "words": 258
+  },
+  {
+   "g": "CREC-2026-07-16-pt1-PgS4139",
+   "date": "2026-07-16",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 227
+  },
+  {
+   "g": "CREC-2026-06-17-pt1-PgS2895-2",
+   "date": "2026-06-17",
+   "title": "Introductory Statement on S. 4812",
+   "kind": "introduced",
+   "words": 323
+  },
+  {
+   "g": "CREC-2026-06-17-pt1-PgS2891",
+   "date": "2026-06-17",
+   "title": "RECOGNIZING THE 150TH ANNIVERSARY OF LICK OBSERVATORY",
+   "kind": "senate",
+   "words": 334
+  },
+  {
+   "g": "CREC-2026-06-16-pt1-PgS2807-2",
+   "date": "2026-06-16",
+   "title": "UNANIMOUS CONSENT REQUEST--S. 4791",
+   "kind": "senate",
+   "words": 646
+  },
+  {
+   "g": "CREC-2026-06-15-pt1-PgS2797",
+   "date": "2026-06-15",
+   "title": "DACA",
+   "kind": "senate",
+   "words": 1236
+  },
+  {
+   "g": "CREC-2026-06-04-pt1-PgS2545-8",
+   "date": "2026-06-04",
+   "title": "RECOGNITION OF THE MAJORITY LEADER",
+   "kind": "senate",
+   "words": 474
+  },
+  {
+   "g": "CREC-2026-06-03-pt1-PgS2510",
+   "date": "2026-06-03",
+   "title": "SECURE AMERICA ACT",
+   "kind": "senate",
+   "words": 1633
+  },
+  {
+   "g": "CREC-2026-05-21-pt1-PgS2444-3",
+   "date": "2026-05-21",
+   "title": "Introductory Statement on S. 4640",
+   "kind": "introduced",
+   "words": 408
+  },
+  {
+   "g": "CREC-2026-05-21-pt1-PgS2435-3",
+   "date": "2026-05-21",
+   "title": "MORNING BUSINESS--Continued",
+   "kind": "senate",
+   "words": 1289
+  },
+  {
+   "g": "CREC-2026-05-19-pt1-PgS2355-2",
+   "date": "2026-05-19",
+   "title": "DIRECTING THE REMOVAL OF UNITED STATES ARMED FORCES FROM HOSTILITIES WITHIN OR AGAINST THE ISLAMIC REPUBLIC OF IRAN THAT HAVE NOT BEEN AUTHORIZED BY CONGRESS--Motion to Discharge",
+   "kind": "senate",
+   "words": 279
+  },
+  {
+   "g": "CREC-2026-05-14-pt1-PgS2294-2",
+   "date": "2026-05-14",
+   "title": "AMENDING CHAPTERS 83 AND 84 OF TITLE 5, UNITED STATES CODE, TO AUTHORIZE AN INCREASE OF THE RETIREMENT AGE FOR MEMBERS OF THE CAPITOL POLICE",
+   "kind": "senate",
+   "words": 421
+  },
+  {
+   "g": "CREC-2026-04-28-pt1-PgS2083-3",
+   "date": "2026-04-28",
+   "title": "Introductory Statement on S. 4417",
+   "kind": "introduced",
+   "words": 382
+  },
+  {
+   "g": "CREC-2026-04-28-pt1-PgS2083",
+   "date": "2026-04-28",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 351
+  },
+  {
+   "g": "CREC-2026-04-22-pt1-PgS1937-2",
+   "date": "2026-04-22",
+   "title": "Introductory Statement on S. 4368",
+   "kind": "introduced",
+   "words": 461
+  },
+  {
+   "g": "CREC-2026-04-22-pt1-PgS1902-3",
+   "date": "2026-04-22",
+   "title": "RECOGNIZING THE SIGNIFICANCE OF COMMUNITY COLLEGE MONTH IN APRIL",
+   "kind": "senate",
+   "words": 865
+  },
+  {
+   "g": "CREC-2026-04-22-pt1-PgS1890",
+   "date": "2026-04-22",
+   "title": "DIRECTING THE REMOVAL OF UNITED STATES ARMED FORCES FROM HOSTILITIES WITHIN OR AGAINST THE ISLAMIC REPUBLIC OF IRAN THAT HAVE NOT BEEN AUTHORIZED BY CONGRESS--Motion to Discharge",
+   "kind": "senate",
+   "words": 588
+  },
+  {
+   "g": "CREC-2026-03-26-pt1-PgS1673-2",
+   "date": "2026-03-26",
+   "title": "Introductory Statement on S.J. Res. 152",
+   "kind": "introduced",
+   "words": 715
+  },
+  {
+   "g": "CREC-2026-03-26-pt1-PgS1672-3",
+   "date": "2026-03-26",
+   "title": "Introductory Statement on S. 4271",
+   "kind": "introduced",
+   "words": 448
+  },
+  {
+   "g": "CREC-2026-03-26-pt1-PgS1648",
+   "date": "2026-03-26",
+   "title": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026--Motion to Proceed--Resumed",
+   "kind": "senate",
+   "words": 1522
+  },
+  {
+   "g": "CREC-2026-03-25-pt1-PgS1589-8",
+   "date": "2026-03-25",
+   "title": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026--Motion to Proceed--Resumed",
+   "kind": "senate",
+   "words": 605
+  },
+  {
+   "g": "CREC-2026-03-19-pt1-PgS1314",
+   "date": "2026-03-19",
+   "title": "SAFEGUARD AMERICAN VOTER ELIGIBILITY ACT--Resumed",
+   "kind": "senate",
+   "words": 280
+  },
+  {
+   "g": "CREC-2026-03-17-pt1-PgS1066-5",
+   "date": "2026-03-17",
+   "title": "SAFEGUARD AMERICAN VOTER ELIGIBILITY ACT",
+   "kind": "senate",
+   "words": 578
+  },
+  {
+   "g": "CREC-2026-03-16-pt1-PgS1056-4",
+   "date": "2026-03-16",
+   "title": "Introductory Statement on S. 4103",
+   "kind": "introduced",
+   "words": 376
+  },
+  {
+   "g": "CREC-2026-03-16-pt1-PgS1056-3",
+   "date": "2026-03-16",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 351
+  },
+  {
+   "g": "CREC-2026-03-12-pt1-PgS1024",
+   "date": "2026-03-12",
+   "title": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026--Motion to Proceed",
+   "kind": "senate",
+   "words": 544
+  },
+  {
+   "g": "CREC-2026-03-11-pt1-PgS1011-3",
+   "date": "2026-03-11",
+   "title": "Introductory Statement on S. 4053",
+   "kind": "introduced",
+   "words": 236
+  },
+  {
+   "g": "CREC-2026-03-11-pt1-PgS1011",
+   "date": "2026-03-11",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 202
+  },
+  {
+   "g": "CREC-2026-02-26-pt1-PgS697-2",
+   "date": "2026-02-26",
+   "title": "CAPE FOX LAND ENTITLEMENT FINALIZATION ACT OF 2025",
+   "kind": "senate",
+   "words": 434
+  },
+  {
+   "g": "CREC-2026-02-24-pt1-PgS644-2",
+   "date": "2026-02-24",
+   "title": "TRIBUTE TO DR. PETER B. MOYLE",
+   "kind": "submitted",
+   "words": 416
+  },
+  {
+   "g": "CREC-2026-02-12-pt1-PgS593",
+   "date": "2026-02-12",
+   "title": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026--Motion to Proceed--Resumed",
+   "kind": "senate",
+   "words": 1045
+  },
+  {
+   "g": "CREC-2026-02-11-pt1-PgS579-3",
+   "date": "2026-02-11",
+   "title": "Introductory Statement on S. 3840",
+   "kind": "introduced",
+   "words": 218
+  },
+  {
+   "g": "CREC-2026-02-11-pt1-PgS579",
+   "date": "2026-02-11",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 183
+  },
+  {
+   "g": "CREC-2026-02-05-pt1-PgS511-2",
+   "date": "2026-02-05",
+   "title": "Introductory Statement on S. 3783",
+   "kind": "introduced",
+   "words": 405
+  },
+  {
+   "g": "CREC-2026-02-05-pt1-PgS511",
+   "date": "2026-02-05",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 350
+  },
+  {
+   "g": "CREC-2026-01-29-pt1-PgS380-2",
+   "date": "2026-01-29",
+   "title": "Introductory Statement on S. 3738",
+   "kind": "introduced",
+   "words": 138
+  },
+  {
+   "g": "CREC-2026-01-29-pt1-PgS380",
+   "date": "2026-01-29",
+   "title": "Introductory Statement on S. 3737",
+   "kind": "introduced",
+   "words": 655
+  },
+  {
+   "g": "CREC-2026-01-28-pt1-PgS307-2",
+   "date": "2026-01-28",
+   "title": "CONSOLIDATED APPROPRIATIONS ACT, 2026--Motion to Proceed--Continued",
+   "kind": "senate",
+   "words": 1309
+  },
+  {
+   "g": "CREC-2026-01-08-pt1-PgS117",
+   "date": "2026-01-08",
+   "title": "Introductory Statement on S. 3609",
+   "kind": "introduced",
+   "words": 445
+  },
+  {
+   "g": "CREC-2026-01-08-pt1-PgS116",
+   "date": "2026-01-08",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 418
+  },
+  {
+   "g": "CREC-2026-01-08-pt1-PgS111",
+   "date": "2026-01-08",
+   "title": "DIRECTING THE ARCHITECT OF THE CAPITOL TO PROMINENTLY DISPLAY, IN A PUBLICLY ACCESSIBLE LOCATION IN THE SENATE WING OF THE UNITED STATES CAPITOL, A PLAQUE HONORING THE MEMBERS OF LAW ENFORCEMENT...",
+   "kind": "senate",
+   "words": 270
+  },
+  {
+   "g": "CREC-2026-01-06-pt1-PgS26",
+   "date": "2026-01-06",
+   "title": "Unanimous Consent Request--S. Res. 574 (Executive Calendar)",
+   "kind": "senate",
+   "words": 185
+  },
+  {
+   "g": "CREC-2025-12-18-pt1-PgS8883",
+   "date": "2025-12-18",
+   "title": "Unanimous Consent Request--S. 858 (Executive Session)",
+   "kind": "senate",
+   "words": 745
+  },
+  {
+   "g": "CREC-2025-12-17-pt1-PgS8836-2",
+   "date": "2025-12-17",
+   "title": "Introductory Statement on S. 3526",
+   "kind": "introduced",
+   "words": 534
+  },
+  {
+   "g": "CREC-2025-12-17-pt1-PgS8836",
+   "date": "2025-12-17",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 501
+  },
+  {
+   "g": "CREC-2025-12-16-pt1-PgS8766",
+   "date": "2025-12-16",
+   "title": "HOUSE BILLS",
+   "kind": "senate",
+   "words": 557
+  },
+  {
+   "g": "CREC-2025-12-15-pt1-PgS8731-2",
+   "date": "2025-12-15",
+   "title": "Introductory Statement on S. 3470",
+   "kind": "introduced",
+   "words": 447
+  },
+  {
+   "g": "CREC-2025-12-15-pt1-PgS8731",
+   "date": "2025-12-15",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 411
+  },
+  {
+   "g": "CREC-2025-12-11-pt1-PgS8672-2",
+   "date": "2025-12-11",
+   "title": "Introductory Statement on S. 3437",
+   "kind": "introduced",
+   "words": 277
+  },
+  {
+   "g": "CREC-2025-12-11-pt1-PgS8672",
+   "date": "2025-12-11",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 250
+  },
+  {
+   "g": "CREC-2025-12-11-pt1-PgS8667-4",
+   "date": "2025-12-11",
+   "title": "REMEMBERING BOB FOSTER",
+   "kind": "submitted",
+   "words": 387
+  },
+  {
+   "g": "CREC-2025-12-10-pt1-PgS8619",
+   "date": "2025-12-10",
+   "title": "REMEMBERING DANIEL TUCKER",
+   "kind": "senate",
+   "words": 344
+  },
+  {
+   "g": "CREC-2025-12-10-pt1-PgS8612",
+   "date": "2025-12-10",
+   "title": "Health Care Freedom for Patients Act (Executive Session)",
+   "kind": "senate",
+   "words": 726
+  },
+  {
+   "g": "CREC-2025-12-10-pt1-PgS8605",
+   "date": "2025-12-10",
+   "title": "Tribute to Adam Schiff (Executive Session)",
+   "kind": "senate",
+   "words": 435
+  },
+  {
+   "g": "CREC-2025-12-04-pt1-PgS8514",
+   "date": "2025-12-04",
+   "title": "Introductory Statement on S. 3372",
+   "kind": "introduced",
+   "words": 391
+  },
+  {
+   "g": "CREC-2025-12-04-pt1-PgS8509",
+   "date": "2025-12-04",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 361
+  },
+  {
+   "g": "CREC-2025-11-19-pt1-PgS8236-3",
+   "date": "2025-11-19",
+   "title": "RECOGNIZING CALIFORNIA'S 2025 NOBEL LAUREATES",
+   "kind": "senate",
+   "words": 412
+  },
+  {
+   "g": "CREC-2025-11-18-pt1-PgS8207",
+   "date": "2025-11-18",
+   "title": "Introductory Statement on S. 3194",
+   "kind": "introduced",
+   "words": 309
+  },
+  {
+   "g": "CREC-2025-11-18-pt1-PgS8206",
+   "date": "2025-11-18",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 263
+  },
+  {
+   "g": "CREC-2025-11-05-pt1-PgS7908",
+   "date": "2025-11-05",
+   "title": "GOVERNMENT FUNDING",
+   "kind": "senate",
+   "words": 518
+  },
+  {
+   "g": "CREC-2025-11-04-pt1-PgS7901-2",
+   "date": "2025-11-04",
+   "title": "REMEMBERING KENT WONG",
+   "kind": "submitted",
+   "words": 396
+  },
+  {
+   "g": "CREC-2025-10-28-pt1-PgS7780-4",
+   "date": "2025-10-28",
+   "title": "RECOGNIZING THE INTERNET ARCHIVE'S ONE-TRILLIONTH WEB PAGE",
+   "kind": "senate",
+   "words": 256
+  },
+  {
+   "g": "CREC-2025-10-23-pt1-PgS7728-3",
+   "date": "2025-10-23",
+   "title": "TRIBUTE TO STACEY MORTENSEN",
+   "kind": "submitted",
+   "words": 422
+  },
+  {
+   "g": "CREC-2025-10-15-pt1-PgS7129-2",
+   "date": "2025-10-15",
+   "title": "CONTINUING APPROPRIATIONS AND EXTENSIONS ACT, 2026--Motion to Proceed-- Continued",
+   "kind": "senate",
+   "words": 1045
+  },
+  {
+   "g": "CREC-2025-10-08-pt1-PgS7009",
+   "date": "2025-10-08",
+   "title": "NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2026",
+   "kind": "senate",
+   "words": 225
+  },
+  {
+   "g": "CREC-2025-10-08-pt1-PgS7007",
+   "date": "2025-10-08",
+   "title": "ALASKA'S RIGHT TO IVORY SALES AND TRADITION ACT",
+   "kind": "senate",
+   "words": 82
+  },
+  {
+   "g": "CREC-2025-09-19-pt1-PgS6794",
+   "date": "2025-09-19",
+   "title": "Introductory Statement on S. 2922",
+   "kind": "introduced",
+   "words": 331
+  },
+  {
+   "g": "CREC-2025-09-19-pt1-PgS6792",
+   "date": "2025-09-19",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 293
+  },
+  {
+   "g": "CREC-2025-09-18-pt1-PgS6734-2",
+   "date": "2025-09-18",
+   "title": "Introductory Statement on S. 2881",
+   "kind": "introduced",
+   "words": 225
+  },
+  {
+   "g": "CREC-2025-09-18-pt1-PgS6734",
+   "date": "2025-09-18",
+   "title": "Introductory Statement on S. 2871",
+   "kind": "introduced",
+   "words": 234
+  },
+  {
+   "g": "CREC-2025-09-18-pt1-PgS6720-3",
+   "date": "2025-09-18",
+   "title": "AUTHORIZING THE USE OF FUNDS FROM THE SENATORS' OFFICIAL PERSONNEL AND OFFICE EXPENSE ACCOUNT FOR SECURITY ENHANCEMENTS AND SERVICES PROVIDED TO SENATORS",
+   "kind": "senate",
+   "words": 442
+  },
+  {
+   "g": "CREC-2025-09-15-pt1-PgS6590",
+   "date": "2025-09-15",
+   "title": "Energy (Executive Session)",
+   "kind": "senate",
+   "words": 1505
+  },
+  {
+   "g": "CREC-2025-09-11-pt1-PgS6578-2",
+   "date": "2025-09-11",
+   "title": "Introductory Statement on S. 2796",
+   "kind": "introduced",
+   "words": 257
+  },
+  {
+   "g": "CREC-2025-09-11-pt1-PgS6577",
+   "date": "2025-09-11",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 232
+  },
+  {
+   "g": "CREC-2025-09-09-pt1-PgS6459",
+   "date": "2025-09-09",
+   "title": "Unanimous Consent Request--S. Res. 379 (Executive Calendar)",
+   "kind": "senate",
+   "words": 833
+  },
+  {
+   "g": "CREC-2025-09-08-pt1-PgS6403-2",
+   "date": "2025-09-08",
+   "title": "Introductory Statement on S. 2735",
+   "kind": "introduced",
+   "words": 294
+  },
+  {
+   "g": "CREC-2025-07-31-pt1-PgS5001",
+   "date": "2025-07-31",
+   "title": "Introductory Statement on S. 2635",
+   "kind": "introduced",
+   "words": 439
+  },
+  {
+   "g": "CREC-2025-07-31-pt1-PgS4999-2",
+   "date": "2025-07-31",
+   "title": "Introductory Statement on S. 2566",
+   "kind": "introduced",
+   "words": 275
+  },
+  {
+   "g": "CREC-2025-07-31-pt1-PgS4991-5",
+   "date": "2025-07-31",
+   "title": "TRIBUTE TO CORPORAL FRANK S. WRIGHT",
+   "kind": "submitted",
+   "words": 498
+  },
+  {
+   "g": "CREC-2025-07-30-pt1-PgS4907-2",
+   "date": "2025-07-30",
+   "title": "Introductory Statement on S. 2545",
+   "kind": "introduced",
+   "words": 223
+  },
+  {
+   "g": "CREC-2025-07-30-pt1-PgS4907",
+   "date": "2025-07-30",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 181
+  },
+  {
+   "g": "CREC-2025-07-28-pt1-PgS4776-2",
+   "date": "2025-07-28",
+   "title": "Introductory Statement on S. 2468",
+   "kind": "introduced",
+   "words": 602
+  },
+  {
+   "g": "CREC-2025-07-28-pt1-PgS4776",
+   "date": "2025-07-28",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 566
+  },
+  {
+   "g": "CREC-2025-07-24-pt1-PgS4701-3",
+   "date": "2025-07-24",
+   "title": "Introductory Statement on S. 2446",
+   "kind": "introduced",
+   "words": 279
+  },
+  {
+   "g": "CREC-2025-07-24-pt1-PgS4701",
+   "date": "2025-07-24",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 230
+  },
+  {
+   "g": "CREC-2025-07-17-pt1-PgS4458-3",
+   "date": "2025-07-17",
+   "title": "Introductory Statement on S. 2347",
+   "kind": "introduced",
+   "words": 258
+  },
+  {
+   "g": "CREC-2025-07-17-pt1-PgS4458",
+   "date": "2025-07-17",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 227
+  },
+  {
+   "g": "CREC-2025-07-17-pt1-PgS4454-3",
+   "date": "2025-07-17",
+   "title": "TRIBUTE TO ARTURO VARGAS",
+   "kind": "submitted",
+   "words": 454
+  },
+  {
+   "g": "CREC-2025-07-17-pt1-PgS4454-2",
+   "date": "2025-07-17",
+   "title": "REMEMBERING DR. JAIME REGALADO",
+   "kind": "submitted",
+   "words": 316
+  },
+  {
+   "g": "CREC-2025-07-17-pt1-PgS4438",
+   "date": "2025-07-17",
+   "title": "Smithsonian Institution (Executive Session)",
+   "kind": "senate",
+   "words": 650
+  },
+  {
+   "g": "CREC-2025-07-16-pt1-PgS4421-3",
+   "date": "2025-07-16",
+   "title": "Introductory Statement on S. 2298",
+   "kind": "introduced",
+   "words": 369
+  },
+  {
+   "g": "CREC-2025-07-14-pt1-PgS4337-2",
+   "date": "2025-07-14",
+   "title": "Introductory Statement on S. 2265",
+   "kind": "introduced",
+   "words": 424
+  },
+  {
+   "g": "CREC-2025-07-10-pt1-PgS4317-2",
+   "date": "2025-07-10",
+   "title": "Introductory Statement on S. 2261",
+   "kind": "introduced",
+   "words": 404
+  },
+  {
+   "g": "CREC-2025-07-10-pt1-PgS4317",
+   "date": "2025-07-10",
+   "title": "Introductory Statement on S. 2260",
+   "kind": "introduced",
+   "words": 471
+  },
+  {
+   "g": "CREC-2025-07-08-pt1-PgS4258-2",
+   "date": "2025-07-08",
+   "title": "Introductory Statement on S. 2212",
+   "kind": "introduced",
+   "words": 411
+  },
+  {
+   "g": "CREC-2025-06-28-pt1-PgS3663-3",
+   "date": "2025-06-28",
+   "title": "H.R. 1",
+   "kind": "senate",
+   "words": 198
+  },
+  {
+   "g": "CREC-2025-06-26-pt1-PgS3564-2",
+   "date": "2025-06-26",
+   "title": "Introductory Statement on S. 2192",
+   "kind": "introduced",
+   "words": 483
+  },
+  {
+   "g": "CREC-2025-06-24-pt1-PgS3517-2",
+   "date": "2025-06-24",
+   "title": "Introductory Statement on S. 2158",
+   "kind": "introduced",
+   "words": 443
+  },
+  {
+   "g": "CREC-2025-06-17-pt1-PgS3411",
+   "date": "2025-06-17",
+   "title": "Los Angeles Press Briefing (Executive Session)",
+   "kind": "senate",
+   "words": 670
+  },
+  {
+   "g": "CREC-2025-06-10-pt1-PgS3297-2",
+   "date": "2025-06-10",
+   "title": "Los Angeles Protests (Executive Session)",
+   "kind": "senate",
+   "words": 504
+  },
+  {
+   "g": "CREC-2025-06-04-pt1-PgS3235-3",
+   "date": "2025-06-04",
+   "title": "Introductory Statement on S. 1948",
+   "kind": "introduced",
+   "words": 262
+  },
+  {
+   "g": "CREC-2025-05-22-pt1-PgS3105-2",
+   "date": "2025-05-22",
+   "title": "PROVIDING CONGRESSIONAL DISAPPROVAL UNDER CHAPTER 8 OF TITLE 5, UNITED STATES CODE, OF THE RULE SUBMITTED BY THE ENVIRONMENTAL PROTECTION AGENCY RELATING TO \"CALIFORNIA STATE MOTOR VEHICLE AND...",
+   "kind": "senate",
+   "words": 2137
+  },
+  {
+   "g": "CREC-2025-05-21-pt1-PgS3086-3",
+   "date": "2025-05-21",
+   "title": "H.J. RES. 88",
+   "kind": "senate",
+   "words": 199
+  },
+  {
+   "g": "CREC-2025-05-21-pt1-PgS3025-3",
+   "date": "2025-05-21",
+   "title": "PROVIDING FOR CONGRESSIONAL DISAPPROVAL UNDER CHAPTER 8 OF TITLE 5, UNITED STATES CODE, OF THE RULE SUBMITTED BY THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION RELATING TO \"FEDERAL MOTOR...",
+   "kind": "senate",
+   "words": 1423
+  },
+  {
+   "g": "CREC-2025-05-20-pt1-PgS2995",
+   "date": "2025-05-20",
+   "title": "GUIDING AND ESTABLISHING NATIONAL INNOVATION FOR U.S. STABLECOINS ACT-- Motion to Proceed",
+   "kind": "senate",
+   "words": 1986
+  },
+  {
+   "g": "CREC-2025-05-20-pt1-PgS2988",
+   "date": "2025-05-20",
+   "title": "RECESS",
+   "kind": "senate",
+   "words": 1568
+  },
+  {
+   "g": "CREC-2025-05-15-pt1-PgS2953-2",
+   "date": "2025-05-15",
+   "title": "Introductory Statement on S. 1777",
+   "kind": "introduced",
+   "words": 488
+  },
+  {
+   "g": "CREC-2025-05-15-pt1-PgS2953",
+   "date": "2025-05-15",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 437
+  },
+  {
+   "g": "CREC-2025-05-15-pt1-PgS2941-4",
+   "date": "2025-05-15",
+   "title": "MOTION TO DISCHARGE--S. RES. 195",
+   "kind": "senate",
+   "words": 794
+  },
+  {
+   "g": "CREC-2025-05-12-pt1-PgS2864-2",
+   "date": "2025-05-12",
+   "title": "Introductory Statement on S. 1709",
+   "kind": "introduced",
+   "words": 326
+  },
+  {
+   "g": "CREC-2025-05-08-pt1-PgS2814",
+   "date": "2025-05-08",
+   "title": "GUIDING AND ESTABLISHING NATIONAL INNOVATION FOR U.S. STABLECOINS ACT-- Motion to Proceed",
+   "kind": "senate",
+   "words": 758
+  },
+  {
+   "g": "CREC-2025-05-07-pt1-PgS2800-4",
+   "date": "2025-05-07",
+   "title": "Introductory Statement on S. 1664",
+   "kind": "introduced",
+   "words": 374
+  },
+  {
+   "g": "CREC-2025-04-30-pt1-PgS2683-2",
+   "date": "2025-04-30",
+   "title": "TERMINATING THE NATIONAL EMERGENCY DECLARED TO IMPOSE GLOBAL TARIFFS",
+   "kind": "senate",
+   "words": 2591
+  },
+  {
+   "g": "CREC-2025-04-10-pt1-PgS2568",
+   "date": "2025-04-10",
+   "title": "Introductory Statement on S. 1477",
+   "kind": "introduced",
+   "words": 801
+  },
+  {
+   "g": "CREC-2025-04-10-pt1-PgS2566",
+   "date": "2025-04-10",
+   "title": "Introductory Statement on S. 1432",
+   "kind": "introduced",
+   "words": 310
+  },
+  {
+   "g": "CREC-2025-04-10-pt1-PgS2565-3",
+   "date": "2025-04-10",
+   "title": "Introductory Statement on S. 1415",
+   "kind": "introduced",
+   "words": 325
+  },
+  {
+   "g": "CREC-2025-04-10-pt1-PgS2565-2",
+   "date": "2025-04-10",
+   "title": "Introductory Statement on S. 1413",
+   "kind": "introduced",
+   "words": 342
+  },
+  {
+   "g": "CREC-2025-04-02-pt1-PgS2121-3",
+   "date": "2025-04-02",
+   "title": "TERMINATING THE NATIONAL EMERGENCY DECLARED TO IMPOSE DUTIES ON ARTICLES IMPORTED FROM CANADA",
+   "kind": "senate",
+   "words": 1083
+  },
+  {
+   "g": "CREC-2025-03-31-pt1-PgS1930",
+   "date": "2025-03-31",
+   "title": "Introductory Statement on S. 1215",
+   "kind": "introduced",
+   "words": 579
+  },
+  {
+   "g": "CREC-2025-03-31-pt1-PgS1925",
+   "date": "2025-03-31",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 543
+  },
+  {
+   "g": "CREC-2025-03-26-pt1-PgS1873-2",
+   "date": "2025-03-26",
+   "title": "Introductory Statement on S. 1142",
+   "kind": "introduced",
+   "words": 295
+  },
+  {
+   "g": "CREC-2025-03-26-pt1-PgS1873",
+   "date": "2025-03-26",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 266
+  },
+  {
+   "g": "CREC-2025-03-13-pt1-PgS1745-3",
+   "date": "2025-03-13",
+   "title": "Introductory Statement on S. 1042",
+   "kind": "introduced",
+   "words": 539
+  },
+  {
+   "g": "CREC-2025-03-13-pt1-PgS1745",
+   "date": "2025-03-13",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 506
+  },
+  {
+   "g": "CREC-2025-03-12-pt1-PgS1706-2",
+   "date": "2025-03-12",
+   "title": "Introductory Statement on S. 984",
+   "kind": "introduced",
+   "words": 375
+  },
+  {
+   "g": "CREC-2025-03-12-pt1-PgS1706",
+   "date": "2025-03-12",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 330
+  },
+  {
+   "g": "CREC-2025-03-06-pt1-PgS1606",
+   "date": "2025-03-06",
+   "title": "Introductory Statement on S. 893",
+   "kind": "introduced",
+   "words": 325
+  },
+  {
+   "g": "CREC-2025-03-06-pt1-PgS1605-2",
+   "date": "2025-03-06",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 290
+  },
+  {
+   "g": "CREC-2025-03-05-pt1-PgS1513-2",
+   "date": "2025-03-05",
+   "title": "Unanimous Consent Request--S. Res. 108 (Executive Session)",
+   "kind": "senate",
+   "words": 210
+  },
+  {
+   "g": "CREC-2025-02-27-pt1-PgS1430-2",
+   "date": "2025-02-27",
+   "title": "Introductory Statement on S. 779",
+   "kind": "introduced",
+   "words": 406
+  },
+  {
+   "g": "CREC-2025-02-27-pt1-PgS1430",
+   "date": "2025-02-27",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 361
+  },
+  {
+   "g": "CREC-2025-02-26-pt1-PgS1395",
+   "date": "2025-02-26",
+   "title": "TRIBUTE TO ROBERT SANTOS",
+   "kind": "senate",
+   "words": 572
+  },
+  {
+   "g": "CREC-2025-02-25-pt1-PgS1350",
+   "date": "2025-02-25",
+   "title": "Introductory Statement on S. 720",
+   "kind": "introduced",
+   "words": 313
+  },
+  {
+   "g": "CREC-2025-02-25-pt1-PgS1347",
+   "date": "2025-02-25",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 287
+  },
+  {
+   "g": "CREC-2025-02-24-pt1-PgS1313-2",
+   "date": "2025-02-24",
+   "title": "Introductory Statement on S. 689",
+   "kind": "introduced",
+   "words": 586
+  },
+  {
+   "g": "CREC-2025-02-24-pt1-PgS1313",
+   "date": "2025-02-24",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 558
+  },
+  {
+   "g": "CREC-2025-02-20-pt1-PgS1125-7",
+   "date": "2025-02-20",
+   "title": "TRIBUTE TO JOEL FLATOW",
+   "kind": "submitted",
+   "words": 452
+  },
+  {
+   "g": "CREC-2025-02-18-pt1-PgS1011",
+   "date": "2025-02-18",
+   "title": "Introductory Statement on S. 624",
+   "kind": "introduced",
+   "words": 306
+  },
+  {
+   "g": "CREC-2025-02-18-pt1-PgS1010",
+   "date": "2025-02-18",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 255
+  },
+  {
+   "g": "CREC-2025-02-13-pt1-PgS979",
+   "date": "2025-02-13",
+   "title": "Introductory Statement on S. 602",
+   "kind": "introduced",
+   "words": 338
+  },
+  {
+   "g": "CREC-2025-02-13-pt1-PgS978",
+   "date": "2025-02-13",
+   "title": "Introductory Statement on S. 597",
+   "kind": "introduced",
+   "words": 480
+  },
+  {
+   "g": "CREC-2025-02-05-pt2-PgS794-3",
+   "date": "2025-02-05",
+   "title": "Introductory Statement on S. 453",
+   "kind": "introduced",
+   "words": 256
+  },
+  {
+   "g": "CREC-2025-02-05-pt2-PgS794",
+   "date": "2025-02-05",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 234
+  },
+  {
+   "g": "CREC-2025-02-04-pt1-PgS595-3",
+   "date": "2025-02-04",
+   "title": "Introductory Statement on S. 391",
+   "kind": "introduced",
+   "words": 436
+  },
+  {
+   "g": "CREC-2025-02-03-pt1-PgS545-2",
+   "date": "2025-02-03",
+   "title": "Introductory Statement on S. 366",
+   "kind": "introduced",
+   "words": 367
+  },
+  {
+   "g": "CREC-2025-02-03-pt1-PgS545",
+   "date": "2025-02-03",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 335
+  },
+  {
+   "g": "CREC-2025-01-29-pt1-PgS484",
+   "date": "2025-01-29",
+   "title": "Introductory Statement on S. 322",
+   "kind": "introduced",
+   "words": 346
+  },
+  {
+   "g": "CREC-2025-01-29-pt1-PgS482",
+   "date": "2025-01-29",
+   "title": "Introductory Statement on S. 291",
+   "kind": "introduced",
+   "words": 352
+  },
+  {
+   "g": "CREC-2025-01-17-pt1-PgS242",
+   "date": "2025-01-17",
+   "title": "TRIBUTE TO CAMILLE CALIMLIM TOUTON",
+   "kind": "senate",
+   "words": 532
+  },
+  {
+   "g": "CREC-2025-01-16-pt1-PgS198",
+   "date": "2025-01-16",
+   "title": "LAKEN RILEY ACT",
+   "kind": "senate",
+   "words": 1457
+  }
+ ],
+ "media": [
+  {
+   "date": "2026-10-13",
+   "domain": "rollcall.com",
+   "url": "https://rollcall.com/2026/10/13/senate-dream-act-durbin-retiring/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "He\u2019s retiring from the Senate. What will happen to his \u2018dream\u2019?",
+   "checked": true
+  },
+  {
+   "date": "2026-10-10",
+   "domain": "turnto23.com",
+   "url": "https://www.turnto23.com/news/in-your-neighborhood/bakersfield/operation-safe-california-raises-immigration-enforcement-concerns-across-central-valley",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Operation Safe California' raises Immigration enforcement concerns across Central Valley",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "thepampanews.com",
+   "url": "https://www.thepampanews.com/premium/stacker/stories/delayed-voter-applications-highlight-the-difficulties-of-registering-in-texas-experts-say,181296",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Delayed voter applications highlight the difficulties of registering in Texas, experts say - Pampa News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "pleasantonweekly.com",
+   "url": "https://www.pleasantonweekly.com/election/2026/10/09/tensions-boil-over-in-district-14-debate-as-hernandez-accuses-wahab-of-communications-with-the-taliban/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Tensions boil over in District 14 debate as Hernandez accuses Wahab of \u2018communications with the Taliban\u2019",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "independent.com",
+   "url": "https://www.independent.com/2026/10/09/news-schiff-padilla-and-carbajal-probe-corrupt-career-move-as-former-white-house-energy-adviser-that-fought-to-reopen-california-pipeline-takes-executive-position-at-oil-company-pushing-the-restart/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "NEWS: Schiff, Padilla, and Carbajal Probe Corrupt Career Move as Former White House Energy Adviser that Fought to Reopen California Pipeline Takes Executive Position at Oil Company Pushing the Restart",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "hillcountrynews.com",
+   "url": "https://www.hillcountrynews.com/stories/delayed-voter-applications-highlight-the-difficulties-of-registering-in-texas-experts-say,262916",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Delayed voter applications highlight the difficulties of registering in Texas, experts say - Hill Country News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "danvillesanramon.com",
+   "url": "https://www.danvillesanramon.com/election/2026/10/09/tensions-boil-over-in-district-14-debate-as-hernandez-accuses-wahab-of-communications-with-the-taliban/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Tensions boil over in District 14 debate as Hernandez accuses Wahab of \u2018communications with the Taliban\u2019",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "community-news.com",
+   "url": "http://www.community-news.com/premium/stacker/stories/delayed-voter-applications-highlight-the-difficulties-of-registering-in-texas-experts-say,184626",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Delayed voter applications highlight the difficulties of registering in Texas, experts say - The Community News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "katytimes.com",
+   "url": "http://katytimes.com/premium/stacker/stories/delayed-voter-applications-highlight-the-difficulties-of-registering-in-texas-experts-say,178439",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Delayed voter applications highlight the difficulties of registering in Texas, experts say - Katy Times",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "santamariasun.com",
+   "url": "https://www.santamariasun.com/news-2/political-watch-october-8-2026/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Political Watch: October 8, 2026 - Santa Maria Sun",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "patch.com",
+   "url": "https://patch.com/california/across-ca/push-year-round-dst-intensifies-what-ca-lawmakers-say",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Push For Year-Round DST Intensifies: What CA Lawmakers Say",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "nbcbayarea.com",
+   "url": "https://www.nbcbayarea.com/news/local/san-francisco-temporary-moratorium-data-centers/4154574/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "San Francisco supervisors pass temporary moratorium on data centers",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-fines-up-1-8m-migrants",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal judge blocks Trump administration fines of up to $1.8M for migrants",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "foxwilmington.com",
+   "url": "https://foxwilmington.com/federal-judge-blocks-trump-administration-fines-of-up-to-1-8m-for-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=federal-judge-blocks-trump-administration-fines-of-up-to-1-8m-for-migrants",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal judge blocks Trump administration fines of up to $1.8M for migrants | Fox Wilmington WSFX-TV",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "alaska-native-news.com",
+   "url": "https://alaska-native-news.com/deranged-and-dangerous-trump-decried-for-inviting-iran-to-take-out-california-cities/86564/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Deranged and Dangerous\u2019 Trump Decried for Inviting Iran to \u2018Take Out\u2019 California Cities",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/10/06/voter-id-proponents-accuse-california-democrats-of-lying-about-trumps-support-for-proposition-39/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Voter ID proponents accuse California Democrats of lying about Trump\u2019s support for Proposition 39",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "theguardian.com",
+   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-fbi-ice-la-protesters",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Whistleblower report alleges Trump ordered FBI investigation on LA anti-ICE protesters",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "saratogian.com",
+   "url": "https://www.saratogian.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/ice-protests-los-angeles/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "FBI whistleblower blows lid off Trump protest probe:",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "pottsmerc.com",
+   "url": "https://www.pottsmerc.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "pilotonline.com",
+   "url": "https://www.pilotonline.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "orlandosentinel.com",
+   "url": "https://www.orlandosentinel.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nbcsandiego.com",
+   "url": "https://www.nbcsandiego.com/news/local/local-leaders-respond-trumps-comment-that-iran-could-take-out-los-angeles-san-diego/4083230/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Local leaders respond to Trump's comment that Iran could 'take out' Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nbcnews.com",
+   "url": "https://www.nbcnews.com/politics/justice-department/fbi-whistleblower-says-white-house-pushed-unconstitutional-probe-prote-rcna601599",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "FBI whistleblower says White House pushed unconstitutional probe of protesters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nbcnews.com",
+   "url": "https://www.nbcnews.com/politics/donald-trump/california-newsom-condemn-trump-iran-los-angeles-san-diego-rcna601821",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "California officials condemn Trump for saying Iran could \u2018take out\u2019 Los Angeles or San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nbclosangeles.com",
+   "url": "https://www.nbclosangeles.com/news/national-international/fbi-whistleblower-white-house-pushed-unconstitutional-probe-protesters/3951912/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "FBI whistleblower says White House pushed unconstitutional probe of protesters",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nbclosangeles.com",
+   "url": "https://www.nbclosangeles.com/news/local/let-them-take-out-los-angeles-president-trump-defends-ongoing-war-with-iran/3951953/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Let them take out Los Angeles': President Trump defends ongoing war with Iran",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nbcdfw.com",
+   "url": "https://www.nbcdfw.com/news/national-international/let-them-take-out-los-angeles-president-trump-defends-ongoing-war-with-iran/4087526/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump sparks outrage for saying Iran could 'take out' Los Angeles or San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "montereyherald.com",
+   "url": "https://www.montereyherald.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/10/06/trump-iran-take-out-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump says Iran can \u2018take out\u2019 Los Angeles and San Diego as he defends war",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/10/06/trump-iran-take-out-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump says Iran can \u2018take out\u2019 Los Angeles and San Diego as he defends war",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "denverpost.com",
+   "url": "https://www.denverpost.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "cnn.com",
+   "url": "https://www.cnn.com/2026/10/06/politics/fbi-anti-ice-protesters-donald-trump",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Whistleblower says Trump demanded FBI probe into protesters over a TikTok he saw",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "citizensvoice.com",
+   "url": "https://www.citizensvoice.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "chicoer.com",
+   "url": "https://www.chicoer.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "capitalgazette.com",
+   "url": "https://www.capitalgazette.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "baltimoresun.com",
+   "url": "https://www.baltimoresun.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/10/06/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "townhall.com",
+   "url": "https://townhall.com/columnists/ryan-walters/2026/10/06/the-predators-chris-hansen-couldnt-reach-n2684162",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Predators Chris Hansen Couldn't Reach",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "therealnews.com",
+   "url": "https://therealnews.com/trump-iran-california",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Deranged and dangerous\u2019 Trump decried for inviting Iran to \u2018take out\u2019 California cities",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/sister-toldjah/2026/10/06/media-figures-defend-trump-over-san-diego-los-angeles-comments-n2207820",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "New: The Dem/Media Narrative on Trump's San Diego, LA Remarks Just Took Another Big Hit",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/kyle-becker/2026/10/06/the-fake-news-media-have-found-their-new-iran-hoax-and-this-one-is-a-whopper-n2207801",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Fake News Media Have Found Their New 'Iran Hoax' and This One Is a Whopper",
+   "checked": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/10/05/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/10/05/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/10/05/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/10/05/los-colegios-comunitarios-de-san-diego-instalan-letreros-que-prohiben-actividades-del-ice-en-el-campus/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Los colegios comunitarios de San Diego instalan letreros que proh\u00edben actividades del ICE en el campus",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/10/05/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/10/05/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/10/05/ken-calvert-ca-40-candidate-2026-election-questionnaire/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Ken Calvert, CA-40 candidate, 2026 election questionnaire",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "nbclosangeles.com",
+   "url": "https://www.nbclosangeles.com/news/local/california-insurance-commissioner-jane-kim-ben-allen/3950222/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Race for CA insurance commissioner: Once-boring contest is now high stakes",
+   "checked": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "nbcbayarea.com",
+   "url": "https://www.nbcbayarea.com/news/local/california-insurance-commissioner-jane-kim-ben-allen/4153572/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Race for CA insurance commissioner: Once-boring contest is now high stakes",
+   "checked": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/10/05/luz-rivas-ca-29-candidate-2026-election-questionnaire/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Luz Rivas, CA-29 candidate, 2026 election questionnaire",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/10/05/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/10/05/trump-nebraska-speech-los-angeles-san-diego/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "In Nebraska speech, Trump says Iran can \u2018take out a city,\u2019 mentions Los Angeles and San Diego",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-04",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/10/04/officials-give-reassurances-issue-warnings-about-election-security/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Michael Smolens: Officials give reassurances while warning about election security",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-04",
+   "domain": "cnn.com",
+   "url": "https://www.cnn.com/2026/10/04/politics/democrats-election-interference-trump",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Inside Democrats\u2019 efforts to secure Election Day and respond to fears of Trump interference",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "nbcbayarea.com",
+   "url": "https://www.nbcbayarea.com/news/local/padilla-visit-sfo-immigration-holding-facility/4152346/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Padilla pays unannounced visit to SFO's immigration holding facility",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "ktvu.com",
+   "url": "https://www.ktvu.com/video/fmc-9w448fkiui5oxxdp",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Padilla visits immigration detention facility at SFO",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/10/02/voter-id-proponents-accuse-california-democrats-of-lying-about-trumps-support-for-proposition-39/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Voter ID proponents accuse California Democrats of lying about Trump\u2019s support for Proposition 39",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/10/02/voter-id-proponents-accuse-california-democrats-of-lying-about-trumps-support-for-proposition-39/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Voter ID proponents accuse California Democrats of lying about Trump\u2019s support for Proposition 39",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "ktvu.com",
+   "url": "https://www.ktvu.com/news/sen-padilla-visits-customs-border-patrol-detention-facility-sfo",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Padilla inspects Customs and Border Patrol detention facility at SFO",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "kqed.org",
+   "url": "https://www.kqed.org/news/12102582/sen-alex-padilla-makes-surprise-visit-to-sfos-ice-detention-center",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Alex Padilla Makes Surprise Visit to SFO\u2019s ICE Detention Center | KQED",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "independent.com",
+   "url": "https://www.independent.com/2026/10/02/carbajal-padilla-introduce-legislation-to-investigate-toxic-waste-dump-off-california-coast/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Carbajal, Padilla Introduce Legislation to Investigate Toxic Waste Dump Off California Coast",
+   "checked": true,
+   "quotes": [
+    {
+     "g": "CREC-2026-09-24-pt1-PgS5005",
+     "spans": [
+      [
+       243,
+       255
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/10/02/voter-id-proponents-accuse-california-democrats-of-lying-about-trumps-support-for-proposition-39/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Voter ID proponents accuse California Democrats of lying about Trump\u2019s support for Proposition 39",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "inlandvalleynews.com",
+   "url": "https://inlandvalleynews.com/as-supporters-amplify-message-dem-heavyweights-show-up-to-fight-voter-id-proposition/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "As Supporters Amplify Message, Dem Heavyweights Show Up to Fight Voter ID Proposition \u00bb Inland Valley News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dailytrojan.com",
+   "url": "https://dailytrojan.com/2026/10/02/usc-hosts-20th-annual-labc-sustainability-summit/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "USC Hosts 20th Annual LABC Sustainability Summit - Daily Trojan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/election-crime-arrests-keep-piling-up-dems-insist-just-doesnt-happen",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Election crime arrests keep piling up as Dems insist it 'just doesn't happen'",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "rollcall.com",
+   "url": "https://rollcall.com/2026/09/30/senate-agenda-midterm-branding/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Toothless messaging\u2019? Senate agenda caught up in midterm branding",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "lamag.com",
+   "url": "https://lamag.com/news-and-politics/california-signs-law-banning-use-of-electric-shock-gloves-in-law-enforcement/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "California Bans Electric Shock Gloves for Law Enforcement",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "laist.com",
+   "url": "https://laist.com/news/politics/voter-guides/2026-election-california-general-proposition-39",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Prop. 39: The Voter ID measure that would dramatically change voting in California",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "nbcsandiego.com",
+   "url": "https://www.nbcsandiego.com/video/videos/nbc-7-sat-down-in-a-one-on-one-interview-with-u-s-senator-alex-padilla/4079828/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. Senator Alex Padilla sits down with NBC 7 in a one-on-one interview",
+   "checked": false
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "time.com",
+   "url": "https://time.com/article/2026/09/29/trump-non-citizen-voting-voter-fraud-claims/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "What Trump's Intensifying Hunt for Non-Citizen Voters Is Showing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "sdvoice.info",
+   "url": "https://sdvoice.info/prop-39-voter-id-debate-intensifies/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "As Supporters Amplify Message, Dem Heavyweights Show Up to Fight Voter ID Proposition",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "centralvalleyvoice.com",
+   "url": "https://centralvalleyvoice.com/as-supporters-amplify-message-dem-heavyweights-show-up-to-fight-voter-id-proposition/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "As Supporters Amplify Message, Dem Heavyweights Show Up to Fight Voter ID Proposition",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-27",
+   "domain": "wsbt.com",
+   "url": "https://wsbt.com/news/nation-world/gop-senators-in-tight-races-break-with-trump-urge-ice-to-coordinate-with-local-police",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GOP senators in tight races break with Trump, urge ICE to coordinate with local police",
+   "checked": true
+  },
+  {
+   "date": "2026-09-26",
+   "domain": "gilmermirror.com",
+   "url": "https://www.gilmermirror.com/2026/09/26/delayed-voter-applications-highlight-the-difficulties-of-registering-in-texas-experts-say/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Delayed voter applications highlight the difficulties of registering in Texas, experts say",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "timesleader.com",
+   "url": "https://www.timesleader.com/news/1760748/legislative-roundup-dobs-consumer-help-center-assists-consumers-with-concerns-about-financial-entities",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Legislative Roundup: DoBS\u2019 Consumer Help Center assists consumers with concerns about financial entities",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "theguardian.com",
+   "url": "https://www.theguardian.com/us-news/2026/sep/25/ice-legislation-dick-durbin-alex-padilla",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "US senators propose legislation to limit ICE arrests and indefinite detention",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "texastribune.org",
+   "url": "https://www.texastribune.org/2026/09/25/texas-voter-registration-delay-backlog-online-dps/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Texas\u2019 delayed voter applications highlight registration woes",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "sfist.com",
+   "url": "https://sfist.com/2026/09/25/golden-gate-bridge-suicide-net-inspires-new-federal-barrier-bill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Golden Gate Bridge Suicide Net Inspires New Federal Barrier Bill",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "santamariasun.com",
+   "url": "https://www.santamariasun.com/news-2/political-watch-september-24-2026/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Political Watch: September 24, 2026 - Santa Maria Sun",
+   "checked": true,
+   "quotes": [
+    {
+     "g": "CREC-2026-09-17-pt1-PgS4799-2",
+     "spans": [
+      [
+       264,
+       277
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "santamariasun.com",
+   "url": "https://www.santamariasun.com/news-2/county-opposes-eminent-domain-legislation-for-sable-pipeline/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "County opposes eminent domain legislation for Sable pipeline - Santa Maria Sun",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "ms.now",
+   "url": "https://www.ms.now/news/alex-padilla-immigration-enforcement-trump-republicans-midterms",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Democrat challenges GOP colleagues on ICE: \u2018Join our legislation\u2019",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "hawaiitribune-herald.com",
+   "url": "https://www.hawaiitribune-herald.com/2026/09/24/nation-world-news/how-us-states-mistakenly-added-30000-non-citizens-to-voter-rolls/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "How US states mistakenly added 30,000 non-citizens to voter rolls - Hawaii Tribune-Herald",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "wabcradio.com",
+   "url": "https://wabcradio.com/2026/09/24/how-can-you-save-am-radio/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "How Can YOU Save AM Radio?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "saratogian.com",
+   "url": "https://www.saratogian.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "pottsmerc.com",
+   "url": "https://www.pottsmerc.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "pilotonline.com",
+   "url": "https://www.pilotonline.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "orlandosentinel.com",
+   "url": "https://www.orlandosentinel.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "montereyherald.com",
+   "url": "https://www.montereyherald.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "lamarledger.com",
+   "url": "https://www.lamarledger.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "deseret.com",
+   "url": "https://www.deseret.com/politics/2026/09/23/lee-pushes-save-act-padilla-blocks/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Lee pushes voter ID law on Senate floor, as California senator blocks it",
+   "checked": true,
+   "quotes": [
+    {
+     "g": "CREC-2026-09-23-pt1-PgS4892-2",
+     "spans": [
+      [
+       704,
+       725
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters. \u2018It\u2019s a kind of disaster capitalism\u2019",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "citizensvoice.com",
+   "url": "https://www.citizensvoice.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "capitalgazette.com",
+   "url": "https://www.capitalgazette.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "burlington-record.com",
+   "url": "https://www.burlington-record.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "baltimoresun.com",
+   "url": "https://www.baltimoresun.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/09/23/the-business-of-betting-on-natural-disasters/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The business of betting on natural disasters",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "townhall.com",
+   "url": "https://townhall.com/columnists/terryjeffrey/2026/09/23/the-democrat-plan-to-redistribute-wealth-to-the-wealthier-n2683426",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Democrat Plan to Redistribute Wealth to the Wealthier",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "patriotpost.us",
+   "url": "https://patriotpost.us/opinion/1001247-the-democrat-plan-to-redistribute-wealth-to-the-wealthier",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Democrat Plan to Redistribute Wealth to the Wealthier",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "nypost.com",
+   "url": "https://nypost.com/2026/09/23/us-news/dems-beg-trump-to-work-with-xi-jinping-on-slowing-ai-as-bernie-unveils-bill-to-ban-superintelligence/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Bernie Sanders unveils bill to ban \u2018superintelligence\u2019 as Dems beg Trump to pump the brakes on AI",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "mashable.com",
+   "url": "https://mashable.com/tech/flock-senate-hearing-mass-surveillance",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Three takeaways from the Senate hearing on Flock's camera network",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "rollcall.com",
+   "url": "https://rollcall.com/2026/09/22/gop-senator-urges-judiciary-panel-probe-don-jr-wedding/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Not a \u2018toaster\u2019: GOP senator urges Judiciary panel to probe Don Jr. wedding party",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "sdvoice.info",
+   "url": "https://sdvoice.info/political-playback-california-capitol-news-you-might-have-missed-120/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Political Playback: California Capitol News You Might Have Missed",
+   "checked": true
+  },
+  {
+   "date": "2026-09-19",
+   "domain": "ellatinodehoy.com",
+   "url": "https://ellatinodehoy.com/2026/09/19/encuesta-revela-cuanto-desconocen-los-estadounidenses-sobre-el-mes-de-la-herencia-hispana/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Encuesta revela cu\u00e1nto desconocen los estadounidenses sobre el Mes de la Herencia Hispana \u2013 El Latino de Hoy",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "kqed.org",
+   "url": "https://www.kqed.org/news/12100497/warden-at-central-california-womens-prison-ousted-amid-sexual-abuse-scandal",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Warden at Central California Women's Prison Ousted Amid Sexual Abuse Scandal | KQED",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "washingtonhispanic.com",
+   "url": "https://washingtonhispanic.com/metro/nhfa-celebro-30-anos-de-representacion-latina-e-impulsar-una-mayor-presencia-latina-en-las-artes-y-el-entretenimiento",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "NHFA celebr\u00f3 30 a\u00f1os de representaci\u00f3n latina e impulsar una mayor presencia latina en las artes y el entretenimiento. | Washington Hispanic",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "washingtonhispanic.com",
+   "url": "https://washingtonhispanic.com/metro/nhfa-celebro-30-anos-de-representacion-latina",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "NHFA celebr\u00f3 30 a\u00f1os de representaci\u00f3n latina e impulsar una mayor presencia latina en las artes y el entretenimiento. | Washington Hispanic",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "eldiariony.com",
+   "url": "https://eldiariony.com/2026/09/18/encuesta-revela-cuanto-desconocen-los-estadounidenses-sobre-el-mes-de-la-herencia-hispana/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Encuesta revela cu\u00e1nto desconocen los estadounidenses sobre el Mes de la Herencia Hispana - El Diario NY",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "eldiariony.com",
+   "url": "https://eldiariony.com/2026/09/18/democratas-piden-investigar-denuncias-sobre-funcionarios-del-dhs-que-se-harian-pasar-por-votantes/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Dem\u00f3cratas piden investigar denuncias sobre funcionarios del DHS que se har\u00edan pasar por votantes - El Diario NY",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "santamariasun.com",
+   "url": "https://www.santamariasun.com/news-2/political-watch-september-17-2026/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Political Watch: September 17, 2026 - Santa Maria Sun",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/09/17/poll-california-voters-back-billionaire-tax-and-measures-that-could-block-it/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Election 2026 poll: California voters back billionaire tax \u2014 and measures that could block it",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "douglascountysentinel.com",
+   "url": "https://www.douglascountysentinel.com/news/national/solo-1-de-cada-3-sabe-el-significado-del-mes-de-la-herencia-hispana/article_b0c579cb-9e69-5064-a03f-0e10bdbbfcd9.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Solo 1 de cada 3 sabe el significado del Mes de la Herencia Hispana",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "montanafreepress.org",
+   "url": "https://montanafreepress.org/2026/09/17/montana-sos-responds-subpoena/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "SOS Jacobsen responds to legislative subpoena",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "montanafreepress.org",
+   "url": "https://montanafreepress.org/2026/09/17/jacobsen-shares-what-jacobsen-shared/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Jacobsen shares what Jacobsen shared",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/09/16/poll-california-voters-back-billionaire-tax-and-measures-that-could-block-it/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Election 2026 poll: California voters back billionaire tax \u2014 and measures that could block it",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "nbcnews.com",
+   "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-fed-interest-rate-2026-election-congress-iran-live-updates-rcna598011",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump trashes Fed after first interest rate hike in 3 years",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "huffpost.com",
+   "url": "https://www.huffpost.com/entry/democrats-warn-trump-election-interference_n_6aaab704e4b05a5eaee2bba2",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Democrats Are Sounding The Alarm On Trump\u2019s Biggest Election Threat Yet",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "mauinow.com",
+   "url": "https://mauinow.com/2026/09/16/schatz-pocan-introduce-legislation-to-end-student-loan-debt-crisis/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Schatz, Pocan introduce legislation to end student loan debt crisis | Maui Now",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wsoctv.com",
+   "url": "https://www.wsoctv.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wsjm.com",
+   "url": "https://www.wsjm.com/2026/09/15/dhs-agents-allegedly-directed-to-misrepresent-themselves-to-access-state-voter-rolls-whistleblower-claims/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS agents allegedly directed to \u2018misrepresent\u2019 themselves to access state voter rolls, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wsbtv.com",
+   "url": "https://www.wsbtv.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wral.com",
+   "url": "https://www.wral.com/news/ap/57f6d-dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wpxi.com",
+   "url": "https://www.wpxi.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wokv.com",
+   "url": "https://www.wokv.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "whio.com",
+   "url": "https://www.whio.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wftv.com",
+   "url": "https://www.wftv.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wdbo.com",
+   "url": "https://www.wdbo.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/dhs-agents-allegedly-directed-to-misrepresent-themselves-to-access-state-voter-rolls-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS agents allegedly directed to 'misrepresent' themselves to access state voter rolls, whistleblower claims | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "the-journal.com",
+   "url": "https://www.the-journal.com/articles/associated-press/the-latest-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/09/15/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Voter ID is standard across the country. Why not in California? | Shelley",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/09/15/poll-california-voters-back-billionaire-tax-and-measures-that-could-block-it/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Election 2026 poll: California voters back billionaire tax \u2014 and measures that could block it",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "ms.now",
+   "url": "https://www.ms.now/news/alex-padilla-voter-roll-unlawful-whistleblower-midterms-trump",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senator tells voters to \u2018seize back our democracy\u2019 after reported \u2018unlawful\u2019 actions from DHS",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/09/15/poll-california-voters-back-billionaire-tax-and-measures-that-could-block-it/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Election 2026 poll: California voters back billionaire tax \u2014 and measures that could block it",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "marinij.com",
+   "url": "https://www.marinij.com/2026/09/15/poll-california-voters-back-billionaire-tax-and-measures-that-could-block-it/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Election 2026 poll: California voters back billionaire tax \u2014 and measures that could block it",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "kiro7.com",
+   "url": "https://www.kiro7.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/us/seven-noncitizens-charged-in-north-texas-election-integrity-investigation",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Seven noncitizens charged in North Texas election-integrity investigation",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/09/15/poll-california-voters-back-billionaire-tax-and-measures-that-could-block-it/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Election 2026 poll: California voters back billionaire tax \u2014 and measures that could block it",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "durangoherald.com",
+   "url": "https://www.durangoherald.com/articles/associated-press/the-latest-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "dailykos.com",
+   "url": "https://www.dailykos.com/stories/2026/9/15/800098508/elections/trump-goons-try-impersonating-voters-to-find-fake-voter-fraud/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump goons try impersonating voters to find fake voter fraud",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "cnn.com",
+   "url": "https://www.cnn.com/2026/09/15/politics/live-news/kash-patel-hearing-senate",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Attorney General Blanche suggests Trump admin is not done pursuing changes to mail-in voting",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "cbsnews.com",
+   "url": "https://www.cbsnews.com/miami/live-updates/fbi-director-kash-patel-testify-senate-panel/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "FBI Director Kash Patel pushed on lower hiring standards at FBI, Olympic celebration and Trump-ordered investigations",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "boston25news.com",
+   "url": "https://www.boston25news.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/chuck-schumer-2677862515/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Schumer just dropped a preelection bombshell on Trump\u2019s criminal enterprise",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "actionnewsjax.com",
+   "url": "https://www.actionnewsjax.com/news/national/latest-supreme-court/FRSMU7QN4Y6TXKLSE2TZS5YAOI/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Latest: Trump slams Supreme Court justices for rejecting his restrictions on voting by mail",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "westfaironline.com",
+   "url": "https://westfaironline.com/world-news/u-s-and-world-news-for-sept-15-4/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. and world news for Sept. 15",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "seattlemedium.com",
+   "url": "https://seattlemedium.com/dhs-training-materials-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS Training Materials Instruct Agents To Potentially Break Laws, Whistleblower Says",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "nypost.com",
+   "url": "https://nypost.com/2026/09/15/us-news/steve-hilton-says-hed-appoint-democrat-to-senate-seat-if-elected-california-governor/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Steve Hilton says he\u2019d appoint Dem to fill US Senate seat if elected California governor",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "newsone.com",
+   "url": "https://newsone.com/6871755/dhs-whistleblower-voter-roll-investigation/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Whistleblower Alleges DHS Breaking State Laws In Voter Roll Investigations [Op-Ed]",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "nativenewsonline.net",
+   "url": "https://nativenewsonline.net/currents/supreme-court-blocks-trump-administrations-effort-to-restrict-mail-voting-ahead-of-midterms/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Supreme Court Blocks Trump Administration\u2019s Effort to Restrict Mail Voting Ahead of Midterms",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "foxwilmington.com",
+   "url": "https://foxwilmington.com/seven-noncitizens-charged-in-north-texas-election-integrity-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=seven-noncitizens-charged-in-north-texas-election-integrity-investigation",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Seven noncitizens charged in North Texas election-integrity investigation | Fox Wilmington WSFX-TV",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "abc7news.com",
+   "url": "https://abc7news.com/story/dhs-agents-allegedly-directed-misrepresent-themselves-access-state-voter-rolls-whistleblower-claims/19836001/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS agents allegedly directed to 'misrepresent' themselves to access state voter rolls, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "abc7chicago.com",
+   "url": "https://abc7chicago.com/story/dhs-agents-allegedly-directed-misrepresent-themselves-access-state-voter-rolls-whistleblower-claims/19836001/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS agents allegedly directed to 'misrepresent' themselves to access state voter rolls, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "abc7.com",
+   "url": "https://abc7.com/story/dhs-agents-allegedly-directed-misrepresent-themselves-access-state-voter-rolls-whistleblower-claims/19836001/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS agents allegedly directed to 'misrepresent' themselves to access state voter rolls, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "abc13.com",
+   "url": "https://abc13.com/story/dhs-agents-allegedly-directed-misrepresent-themselves-access-state-voter-rolls-whistleblower-claims/19836001/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS agents allegedly directed to 'misrepresent' themselves to access state voter rolls, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "abc11.com",
+   "url": "https://abc11.com/story/dhs-agents-allegedly-directed-misrepresent-themselves-access-state-voter-rolls-whistleblower-claims/19836001/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS agents allegedly directed to 'misrepresent' themselves to access state voter rolls, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ypradio.org",
+   "url": "https://www.ypradio.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wypr.org",
+   "url": "https://www.wypr.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wyomingpublicmedia.org",
+   "url": "https://www.wyomingpublicmedia.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wxxinews.org",
+   "url": "https://www.wxxinews.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wxpr.org",
+   "url": "https://www.wxpr.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wvxu.org",
+   "url": "https://www.wvxu.org/news-from-npr/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wvtf.org",
+   "url": "https://www.wvtf.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wvasfm.org",
+   "url": "https://www.wvasfm.org/politics/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wuwm.com",
+   "url": "https://www.wuwm.com/politics-government/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wuwf.org",
+   "url": "https://www.wuwf.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wuft.org",
+   "url": "https://www.wuft.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wsoctv.com",
+   "url": "https://www.wsoctv.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wsls.com",
+   "url": "https://www.wsls.com/news/politics/2026/09/14/dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wsbtv.com",
+   "url": "https://www.wsbtv.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wrvo.org",
+   "url": "https://www.wrvo.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wpxi.com",
+   "url": "https://www.wpxi.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wokv.com",
+   "url": "https://www.wokv.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wmuk.org",
+   "url": "https://www.wmuk.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wmra.org",
+   "url": "https://www.wmra.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wlrn.org",
+   "url": "https://www.wlrn.org/national-politics/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wkyufm.org",
+   "url": "https://www.wkyufm.org/news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wknofm.org",
+   "url": "https://www.wknofm.org/elections/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "whqr.org",
+   "url": "https://www.whqr.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "whittierdailynews.com",
+   "url": "https://www.whittierdailynews.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "whio.com",
+   "url": "https://www.whio.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wgcu.org",
+   "url": "https://www.wgcu.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wftv.com",
+   "url": "https://www.wftv.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wfae.org",
+   "url": "https://www.wfae.org/united-states-world/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wemu.org",
+   "url": "https://www.wemu.org/npr-national-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wdbo.com",
+   "url": "https://www.wdbo.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wbhm.org",
+   "url": "https://www.wbhm.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wbaa.org",
+   "url": "https://www.wbaa.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wamc.org",
+   "url": "https://www.wamc.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "waer.org",
+   "url": "https://www.waer.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "upr.org",
+   "url": "https://www.upr.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "univision.com",
+   "url": "https://www.univision.com/noticias/politica/la-investigacion-del-dhs-sobre-los-votantes-podria-infringir-leyes-estatales-e-implicar-indebidamente-a-ciudadanos-estadounidenses-segun-alega-un-denunciante",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "La investigaci\u00f3n del DHS sobre los votantes podr\u00eda infringir leyes estatales e implicar indebidamente a ciudadanos estadounidenses, seg\u00fan alega un denunciante",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "tpr.org",
+   "url": "https://www.tpr.org/news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "theguardian.com",
+   "url": "https://www.theguardian.com/us-news/2026/sep/14/dhs-voter-data-whistleblower",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS officers raise concerns over potentially illegal voter searches and unreliable data, whistleblower says",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "saratogian.com",
+   "url": "https://www.saratogian.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/trump-freedom-250/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Bribery' accusations fly as senators home in on Trump's 250th birthday fund - Raw Story",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "publicradiotulsa.org",
+   "url": "https://www.publicradiotulsa.org/npr-national-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "pottsmerc.com",
+   "url": "https://www.pottsmerc.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "pilotonline.com",
+   "url": "https://www.pilotonline.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "orlandosentinel.com",
+   "url": "https://www.orlandosentinel.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "npr.org",
+   "url": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "nhpr.org",
+   "url": "https://www.nhpr.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "newsday.com",
+   "url": "https://www.newsday.com/long-island/politics/trump-election-noncitizen-voting-homeland-security-whistleblower-e55921",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "news4jax.com",
+   "url": "https://www.news4jax.com/news/politics/2026/09/14/dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "nbcnews.com",
+   "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-election-oil-iran-live-updates-rcna597620",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump dismisses growing concerns about rapid AI development",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "mtpr.org",
+   "url": "https://www.mtpr.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ms.now",
+   "url": "https://www.ms.now/news/trump-freedom-250-tiktok-united-donations-contracts",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators demand Trump\u2019s Freedom 250 group disclose corporate donors",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "morningjournal.com",
+   "url": "https://www.morningjournal.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "montereyherald.com",
+   "url": "https://www.montereyherald.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "marinij.com",
+   "url": "https://www.marinij.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "marfapublicradio.org",
+   "url": "https://www.marfapublicradio.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "lakeshorepublicmedia.org",
+   "url": "https://www.lakeshorepublicmedia.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kyuk.org",
+   "url": "https://www.kyuk.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kvpr.org",
+   "url": "https://www.kvpr.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kvnf.org",
+   "url": "https://www.kvnf.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kunr.org",
+   "url": "https://www.kunr.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kunm.org",
+   "url": "https://www.kunm.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kunc.org",
+   "url": "https://www.kunc.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ksut.org",
+   "url": "https://www.ksut.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ksmu.org",
+   "url": "https://www.ksmu.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ksfr.org",
+   "url": "https://www.ksfr.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "ksat.com",
+   "url": "https://www.ksat.com/news/politics/2026/09/14/dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "krwg.org",
+   "url": "https://www.krwg.org/national-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kpbs.org",
+   "url": "https://www.kpbs.org/news/politics/2026/09/14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "knkx.org",
+   "url": "https://www.knkx.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "knba.org",
+   "url": "https://www.knba.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "knau.org",
+   "url": "https://www.knau.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kmxt.org",
+   "url": "https://www.kmxt.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kmuw.org",
+   "url": "https://www.kmuw.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kjzz.org",
+   "url": "https://www.kjzz.org/npr-top-stories/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kiro7.com",
+   "url": "https://www.kiro7.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kios.org",
+   "url": "https://www.kios.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kgou.org",
+   "url": "https://www.kgou.org/politics-and-government/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kdnk.org",
+   "url": "https://www.kdnk.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kdll.org",
+   "url": "https://www.kdll.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kdlg.org",
+   "url": "https://www.kdlg.org/as-heard-on-npr/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kawc.org",
+   "url": "https://www.kawc.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kasu.org",
+   "url": "https://www.kasu.org/politics/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "iowapublicradio.org",
+   "url": "https://www.iowapublicradio.org/news-from-npr/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "huffpost.com",
+   "url": "https://www.huffpost.com/entry/dhs-voter-fraud-whistleblower_n_6aa857cce4b0477c43be98b2",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The Trump Administration May Have Just Crossed A Legal Line",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "hppr.org",
+   "url": "https://www.hppr.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "hawaiipublicradio.org",
+   "url": "https://www.hawaiipublicradio.org/national-international/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "gpb.org",
+   "url": "https://www.gpb.org/news/2026/09/14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "denverpost.com",
+   "url": "https://www.denverpost.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "cnn.com",
+   "url": "https://www.cnn.com/2026/09/14/politics/dhs-whistleblower-voter-database-padilla",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS training materials instruct agents to potentially break laws, whistleblower says",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "clickorlando.com",
+   "url": "https://www.clickorlando.com/news/politics/2026/09/14/dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "clickondetroit.com",
+   "url": "https://www.clickondetroit.com/news/politics/2026/09/14/dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "click2houston.com",
+   "url": "https://www.click2houston.com/news/politics/2026/09/14/dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "citizensvoice.com",
+   "url": "https://www.citizensvoice.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "capitalgazette.com",
+   "url": "https://www.capitalgazette.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "boston25news.com",
+   "url": "https://www.boston25news.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "boisestatepublicradio.org",
+   "url": "https://www.boisestatepublicradio.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "baltimoresun.com",
+   "url": "https://www.baltimoresun.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "aspenpublicradio.org",
+   "url": "https://www.aspenpublicradio.org/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "apr.org",
+   "url": "https://www.apr.org/politics-government/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/09/14/us-election-2026-voting-dhs-whistleblower/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "actionnewsjax.com",
+   "url": "https://www.actionnewsjax.com/news/politics/dhs-voter-probe-may/JQNMFL6FPQ3ATPELAY5AYE6MEE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "wtop.com",
+   "url": "https://wtop.com/national/2026/09/dhs-voter-probe-may-break-state-laws-and-wrongly-implicate-us-citizens-whistleblower-alleges/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "DHS voter probe may break state laws and wrongly implicate US citizens, whistleblower alleges \u2013 WTOP News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "knpr.org",
+   "url": "https://knpr.org/npr/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "kansaspublicradio.org",
+   "url": "https://kansaspublicradio.org/npr-news/2026-09-14/federal-agents-may-have-broken-state-laws-in-voter-fraud-hunt-whistleblower-claims",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+   "checked": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "gorgenewscenter.com",
+   "url": "https://gorgenewscenter.com/2026/09/14/merkley-wyden-colleagues-urge-supreme-court-to-block-postal-service-rule-limiting-mail-in-voting/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Merkley, Wyden, Colleagues Urge Supreme Court to Block Postal Service Rule Limiting Mail-In Voting",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-14",
+   "domain": "dailymontanan.com",
+   "url": "https://dailymontanan.com/2026/09/14/repub/u-s-senate-dems-disclose-trump-administration-operation-dug-through-state-voter-rolls/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. Senate Dems disclose Trump administration operation dug through state voter rolls \u2022 Daily Montanan",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "whittierdailynews.com",
+   "url": "https://www.whittierdailynews.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "kcra.com",
+   "url": "https://www.kcra.com/article/prop-39-would-make-california-the-37th-state-to-require-voter-id-ca-politics-360/73694712",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Prop 39 would make California the 37th state to require voter ID | CA Politics 360",
+   "checked": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/09/13/susan-shelley-voter-id-is-standard-across-the-country-why-not-in-california/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Susan Shelley: Voter ID is standard across the country. Why not in California?",
+   "checked": true,
+   "partial": true
+  }
+ ]
+}

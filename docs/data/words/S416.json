@@ -1,0 +1,4049 @@
+{
+ "generated": "2026-10-13",
+ "record_from": "2025-01-03",
+ "media_from": "2026-09-13",
+ "capped": [],
+ "floor": [
+  {
+   "g": "CREC-2026-09-30-pt1-PgS5245-3",
+   "date": "2026-09-30",
+   "title": "REMEMBERING CHARLES ANDERSON",
+   "kind": "submitted",
+   "words": 959
+  },
+  {
+   "g": "CREC-2026-09-22-pt1-PgS4853",
+   "date": "2026-09-22",
+   "title": "TRIBUTE TO JIMMY RANE",
+   "kind": "submitted",
+   "words": 576
+  },
+  {
+   "g": "CREC-2026-09-22-pt1-PgS4852-2",
+   "date": "2026-09-22",
+   "title": "REMEMBERING ROY DRINKARD",
+   "kind": "submitted",
+   "words": 1013
+  },
+  {
+   "g": "CREC-2026-08-06-pt1-PgS4510",
+   "date": "2026-08-06",
+   "title": "REMEMBERING BENJAMIN RUSSELL",
+   "kind": "submitted",
+   "words": 601
+  },
+  {
+   "g": "CREC-2026-08-06-pt1-PgS4509-4",
+   "date": "2026-08-06",
+   "title": "REMEMBERING SHERIFF SAM COCHRAN",
+   "kind": "submitted",
+   "words": 535
+  },
+  {
+   "g": "CREC-2026-07-28-pt1-PgS4287-11",
+   "date": "2026-07-28",
+   "title": "Sanctions (Executive Session)",
+   "kind": "senate",
+   "words": 652
+  },
+  {
+   "g": "CREC-2026-07-14-pt1-PgS3934",
+   "date": "2026-07-14",
+   "title": "TRIBUTE TO MAJOR GENERAL THOMAS O'CONNOR",
+   "kind": "submitted",
+   "words": 492
+  },
+  {
+   "g": "CREC-2026-07-14-pt1-PgS3933-2",
+   "date": "2026-07-14",
+   "title": "TRIBUTE TO BARRY GOSNELL",
+   "kind": "submitted",
+   "words": 769
+  },
+  {
+   "g": "CREC-2026-07-14-pt1-PgS3933",
+   "date": "2026-07-14",
+   "title": "REMEMBERING VERA BENESBY JORDAN",
+   "kind": "submitted",
+   "words": 654
+  },
+  {
+   "g": "CREC-2026-05-21-pt1-PgS2437",
+   "date": "2026-05-21",
+   "title": "LULU'S LAW",
+   "kind": "senate",
+   "words": 866
+  },
+  {
+   "g": "CREC-2026-05-20-pt1-PgS2398",
+   "date": "2026-05-20",
+   "title": "TERMINATING RESTRICTIVE ENFORCEMENT OF YOUTH SETTLEMENTS LAW",
+   "kind": "senate",
+   "words": 333
+  },
+  {
+   "g": "CREC-2026-05-13-pt1-PgS2275-2",
+   "date": "2026-05-13",
+   "title": "NATIONAL SALVATION ARMY WEEK",
+   "kind": "senate",
+   "words": 325
+  },
+  {
+   "g": "CREC-2026-04-30-pt1-PgS2166-2",
+   "date": "2026-04-30",
+   "title": "REMEMBERING LIEUTENANT COLONEL JAMES \"TONY\" MOFFATT, LEASA MOFFATT, ANDREW MOFFATT, AND WILLIAM MOFFATT",
+   "kind": "senate",
+   "words": 642
+  },
+  {
+   "g": "CREC-2026-04-13-pt1-PgS1710-2",
+   "date": "2026-04-13",
+   "title": "RECOGNIZING DIVERSIFIED ENERGY",
+   "kind": "submitted",
+   "words": 351
+  },
+  {
+   "g": "CREC-2026-03-19-pt1-PgS1314",
+   "date": "2026-03-19",
+   "title": "SAFEGUARD AMERICAN VOTER ELIGIBILITY ACT--Resumed",
+   "kind": "senate",
+   "words": 1521
+  },
+  {
+   "g": "CREC-2026-03-05-pt1-PgS869",
+   "date": "2026-03-05",
+   "title": "HOUSING FOR THE 21ST CENTURY ACT",
+   "kind": "senate",
+   "words": 833
+  },
+  {
+   "g": "CREC-2026-02-24-pt1-PgS643",
+   "date": "2026-02-24",
+   "title": "TRIBUTE TO DR. MARSHALL SCHREEDER",
+   "kind": "senate",
+   "words": 537
+  },
+  {
+   "g": "CREC-2026-02-12-pt1-PgS593",
+   "date": "2026-02-12",
+   "title": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026--Motion to Proceed--Resumed",
+   "kind": "senate",
+   "words": 1479
+  },
+  {
+   "g": "CREC-2026-01-30-pt1-PgS411",
+   "date": "2026-01-30",
+   "title": "CONSOLIDATED APPROPRIATIONS ACT, 2026",
+   "kind": "senate",
+   "words": 128
+  },
+  {
+   "g": "CREC-2025-12-15-pt1-PgS8706",
+   "date": "2025-12-15",
+   "title": "Remembering Ella Cook and Mukhammad Aziz Umurzokov (Executive Session)",
+   "kind": "senate",
+   "words": 248
+  },
+  {
+   "g": "CREC-2025-09-09-pt1-PgS6465",
+   "date": "2025-09-09",
+   "title": "TRIBUTE TO ARLENE MITCHELL",
+   "kind": "submitted",
+   "words": 506
+  },
+  {
+   "g": "CREC-2025-09-09-pt1-PgS6463-2",
+   "date": "2025-09-09",
+   "title": "REMEMBERING DR. ANNETTE NEVIN SHELBY",
+   "kind": "senate",
+   "words": 685
+  },
+  {
+   "g": "CREC-2025-05-06-pt1-PgS2776-2",
+   "date": "2025-05-06",
+   "title": "Introductory Statement on S. 1630",
+   "kind": "introduced",
+   "words": 879
+  },
+  {
+   "g": "CREC-2025-03-31-pt1-PgS1921-4",
+   "date": "2025-03-31",
+   "title": "TRIBUTE TO ETTA SMITH PERKINS",
+   "kind": "submitted",
+   "words": 418
+  },
+  {
+   "g": "CREC-2025-03-12-pt1-PgS1715",
+   "date": "2025-03-12",
+   "title": "Introductory Statement on S. 1003",
+   "kind": "introduced",
+   "words": 871
+  },
+  {
+   "g": "CREC-2025-03-12-pt1-PgS1706",
+   "date": "2025-03-12",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 828
+  },
+  {
+   "g": "CREC-2025-03-04-pt1-PgS1499-2",
+   "date": "2025-03-04",
+   "title": "Introductory Statement on S. 847",
+   "kind": "introduced",
+   "words": 962
+  },
+  {
+   "g": "CREC-2025-03-04-pt1-PgS1498",
+   "date": "2025-03-04",
+   "title": "STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS",
+   "kind": "introduced",
+   "words": 932
+  },
+  {
+   "g": "CREC-2025-02-24-pt1-PgS1307",
+   "date": "2025-02-24",
+   "title": "Budget (Executive Session)",
+   "kind": "senate",
+   "words": 616
+  },
+  {
+   "g": "CREC-2025-01-16-pt1-PgS198",
+   "date": "2025-01-16",
+   "title": "LAKEN RILEY ACT",
+   "kind": "senate",
+   "words": 1002
+  }
+ ],
+ "media": [
+  {
+   "date": "2026-10-12",
+   "domain": "dailycaller.com",
+   "url": "https://dailycaller.com/2026/10/12/chuck-grassley-filing-reelection-101/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GOP Senator Would Be 101 After Next Term If He Decides To Run For Reelection And Wins",
+   "checked": true
+  },
+  {
+   "date": "2026-10-11",
+   "domain": "nypost.com",
+   "url": "https://nypost.com/2026/10/11/us-news/trump-would-love-to-have-fetterman-as-a-republican/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump says he\u2019d \u2018love\u2019 to have Sen. John Fetterman as a Republican amid growing speculation",
+   "checked": true
+  },
+  {
+   "date": "2026-10-10",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/trump-says-hed-love-have-sen-john-fetterman-republican-amid-growing-speculation",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump says he'd 'love' to have Sen John Fetterman as a Republican amid growing speculation",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-tuberville-says-let-the-people-vote-iran-planted-fake-news-with-real-outlets-alabama-schools-lose-12000-students-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Tuberville says 'let the people vote,' Iran planted fake news with real outlets, Alabama schools lose 12,000 students, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-10-09",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/fetterman-plays-political-maverick-his-voting-record-tells-another-story",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Fetterman plays political maverick, but his voting record tells another story",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/serious-concerns-katie-britt-presses-inspector-general-to-investigate-planned-parenthood-over-possible-misuse-of-federal-funds/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Serious concerns': Katie Britt presses Inspector General to investigate Planned Parenthood over possible misuse of federal funds",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-hamas-flags-fly-in-new-york-trump-asks-are-we-going-to-win-huntsville-antifa-terror-cell-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Hamas flags fly in New York, Trump asks \u201care we going to win?\u201d, Huntsville Antifa terror cell, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-10-08",
+   "domain": "foxwilmington.com",
+   "url": "https://foxwilmington.com/daylight-saving-time-fight-isnt-over-as-house-gop-presses-senate-to-end-clock-turning-forever/?utm_source=rss&utm_medium=rss&utm_campaign=daylight-saving-time-fight-isnt-over-as-house-gop-presses-senate-to-end-clock-turning-forever",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Daylight saving time fight isn't over as House GOP presses Senate to end clock-turning forever | Fox Wilmington WSFX-TV",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/shomari-figures-again-caught-taking-credit-for-funding-he-voted-against-opposed-39-million-in-projects-for-own-district/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Shomari Figures again caught taking credit for funding he voted against \u2013 opposed $39 million in projects for own district",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/america-will-never-forget-this-evil-and-will-always-stand-with-israel-alabama-officials-mark-three-years-since-hamas-attacks-against-israel/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'America will never forget this evil and will always stand with Israel': Alabama officials mark three years since Hamas attacks against Israel",
+   "checked": true
+  },
+  {
+   "date": "2026-10-07",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/local/bipartisan-bill-aims-prevent-braves-paying-millions-more-taxes/3IRLICMBMJERPGFJBOYMQQW7SE/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Bipartisan bill aims to prevent Braves from paying millions more in taxes",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-the-unrepentant-liars-in-the-media-lie-as-election-nears-britt-and-tuberville-warn-voters-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: The unrepentant liars in the media lie as election nears, Britt and Tuberville warn voters, and more ...",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wyff4.com",
+   "url": "https://www.wyff4.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wxii12.com",
+   "url": "https://www.wxii12.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wvua23.com",
+   "url": "https://www.wvua23.com/news/us-sen-katie-britt-named-to-2026-time100-next-list/article_2d865a86-a844-46f2-85b9-0302610e80da.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "US Sen. Katie Britt named to 2026 TIME100 Next list",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wvtm13.com",
+   "url": "https://www.wvtm13.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wtae.com",
+   "url": "https://www.wtae.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wsoctv.com",
+   "url": "https://www.wsoctv.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wsls.com",
+   "url": "https://www.wsls.com/news/politics/2026/10/06/trump-hasnt-committed-to-repaying-federal-funds-already-spent-on-ads-a-white-house-official-says/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wsbtv.com",
+   "url": "https://www.wsbtv.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wral.com",
+   "url": "https://www.wral.com/news/ap/d728a-trump-hasnt-committed-to-repaying-federal-funds-already-spent-on-ads-a-white-house-official-says/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wpxi.com",
+   "url": "https://www.wpxi.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wpbf.com",
+   "url": "https://www.wpbf.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wokv.com",
+   "url": "https://www.wokv.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wmur.com",
+   "url": "https://www.wmur.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wmtw.com",
+   "url": "https://www.wmtw.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wlwt.com",
+   "url": "https://www.wlwt.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wlky.com",
+   "url": "https://www.wlky.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wisn.com",
+   "url": "https://www.wisn.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "willitsnews.com",
+   "url": "https://www.willitsnews.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "whittierdailynews.com",
+   "url": "https://www.whittierdailynews.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "whio.com",
+   "url": "https://www.whio.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wgal.com",
+   "url": "https://www.wgal.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wftv.com",
+   "url": "https://www.wftv.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wesh.com",
+   "url": "https://www.wesh.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wdsu.com",
+   "url": "https://www.wdsu.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wdbo.com",
+   "url": "https://www.wdbo.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wcvb.com",
+   "url": "https://www.wcvb.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wbaltv.com",
+   "url": "https://www.wbaltv.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/trump-hasnt-committed-to-repaying-federal-funds-already-spent-on-ads-a-white-house-official-says",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "wapt.com",
+   "url": "https://www.wapt.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "waff.com",
+   "url": "https://www.waff.com/2026/10/06/somerville-police-receive-nearly-200000-federal-funding-upgrades/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Somerville police to receive nearly $200,000 in federal funding for upgrades",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "ukiahdailyjournal.com",
+   "url": "https://www.ukiahdailyjournal.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "twincities.com",
+   "url": "https://www.twincities.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "troyrecord.com",
+   "url": "https://www.troyrecord.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "trentonian.com",
+   "url": "https://www.trentonian.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "timesheraldonline.com",
+   "url": "https://www.timesheraldonline.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "timesherald.com",
+   "url": "https://www.timesherald.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "timescall.com",
+   "url": "https://www.timescall.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "times-standard.com",
+   "url": "https://www.times-standard.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thetimes-tribune.com",
+   "url": "https://www.thetimes-tribune.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thereporteronline.com",
+   "url": "https://www.thereporteronline.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thereporter.com",
+   "url": "https://www.thereporter.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "theoaklandpress.com",
+   "url": "https://www.theoaklandpress.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "thenewsherald.com",
+   "url": "https://www.thenewsherald.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "themorningsun.com",
+   "url": "https://www.themorningsun.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "sun-sentinel.com",
+   "url": "https://www.sun-sentinel.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "standardspeaker.com",
+   "url": "https://www.standardspeaker.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "sgvtribune.com",
+   "url": "https://www.sgvtribune.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "sentinelandenterprise.com",
+   "url": "https://www.sentinelandenterprise.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "sbsun.com",
+   "url": "https://www.sbsun.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "santacruzsentinel.com",
+   "url": "https://www.santacruzsentinel.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "sandiegouniontribune.com",
+   "url": "https://www.sandiegouniontribune.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "republicanherald.com",
+   "url": "https://www.republicanherald.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "redlandsdailyfacts.com",
+   "url": "https://www.redlandsdailyfacts.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "redbluffdailynews.com",
+   "url": "https://www.redbluffdailynews.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "record-bee.com",
+   "url": "https://www.record-bee.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "readingeagle.com",
+   "url": "https://www.readingeagle.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "presstelegram.com",
+   "url": "https://www.presstelegram.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "pressdemocrat.com",
+   "url": "https://www.pressdemocrat.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "pottsmerc.com",
+   "url": "https://www.pottsmerc.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "pilotonline.com",
+   "url": "https://www.pilotonline.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "pasadenastarnews.com",
+   "url": "https://www.pasadenastarnews.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "paradisepost.com",
+   "url": "https://www.paradisepost.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "orovillemr.com",
+   "url": "https://www.orovillemr.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "oneidadispatch.com",
+   "url": "https://www.oneidadispatch.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "ocregister.com",
+   "url": "https://www.ocregister.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "newsday.com",
+   "url": "https://www.newsday.com/long-island/politics/trump-taxpayer-funded-ads-super-pac-reimburse-h51884",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "news4jax.com",
+   "url": "https://www.news4jax.com/news/politics/2026/10/06/trump-hasnt-committed-to-repaying-federal-funds-already-spent-on-ads-a-white-house-official-says/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "news-herald.com",
+   "url": "https://www.news-herald.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "nashobavalleyvoice.com",
+   "url": "https://www.nashobavalleyvoice.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mynbc5.com",
+   "url": "https://www.mynbc5.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "montereyherald.com",
+   "url": "https://www.montereyherald.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mercurynews.com",
+   "url": "https://www.mercurynews.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mendocinobeacon.com",
+   "url": "https://www.mendocinobeacon.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mcall.com",
+   "url": "https://www.mcall.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "marinij.com",
+   "url": "https://www.marinij.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "mainlinemedianews.com",
+   "url": "https://www.mainlinemedianews.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "macombdaily.com",
+   "url": "https://www.macombdaily.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "lowellsun.com",
+   "url": "https://www.lowellsun.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "ksbw.com",
+   "url": "https://www.ksbw.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "ksat.com",
+   "url": "https://www.ksat.com/news/politics/2026/10/06/trump-doesnt-commit-to-repaying-federal-funds-already-spent-on-controversial-ads/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "krgv.com",
+   "url": "https://www.krgv.com/news/trump-doesn-t-commit-to-repaying-federal-funds-already-spent-on-controversial-ads",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "koco.com",
+   "url": "https://www.koco.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "koat.com",
+   "url": "https://www.koat.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "kmbc.com",
+   "url": "https://www.kmbc.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "kiro7.com",
+   "url": "https://www.kiro7.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "ketv.com",
+   "url": "https://www.ketv.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "kcra.com",
+   "url": "https://www.kcra.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "julesburgadvocate.com",
+   "url": "https://www.julesburgadvocate.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "journal-advocate.com",
+   "url": "https://www.journal-advocate.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "greeleytribune.com",
+   "url": "https://www.greeleytribune.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/trumps-daylight-saving-push-gets-new-pressure-campaign-from-house-gop-leaders",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Daylight saving time fight isn't over as House GOP presses Senate to end clock-turning forever",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/daylight-saving-time-fight-isnt-over-house-gop-presses-senate-end-clock-turning-forever",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Daylight saving time fight isn't over as House GOP presses Senate to end clock-turning forever",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/10/06/sen-britt-rallies-mobile-county-gop-talks-data-centers-ai-accountability/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Britt rallies Mobile County GOP, talks data centers and AI accountability",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "fortmorgantimes.com",
+   "url": "https://www.fortmorgantimes.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "eptrail.com",
+   "url": "https://www.eptrail.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "eastbaytimes.com",
+   "url": "https://www.eastbaytimes.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "delcotimes.com",
+   "url": "https://www.delcotimes.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailypress.com",
+   "url": "https://www.dailypress.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailynews.com",
+   "url": "https://www.dailynews.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailylocal.com",
+   "url": "https://www.dailylocal.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailyfreeman.com",
+   "url": "https://www.dailyfreeman.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailydemocrat.com",
+   "url": "https://www.dailydemocrat.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailycamera.com",
+   "url": "https://www.dailycamera.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailybulletin.com",
+   "url": "https://www.dailybulletin.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "dailybreeze.com",
+   "url": "https://www.dailybreeze.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "courant.com",
+   "url": "https://www.courant.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "coloradohometownweekly.com",
+   "url": "https://www.coloradohometownweekly.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "clickorlando.com",
+   "url": "https://www.clickorlando.com/news/politics/2026/10/06/trump-hasnt-committed-to-repaying-federal-funds-already-spent-on-ads-a-white-house-official-says/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "clickondetroit.com",
+   "url": "https://www.clickondetroit.com/news/politics/2026/10/06/trump-hasnt-committed-to-repaying-federal-funds-already-spent-on-ads-a-white-house-official-says/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "click2houston.com",
+   "url": "https://www.click2houston.com/news/politics/2026/10/06/trump-doesnt-commit-to-repaying-federal-funds-already-spent-on-controversial-ads/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "citizensvoice.com",
+   "url": "https://www.citizensvoice.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "capitalgazette.com",
+   "url": "https://www.capitalgazette.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "canoncitydailyrecord.com",
+   "url": "https://www.canoncitydailyrecord.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "broomfieldenterprise.com",
+   "url": "https://www.broomfieldenterprise.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "bostonherald.com",
+   "url": "https://www.bostonherald.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "boston25news.com",
+   "url": "https://www.boston25news.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "baltimoresun.com",
+   "url": "https://www.baltimoresun.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "akronnewsreporter.com",
+   "url": "https://www.akronnewsreporter.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "advocate-news.com",
+   "url": "https://www.advocate-news.com/2026/10/06/us-election-2026-government-ad-repayment/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn\u2019t commit to repaying federal funds already spent on controversial ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "actionnewsjax.com",
+   "url": "https://www.actionnewsjax.com/news/politics/trump-hasnt/WUAMEAMYHM5ZTL3HWERB6ZEZPQ/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "4029tv.com",
+   "url": "https://www.4029tv.com/article/trump-funding-controversial-promo-ads/74056468",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on controversial ads",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "rollcall.com",
+   "url": "https://rollcall.com/2026/10/06/time-for-yet-another-debate-over-daylight-spurred-by-trump/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Time for yet another debate over daylight, spurred by Trump",
+   "checked": true
+  },
+  {
+   "date": "2026-10-06",
+   "domain": "baynews9.com",
+   "url": "https://baynews9.com/fl/tampa/politics/2026/10/06/trump-doesn-t-commit-to-repaying-federal-funds-spent-on-ads",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump doesn't commit to repaying federal funds already spent on ads",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-05",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-trump-returns-to-alabama-dumb-south-alabama-kids-ruin-lives-over-social-media-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Trump returns to Alabama, dumb South Alabama kids ruin lives over social media, and more ...",
+   "checked": true
+  },
+  {
+   "date": "2026-10-04",
+   "domain": "dailykos.com",
+   "url": "https://www.dailykos.com/stories/2026/10/4/800106426/series/gop-senator-sheds-his-dignity-to-kiss-trumps-ass/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GOP senator sheds his dignity to kiss Trump\u2019s ass",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/they-dont-love-this-nation-katie-britt-welcomes-trump-back-to-mobile-and-unloads-on-the-most-radical-group-of-candidates-this-country-has-ever-seen/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'They don't love this nation': Katie Britt welcomes Trump back to Mobile and unloads on 'the most radical group of candidates this country has ever seen'",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "wtvm.com",
+   "url": "https://www.wtvm.com/2026/10/03/president-trump-attend-alabama-vs-georgia-game/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump to attend Alabama vs. Georgia game",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "wtva.com",
+   "url": "https://www.wtva.com/2026/10/03/president-trump-attend-alabama-vs-georgia-game/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump to attend Alabama vs. Georgia game",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/katie-britt-2677993389/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/trump-lies-rallies/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama newspaper shatters Trump\u2019s lies with vicious factcheck",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/alternet-exclusives/jack-smith-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The ominous 3-word warning everyone missed in the chaotic Jack Smith hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-10-03",
+   "domain": "oanow.com",
+   "url": "https://oanow.com/article_fc6203ec-a05c-5615-ad9c-ea8cf5657948.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Britt named to TIME 100 Next 2026 list",
+   "checked": false
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/president-trump-rallies-in-mobile-tonight-heres-everything-we-know/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump rallies in Mobile tonight: Here's everything we know",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/craziness-vs-common-sense-state-rep-rhett-marques-rallies-with-president-trump-pledges-to-turn-alabamas-2nd-from-blue-back-to-red/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Craziness vs. common sense': State Rep. Rhett Marques rallies with President Trump, pledges to turn Alabama's 2nd 'from blue back to red'",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wsjm.com",
+   "url": "https://www.wsjm.com/2026/10/02/trump-heads-to-deep-red-alabama-to-thank-loyal-voters-as-gop-eyes-a-key-house-seat/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump heads to deep-red Alabama to \u2018thank\u2019 loyal voters as GOP eyes a key House seat",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/10/02/president-trump-attend-alabama-vs-georgia-game/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump to attend Alabama vs. Georgia game",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/trump-heads-to-deep-red-alabama-to-thank-loyal-voters-as-gop-eyes-a-key-house-seat",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump heads to deep-red Alabama to 'thank' loyal voters as GOP eyes a key House seat | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "opednews.com",
+   "url": "https://www.opednews.com/populum/page.php?f=Making-Healthcare-More-Exp-Cancer_Dna_Healthcare_Healthcare-Costs-261002-805.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Making Healthcare More Expensive:",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/lawmakers-stunned-face-other-viral-moments-cap-rough-week-political-class",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Lawmaker\u2019s stunned face and other viral moments cap rough week for political class",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/10/02/president-trump-attend-alabama-vs-georgia-game/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "President Trump to attend Alabama vs. Georgia game",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "mbcpathway.com",
+   "url": "https://mbcpathway.com/2026/10/02/guidestone-erlc-applaud-senates-passage-of-clergy-act/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GuideStone, ERLC applaud Senate\u2019s passage of Clergy Act \u2022 Pathway",
+   "checked": true
+  },
+  {
+   "date": "2026-10-02",
+   "domain": "dothaneagle.com",
+   "url": "https://dothaneagle.com/news/local/government-politics/article_aebd2cdd-4da3-4c04-a597-0a6af5d1e6d8.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Katie Britt: Wiregrass native named to TIME100 Next 2026 list",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "salon.com",
+   "url": "https://www.salon.com/2026/10/01/eric-schmitts-failed-jack-smith-gotcha-exposes-gop-propaganda/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Eric Schmitt's failed Jack Smith gotcha exposes GOP propaganda",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "newsday.com",
+   "url": "https://www.newsday.com/opinion/columnists/dan-janison/jack-smith-eric-schmitt-basketball-k5d3rqvi",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Who was the real 'dirtbag' in the Jack Smith hearing?",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "montgomeryadvertiser.com",
+   "url": "https://www.montgomeryadvertiser.com/story/opinion/readers/2026/10/01/you-should-thank-sen-katie-britt-letter/91915433007/?gca-cat=p&gnt-cfr=1&gnt-djm=1",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "You should 'thank' Sen. Katie Britt",
+   "checked": false
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "huffpost.com",
+   "url": "https://www.huffpost.com/entry/republicans-delusional-midterm-elections-fate_n_6abec477e4b0ecc03a203526",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Republicans Sound Delusional About Their Fate In The Midterm Elections",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "newsone.com",
+   "url": "https://newsone.com/6873208/pete-hegseth-unqualified-maga-moron/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Clearly, Pete Hegseth Just Wants To Be Parodied On SNL Again [Op-Ed]",
+   "checked": true
+  },
+  {
+   "date": "2026-10-01",
+   "domain": "newsone.com",
+   "url": "https://newsone.com/6873187/senator-eric-schmitt-maga-moron/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Eric Schmitt Might Have Been A MAGA Hero If He Wasn\u2019t Such A MAGA Moron [Op-Ed]",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/katie-britt-named-to-time-100-next-list/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt named to TIME 100 Next list",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/its-despicable-katie-britt-condemns-jack-smith-and-the-biden-doj-for-blatantly-targeting-alabama-conservatives/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'It\u2019s despicable': Katie Britt condemns Jack Smith and the Biden DOJ for 'blatantly' targeting Alabama conservatives",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-the-media-iran-and-the-democrats-work-together-democrats-silent-on-stalking-candidate-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: The media, Iran, and the Democrats work together, Democrats silent on stalking candidate, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "trussvilletribune.com",
+   "url": "https://www.trussvilletribune.com/2026/09/30/time-magazine-names-alabama-sen-katie-britt-to-top-100-list-of-worlds-most-influential-rising-stars/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "TIME Magazine names Alabama Sen. Katie Britt to top 100 list of \u2018World\u2019s Most Influential Rising Stars\u2019",
+   "checked": false
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "mountaineagle.com",
+   "url": "https://www.mountaineagle.com/news/first-phase-of-birmingham-northern-beltline-now-open-to-traffic/article_31f0e545-e7d1-5996-8733-816aaaa275cf.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "First phase of Birmingham Northern Beltline now open to traffic",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "montgomeryadvertiser.com",
+   "url": "https://www.montgomeryadvertiser.com/story/news/politics/2026/09/30/alabama-sen-katie-britt-named-to-time100-next-list/92023879007/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama Sen. Katie Britt named to TIME100 Next list",
+   "checked": false
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "huffpost.com",
+   "url": "https://www.huffpost.com/entry/katie-britt-reaction-to-eric-schmitt_n_6abc7305e4b02a789b317331",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GOP Senator",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "huffpost.com",
+   "url": "https://www.huffpost.com/entry/fox-news-brit-hume-eric-schmitt-viral-blunder_n_6abd14dde4b0e84f837c8a9f",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Brit Hume Has Merciless Take On GOP Senator\u2019s Humiliating Error",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "cbsnews.com",
+   "url": "https://www.cbsnews.com/news/flock-cameras-abuse-josh-hawley-bill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Josh Hawley introduces bill aimed at stopping abuse of Flock cameras and similar AI technology",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/eric-schmitt-2677965910/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Fox icon blasts Republican's Jack Smith face-plant: 'Brought this on himself",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "alabamagazette.com",
+   "url": "https://www.alabamagazette.com/story/2026/09/30/news/us-senators-katie-britt-elissa-slotkin-introduce-bipartisan-legislation-to-modernize-ovarian-cancer-prevention-and-care/12646.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. Senators Katie Britt, Elissa Slotkin Introduce Bipartisan Legislation to Modernize Ovarian Cancer Prevention and Care",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "alabamagazette.com",
+   "url": "https://www.alabamagazette.com/story/2026/09/30/news/governor-ivey-announces-first-phase-of-birmingham-northern-beltline-now-open-to-traffic/12642.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Governor Ivey Announces First Phase of Birmingham Northern Beltline Now Open to Traffic",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "alabamagazette.com",
+   "url": "https://www.alabamagazette.com/story/2026/09/30/news/donald-trump-receives-an-enthusiastic-response-in-alabama/12722.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Donald Trump receives an enthusiastic response in Alabama",
+   "checked": true
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "thehill.com",
+   "url": "https://thehill.com/blogs/in-the-know/6121488-time100-next-britt-frost-kim/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Britt, Frost named among Time100 \u2018Most Influential Rising Stars\u2019",
+   "checked": false
+  },
+  {
+   "date": "2026-09-30",
+   "domain": "hotair.com",
+   "url": "https://hotair.com/ed-morrissey/2026/09/30/follow-the-money-fetterman-getting-more-republican-n3819465",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Follow the Money: Fetterman Getting More Republican?",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "wvtm13.com",
+   "url": "https://www.wvtm13.com/article/alabama-northern-beltline-first-section-open-interstate-highway-pinson-palmerdale-jefferson-county/73945474",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "First section of Birmingham Northern Beltline opens to traffic in Jefferson County",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "thedailybeast.com",
+   "url": "https://www.thedailybeast.com/maga-senator-caught-on-camera-watching-colleague-self-combust/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "MAGA Senator Caught on Camera Watching Colleague Self-Combust",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/trump-evangelicals-2677961987/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Key voting bloc fumes at Trump White House after GOP stands them up",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/jack-smith-hearing-2677961369/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GOP senator ridiculed as cameras catch her look of",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "deseret.com",
+   "url": "https://www.deseret.com/politics/2026/09/29/conservatives-divided-on-ivf-surrogacy/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "The latest twist in the battle over surrogacy has conservatives divided",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "dailykos.com",
+   "url": "https://www.dailykos.com/stories/2026/9/29/800105228/videos/eric-schmitt-gotcha-question-jack-smith/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "GOP senator\u2019s gotcha question blows up in his face",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "alternet.org",
+   "url": "https://www.alternet.org/trump-christianity-2677960991/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Left Behind: Trump is abandoning the evangelical base that elected him",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "time.com",
+   "url": "https://time.com/article/2026/09/29/john-fetterman-democrat-turns-to-republicans-for-campaign-cash/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'He's Basically a Republican Now': Fetterman Asks GOP Donors For Cash",
+   "checked": true
+  },
+  {
+   "date": "2026-09-29",
+   "domain": "nypost.com",
+   "url": "https://nypost.com/2026/09/29/us-news/sen-katie-britts-look-of-utter-horror-as-gop-colleagues-perjury-accusation-unravels-during-jack-smith-hearing-goes-viral/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Katie Britt\u2019s \u2018look of utter horror\u2019 as GOP colleague\u2019s perjury accusation unravels during Jack Smith hearing goes viral",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/fight-for-alabama-families-honors-katie-britt-with-pro-family-champion-award/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Fight for Alabama Families honors Katie Britt with Pro-Family Champion Award",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/absolutely-absurd-katie-britt-blasts-democrats-for-skipping-hearing-on-womens-sports/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Absolutely absurd': Katie Britt blasts Democrats for skipping hearing on women's sports",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wyff4.com",
+   "url": "https://www.wyff4.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wxii12.com",
+   "url": "https://www.wxii12.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wvua23.com",
+   "url": "https://www.wvua23.com/news/katie-britt-questions-ncaa-policies-on-womens-sports/article_5307aca3-5095-46d6-8f1a-a2a15a09a5ef.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt questions NCAA policies on women's sports",
+   "checked": false
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wvtm13.com",
+   "url": "https://www.wvtm13.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wtae.com",
+   "url": "https://www.wtae.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wpbf.com",
+   "url": "https://www.wpbf.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wmur.com",
+   "url": "https://www.wmur.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wmtw.com",
+   "url": "https://www.wmtw.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wlwt.com",
+   "url": "https://www.wlwt.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wlky.com",
+   "url": "https://www.wlky.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wisn.com",
+   "url": "https://www.wisn.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wgal.com",
+   "url": "https://www.wgal.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wesh.com",
+   "url": "https://www.wesh.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wdsu.com",
+   "url": "https://www.wdsu.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wcvb.com",
+   "url": "https://www.wcvb.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wbaltv.com",
+   "url": "https://www.wbaltv.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wbal.com",
+   "url": "https://www.wbal.com/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan | WBAL Baltimore News",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "wapt.com",
+   "url": "https://www.wapt.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "mynbc5.com",
+   "url": "https://www.mynbc5.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "ksbw.com",
+   "url": "https://www.ksbw.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "koco.com",
+   "url": "https://www.koco.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "koat.com",
+   "url": "https://www.koat.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "kmbc.com",
+   "url": "https://www.kmbc.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "ketv.com",
+   "url": "https://www.ketv.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "kcra.com",
+   "url": "https://www.kcra.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "kcci.com",
+   "url": "https://www.kcci.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "4029tv.com",
+   "url": "https://www.4029tv.com/article/farm-to-table-texas-ranchers-feel-squeeze-from-trump-beef-import-plan/73931138",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Farm to Table: Texas ranchers feel squeeze from Trump beef-import plan",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "utdailybeacon.com",
+   "url": "https://utdailybeacon.com/214360/news/trumps-impact-at-previous-college-football-games/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Trump\u2019s impact at previous college football games",
+   "checked": true
+  },
+  {
+   "date": "2026-09-28",
+   "domain": "dailymontanan.com",
+   "url": "https://dailymontanan.com/2026/09/28/repub/us-senate-republicans-spotlight-trans-athletes-issue-as-midterms-approach/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "US Senate Republicans spotlight trans athletes issue as midterms approach \u2022 Daily Montanan",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-26",
+   "domain": "townhall.com",
+   "url": "https://townhall.com/columnists/jay-rogers/2026/09/26/they-ran-away-from-womens-sports-not-a-single-question-asked-n2683569",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "They Ran Away From Women\u2019s Sports. Not a Single Question Asked.",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-trump-to-mobile-soon-tubervilles-reasonable-statement-misunderstood-by-liars-u-s-china-talks-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Trump to Mobile soon, Tuberville's reasonable statement 'misunderstood' by liars, U.S./China talks, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "alabamagazette.com",
+   "url": "https://www.alabamagazette.com/story/2026/09/25/veterans/rep-sewell-accepting-applications-for-military-service-academy-nominations/12559.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Rep. Sewell Accepting Applications for Military Service Academy Nominations",
+   "checked": true
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "alabamagazette.com",
+   "url": "https://www.alabamagazette.com/story/2026/09/25/news/us-senators-katie-britt-elissa-slotkin-introduce-bipartisan-legislation-to-modernize-ovarian-cancer-prevention-and-care/12646.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. Senators Katie Britt, Elissa Slotkin Introduce Bipartisan Legislation to Modernize Ovarian Cancer Prevention and Care",
+   "checked": false
+  },
+  {
+   "date": "2026-09-25",
+   "domain": "alabamagazette.com",
+   "url": "https://www.alabamagazette.com/story/2026/09/25/news/us-senator-katie-britt-introduces-hard-cap-amendment-to-protect-college-sports-act-of-2026/12542.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. Senator Katie Britt Introduces Hard Cap Amendment to Protect College Sports Act of 2026",
+   "checked": false
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/stand-and-speak-up-for-people-of-faith-alabamas-aderholt-calls-on-beijing-to-free-the-zion-8-christians-jailed-for-their-church-during-xis-state-visit/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Stand and speak up for people of faith': Britt, Aderholt call on Beijing to free the 'Zion 8' \u2013 Christians jailed for their faith \u2013 during Xi's state visit",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/senator-britt-pushes-for-doj-oversight-of-flock-cameras-to-stop-bad-actor-misuse-not-restrict-the-technology/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senator Britt pushes for DOJ oversight of Flock cameras to stop 'bad actor' misuse \u2013 not restrict the technology",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/22-million-fema-training-center-opens-in-anniston-strengthening-national-first-responder-training/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "$22 million FEMA training center opens in Anniston, strengthening national first responder training",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/24/concerns-about-misuse-flock-cameras-cross-alabamas-political-aisle/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Concerns about misuse of Flock cameras cross Alabama\u2019s political aisle",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "wtva.com",
+   "url": "https://www.wtva.com/2026/09/24/concerns-about-misuse-flock-cameras-cross-alabamas-political-aisle/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Concerns about misuse of Flock cameras cross Alabama\u2019s political aisle",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/24/concerns-about-misuse-flock-cameras-cross-alabamas-political-aisle/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Concerns about misuse of Flock cameras cross Alabama\u2019s political aisle",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "wgmd.com",
+   "url": "https://www.wgmd.com/senator-coons-joins-bipartisan-effort-to-increase-ai-transparency/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senator Coons Joins Bipartisan Effort to Increase AI Transparency",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "waff.com",
+   "url": "https://www.waff.com/2026/09/24/concerns-about-misuse-flock-cameras-cross-alabamas-political-aisle/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Concerns about misuse of Flock cameras cross Alabama\u2019s political aisle",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "timesdaily.com",
+   "url": "https://www.timesdaily.com/britt-warnock-ask-ag-for-guardrails-on-flock-cameras/article_36953c76-99c8-4423-ae05-aef4262edc69.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Britt, Warnock ask AG for guardrails on Flock cameras",
+   "checked": false
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "rocketcitynow.com",
+   "url": "https://www.rocketcitynow.com/article/news/politics/national-politics/britt-defends-womens-sports-amid-gop-calls-to-end-perceived-threats-to-female-athletes/525-6f1c73b0-7045-47d4-826e-fc2a81dea390",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Britt defends women's sports amid GOP calls to end perceived threats to female athletes",
+   "checked": false
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "decaturdaily.com",
+   "url": "https://www.decaturdaily.com/news/other_news/national/britt-warnock-ask-ag-for-guardrails-on-flock-cameras/article_8d0b6745-4846-4b18-88d5-ea1cabe216eb.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Britt, Warnock ask AG for guardrails on Flock cameras",
+   "checked": false
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "chronline.com",
+   "url": "https://www.chronline.com/stories/us-senate-republicans-spotlight-trans-athletes-issue-as-midterms-approach,408781",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "U.S. Senate Republicans spotlight trans athletes issue as midterms approach - The Daily Chronicle",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "azfamily.com",
+   "url": "https://www.azfamily.com/2026/09/24/pinal-county-sheriff-calls-oversight-flock-cameras-heres-why/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Pinal County sheriff calls for oversight of Flock cameras: Here\u2019s why",
+   "checked": true
+  },
+  {
+   "date": "2026-09-24",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/beckynoble/2026/09/24/the-count-is-in-on-how-many-medals-transgender-athletes-have-stolen-from-women-its-infuriating-n2207339",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Infuriating New Count Shows How Many Medals Trans Athletes Have Stolen From Women",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/report-president-trump-in-talks-to-attend-alabama-vs-lsu-game-in-louisiana-in-november/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "REPORT: President Trump in talks to attend Alabama vs. LSU game in Louisiana in November",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/montgomery-native-kasdin-mitchell-confirmed-as-federal-judge-in-texas/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Montgomery native Kasdin Mitchell confirmed as federal judge in Texas",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wymt.com",
+   "url": "https://www.wymt.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wwnytv.com",
+   "url": "https://www.wwnytv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wvva.com",
+   "url": "https://www.wvva.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/23/alabama-georgia-senators-push-doj-license-plate-reader-safeguards/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama, Georgia senators push DOJ for license plate reader safeguards",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtvm.com",
+   "url": "https://www.wtvm.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtvm.com",
+   "url": "https://www.wtvm.com/2026/09/23/alabama-georgia-senators-push-doj-license-plate-reader-safeguards/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama, Georgia senators push DOJ for license plate reader safeguards",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtva.com",
+   "url": "https://www.wtva.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtva.com",
+   "url": "https://www.wtva.com/2026/09/23/alabama-georgia-senators-push-doj-license-plate-reader-safeguards/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama, Georgia senators push DOJ for license plate reader safeguards",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtok.com",
+   "url": "https://www.wtok.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtoc.com",
+   "url": "https://www.wtoc.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wtoc.com",
+   "url": "https://www.wtoc.com/2026/09/23/flock-competing-surveillance-companies-ceos-absent-senate-hearing-camera-misuse/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Flock, competing surveillance companies\u2019 CEOs absent from Senate hearing on camera misuse",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wthitv.com",
+   "url": "https://www.wthitv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wsmv.com",
+   "url": "https://www.wsmv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/23/alabama-georgia-senators-push-doj-license-plate-reader-safeguards/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama, Georgia senators push DOJ for license plate reader safeguards",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wsbradio.com",
+   "url": "https://www.wsbradio.com/news/local/sen-warnock-asks-justice-department-set-up-national-standards-flock-camera-systems/Y53WWQ4NJZGV5HNFQP2RNHIWTY/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Sen. Warnock asks Justice Department to set up national standards for flock camera systems",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wsaz.com",
+   "url": "https://www.wsaz.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wsaw.com",
+   "url": "https://www.wsaw.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wrdw.com",
+   "url": "https://www.wrdw.com/2026/09/23/warnock-pushes-flock-rules-senators-put-surveillance-under-microscope/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Warnock pushes for Flock rules as senators put surveillance under a microscope",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wrdw.com",
+   "url": "https://www.wrdw.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wowt.com",
+   "url": "https://www.wowt.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wnem.com",
+   "url": "https://www.wnem.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wndu.com",
+   "url": "https://www.wndu.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wmbfnews.com",
+   "url": "https://www.wmbfnews.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wlox.com",
+   "url": "https://www.wlox.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wlfi.com",
+   "url": "https://www.wlfi.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wkyt.com",
+   "url": "https://www.wkyt.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wjhg.com",
+   "url": "https://www.wjhg.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "witn.com",
+   "url": "https://www.witn.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wistv.com",
+   "url": "https://www.wistv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wilx.com",
+   "url": "https://www.wilx.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wibw.com",
+   "url": "https://www.wibw.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "whsv.com",
+   "url": "https://www.whsv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wgem.com",
+   "url": "https://www.wgem.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wfsb.com",
+   "url": "https://www.wfsb.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wflx.com",
+   "url": "https://www.wflx.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "westernmassnews.com",
+   "url": "https://www.westernmassnews.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wect.com",
+   "url": "https://www.wect.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "weau.com",
+   "url": "https://www.weau.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wdtv.com",
+   "url": "https://www.wdtv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wdbj7.com",
+   "url": "https://www.wdbj7.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wdam.com",
+   "url": "https://www.wdam.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wctv.tv",
+   "url": "https://www.wctv.tv/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wcjb.com",
+   "url": "https://www.wcjb.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wcax.com",
+   "url": "https://www.wcax.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wbtv.com",
+   "url": "https://www.wbtv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wbng.com",
+   "url": "https://www.wbng.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wbko.com",
+   "url": "https://www.wbko.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wbbjtv.com",
+   "url": "https://www.wbbjtv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wbay.com",
+   "url": "https://www.wbay.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "walb.com",
+   "url": "https://www.walb.com/2026/09/23/today-us-senate-hearing-follows-anf-investigations-exposing-police-flock-abuse/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "US Senate hearing follows our investigations exposing police Flock abuse",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "walb.com",
+   "url": "https://www.walb.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wagmtv.com",
+   "url": "https://www.wagmtv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "waff.com",
+   "url": "https://www.waff.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wafb.com",
+   "url": "https://www.wafb.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "wabi.tv",
+   "url": "https://www.wabi.tv/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "valleynewslive.com",
+   "url": "https://www.valleynewslive.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "uppermichiganssource.com",
+   "url": "https://www.uppermichiganssource.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "troymessenger.com",
+   "url": "https://www.troymessenger.com/sports/britt-tuberville-introduce-amendment-to-proposed-protect-college-sports-act-d95b992d",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Britt, Tuberville introduce amendment to proposed Protect Co...",
+   "checked": false
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "newschannel10.com",
+   "url": "https://www.newschannel10.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "mysuncoast.com",
+   "url": "https://www.mysuncoast.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "live5news.com",
+   "url": "https://www.live5news.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "ky3.com",
+   "url": "https://www.ky3.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kxii.com",
+   "url": "https://www.kxii.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kwtx.com",
+   "url": "https://www.kwtx.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kwqc.com",
+   "url": "https://www.kwqc.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kwch.com",
+   "url": "https://www.kwch.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kttc.com",
+   "url": "https://www.kttc.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "ktre.com",
+   "url": "https://www.ktre.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "ktiv.com",
+   "url": "https://www.ktiv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kswo.com",
+   "url": "https://www.kswo.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "ksla.com",
+   "url": "https://www.ksla.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kptv.com",
+   "url": "https://www.kptv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kplctv.com",
+   "url": "https://www.kplctv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kotatv.com",
+   "url": "https://www.kotatv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kolotv.com",
+   "url": "https://www.kolotv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "knopnews2.com",
+   "url": "https://www.knopnews2.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "knoe.com",
+   "url": "https://www.knoe.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kmvt.com",
+   "url": "https://www.kmvt.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kltv.com",
+   "url": "https://www.kltv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kktv.com",
+   "url": "https://www.kktv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kjct8.com",
+   "url": "https://www.kjct8.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kgns.tv",
+   "url": "https://www.kgns.tv/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kfyrtv.com",
+   "url": "https://www.kfyrtv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kfvs12.com",
+   "url": "https://www.kfvs12.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kctv5.com",
+   "url": "https://www.kctv5.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kcrg.com",
+   "url": "https://www.kcrg.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kcbd.com",
+   "url": "https://www.kcbd.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kbtx.com",
+   "url": "https://www.kbtx.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kalb.com",
+   "url": "https://www.kalb.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "kait8.com",
+   "url": "https://www.kait8.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "hawaiinewsnow.com",
+   "url": "https://www.hawaiinewsnow.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "griffindailynews.com",
+   "url": "https://www.griffindailynews.com/news/state/warnock-urges-greater-federal-oversight-of-automatic-license-plate-readers/article_d49e633f-b72e-5ef7-81d2-700d6b4f299a.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Warnock urges greater federal oversight of automatic license plate readers",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "griffindailynews.com",
+   "url": "https://www.griffindailynews.com/news/state/warnock-britt-question-funding-for-automated-license-plate-readers/article_d1306ece-32af-5b67-9c0b-193ad8b4efa6.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Warnock, Britt question funding for automated license plate readers",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "foxcarolina.com",
+   "url": "https://www.foxcarolina.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "foxcarolina.com",
+   "url": "https://www.foxcarolina.com/2026/09/23/live-soon-us-senate-hearing-follows-investigations-exposing-police-flock-abuse/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "US Senate hearing follows investigations exposing police Flock abuse",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fox8live.com",
+   "url": "https://www.fox8live.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fox5vegas.com",
+   "url": "https://www.fox5vegas.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fox34.com",
+   "url": "https://www.fox34.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fox19.com",
+   "url": "https://www.fox19.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/09/23/bishop-state-community-college-gets-nearly-22-million-new-federal-funding/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Bishop State Community College gets nearly $2.2 million in new federal funding",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "fox10tv.com",
+   "url": "https://www.fox10tv.com/2026/09/23/alabama-georgia-senators-push-doj-license-plate-reader-safeguards/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama, Georgia senators push DOJ for license plate reader safeguards",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "douglascountysentinel.com",
+   "url": "https://www.douglascountysentinel.com/news/state/warnock-britt-question-funding-for-automated-license-plate-readers/article_4489f93e-464b-554c-8c9f-c88d6b9f32f5.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Warnock, Britt question funding for automated license plate readers",
+   "checked": false
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "cleveland19.com",
+   "url": "https://www.cleveland19.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "cbsnews.com",
+   "url": "https://www.cbsnews.com/atlanta/news/warnock-calls-for-federal-guardrails-on-flock-cameras-bring-some-some-sanity-to-this-system/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Warnock calls for federal guardrails on Flock cameras:",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "14news.com",
+   "url": "https://www.14news.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "13abc.com",
+   "url": "https://www.13abc.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "1011now.com",
+   "url": "https://www.1011now.com/2026/09/23/senators-question-use-flock-cameras-data-access-subcommittee-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senators question use of Flock cameras and data access at subcommittee hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "rollcall.com",
+   "url": "https://rollcall.com/2026/09/23/flock-cameras-draw-bipartisan-concerns-at-senate-hearing/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Flock cameras draw bipartisan concerns at Senate hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-23",
+   "domain": "redstate.com",
+   "url": "https://redstate.com/bobhoge/2026/09/23/democrats-show-once-again-how-little-they-care-about-actual-women-ghost-sports-safety-hearing-n2207300",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Democrats Show Once Again How Little They Care About Actual Women, Ghost Sports Safety Hearing",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/team-alabama-takes-business-recruitment-pitch-to-capitol-hill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "\u2018Team Alabama\u2019 takes business recruitment pitch to Capitol Hill",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/alabama-has-more-people-in-republican-senate-offices-than-the-entire-ivy-league-and-auburn-adds-even-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Alabama has more people in Republican Senate offices than the entire Ivy League \u2013 and Auburn adds even more",
+   "checked": true
+  },
+  {
+   "date": "2026-09-22",
+   "domain": "foxnews.com",
+   "url": "https://www.foxnews.com/politics/reporters-notebook-congress-struggles-find-message-resonates-voters-ahead-midterms",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Reporter's Notebook: Congress struggles to find a message that resonates with voters ahead of midterms",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/katie-britt-joins-trump-in-oval-office-as-lindsey-graham-sanctions-bill-is-signed-into-law/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt joins Trump in Oval Office as Lindsey Graham sanctions bill is signed into law",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/democratic-socialists-of-america-make-endorsement-in-alabama-house-district-28-race/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Democratic Socialists of America make endorsement in Alabama House District 28 race",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "townhall.com",
+   "url": "https://townhall.com/news/amy-curtis/2026/09/21/abdul-el-sayed-breast-cancer-n2683327",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Abdul El-Sayed's Sexist Comments Toward Breast Cancer Patients and Survivors Draw Severe Backlash",
+   "checked": true
+  },
+  {
+   "date": "2026-09-21",
+   "domain": "theintercept.com",
+   "url": "https://theintercept.com/2026/09/21/john-fetterman-fundraising-republican-gop/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "John Fetterman Is Fundraising on GOP Donor Email Lists",
+   "checked": true
+  },
+  {
+   "date": "2026-09-20",
+   "domain": "wvtm13.com",
+   "url": "https://www.wvtm13.com/article/south-alabama-receives-25-billion-federal-loan-for-mobile-river-bridge-and-bayway-project/73809779",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "New federal loan backs Mobile River Bridge project",
+   "checked": true
+  },
+  {
+   "date": "2026-09-19",
+   "domain": "decaturdaily.com",
+   "url": "https://www.decaturdaily.com/opinion/editorials/editorial-britt-says-tariffs-working-just-not-for-alabama/article_02877417-6e44-4be0-bfea-c92d99c16543.html",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "EDITORIAL: Britt says tariffs working, just not for Alabama",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/mobile-river-bridge-secures-historic-2-52-billion-loan-from-trump-administration-alabamas-largest-infrastructure-project-moves-forward/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Mobile River Bridge secures historic $2.52 billion loan from Trump administration, Alabama\u2019s largest infrastructure project moves forward",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "wtvy.com",
+   "url": "https://www.wtvy.com/2026/09/18/how-alabamas-congressional-delegation-voted-russia-sanctions-bill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "How Alabama\u2019s congressional delegation voted on Russia sanctions bill",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "wsfa.com",
+   "url": "https://www.wsfa.com/2026/09/18/how-alabamas-congressional-delegation-voted-russia-sanctions-bill/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "How Alabama\u2019s congressional delegation voted on Russia sanctions bill",
+   "checked": true
+  },
+  {
+   "date": "2026-09-18",
+   "domain": "ms.now",
+   "url": "https://www.ms.now/rachel-maddow-show/maddowblog/britt-trump-trade-tariffs-exemptions-alabama-hypocrisy-republicans",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Many Republicans love Trump\u2019s tariffs, except when it comes to their own constituents",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/senator-katie-britt-addresses-standing-room-only-crowd-at-alabama-business-coalition-meeting-in-washington/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Senator Katie Britt addresses standing-room-only crowd at Alabama Business Coalition meeting in Washington",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/fbi-director-kash-patel-tells-britt-drones-could-easily-target-college-football-games-wants-to-triple-the-fbis-counter-drone-school-in-alabama/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "FBI Director Kash Patel tells Britt drones could 'easily target' college football games \u2013 wants to triple the FBI's counter-drone school in Alabama",
+   "checked": true
+  },
+  {
+   "date": "2026-09-17",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-4-a-gallon-gas-record-income-poverty-numbers-britt-says-america-must-win-the-ai-race-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: $4 a gallon gas, record income/poverty numbers, Britt says America must win the AI race, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/katie-britt-there-is-no-doubt-that-we-must-win-the-ai-race/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt: America must win the AI race, but safety can't be an afterthought",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/katie-britt-praises-the-trump-administration-for-stopping-criminals-during-operation-southern-star/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt praises the Trump administration for stopping criminals during Operation Southern Star",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/backbone-of-our-nations-supply-chain-alabama-officials-celebrate-national-truck-driver-appreciation-week/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "'Backbone of our nation\u2019s supply chain': Alabama officials celebrate National Truck Driver Appreciation Week",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/7-things-analyst-al-02-flips-to-leans-gop-britt-backs-law-enforcement-sneed-calls-trump-dividend-a-bribe-and-more/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "7 Things: Analyst AL-02 flips to 'Leans GOP,' Britt backs law enforcement, Sneed calls Trump dividend a bribe, and more...",
+   "checked": true
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "troymessenger.com",
+   "url": "https://www.troymessenger.com/news/katie-britt-asked-for-tariff-exemptions-for-alabama-companies-c0d9b0fd",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt asked for tariff exemptions for Alabama companie...",
+   "checked": false
+  },
+  {
+   "date": "2026-09-16",
+   "domain": "ctmirror.org",
+   "url": "https://ctmirror.org/2026/09/16/what-i-learned-building-a-voter-guide-at-17/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Opinion: What I learned building a voter guide at 17",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/viral-world-cup-fan-freddy-is-back-in-america-headed-to-auburn-vs-florida-this-weekend/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Viral World Cup fan 'Freddy' is back in America, headed to Auburn vs. Florida this weekend",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/dale-strong-leads-united-alabama-delegation-push-to-bring-u-s-space-academy-to-north-alabama/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Dale Strong leads united Alabama delegation push to bring U.S. Space Academy to North Alabama",
+   "checked": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "washingtonexaminer.com",
+   "url": "https://www.washingtonexaminer.com/news/senate/4728053/fetterman-fox-news-retreat-murdoch-ranch-montana/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Fetterman attended Fox News retreat at Rupert Murdoch's Montana ranch",
+   "checked": true,
+   "partial": true
+  },
+  {
+   "date": "2026-09-15",
+   "domain": "rawstory.com",
+   "url": "https://www.rawstory.com/john-fetterman-2677863989/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Outrage after John Fetterman fesses up to Murdoch-backed trip:",
+   "checked": true
+  },
+  {
+   "date": "2026-09-13",
+   "domain": "yellowhammernews.com",
+   "url": "https://yellowhammernews.com/katie-britt-named-american-flood-coalition-federal-champion-for-flood-resilience-work/",
+   "via": [
+    "mediacloud"
+   ],
+   "title": "Katie Britt named American Flood Coalition \u2018Federal Champion\u2019 for flood resilience work",
+   "checked": true
+  }
+ ]
+}

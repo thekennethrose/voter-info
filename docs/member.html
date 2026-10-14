@@ -70,7 +70,63 @@
   .key span { display: inline-flex; gap: 0.4rem; align-items: center; }
   .key .bar { width: 4rem; display: inline-block; margin: 0; }
 
+
+  .views { display: flex; gap: 1.5rem; border-bottom: 1px solid var(--rule); margin: -0.5rem 0 1.75rem; }
+  .views[hidden] { display: none; }
+  .views button {
+    font: inherit; font-weight: 600; background: none; color: var(--muted); border: 0;
+    border-bottom: 3px solid transparent; padding: 0.5rem 0; margin-bottom: -1px; cursor: pointer;
+  }
+  .views button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+  label.check { display: inline-flex; gap: 0.4rem; align-items: center; font-size: 0.9rem; }
+  label.check[hidden] { display: none; }
+
+  .item.speech:not(details) { display: grid; grid-template-columns: 7.5rem 1fr; gap: 0 1rem; padding: 1rem 0; border-top: 1px solid var(--rule); }
+  .speech .label { font-weight: 600; }
+  .speech .doc { font-weight: 600; font-size: 0.95rem; }
+  .speech .meta a { color: var(--muted); }
+  details.speech .meta .toggle::before { content: "Compare"; }
+  details.speech[open] .meta .toggle::before { content: "Hide comparison"; }
+  .compare { display: grid; grid-template-columns: 3fr 2fr; gap: 2rem; margin: 0 0 1.5rem 8.5rem; font-size: 0.925rem; }
+  .compare h3 { font-size: 0.9rem; margin: 0 0 0.75rem; }
+  .compare .official p { margin: 0 0 0.75rem; max-width: 62ch; }
+  .compare .official .gap { color: var(--muted); }
+  mark { background: var(--nay-fill); color: inherit; padding: 0 0.1em; }
+  .compare .outlets ol { list-style: none; margin: 0; padding: 0; }
+  .compare .outlets li { padding: 0.75rem 0; border-top: 1px dashed var(--rule); }
+  .compare .outlets a, .compare .outlets time { display: block; }
+  .compare time { color: var(--muted); font-size: 0.85rem; }
+  .compare blockquote { margin: 0.5rem 0 0; padding-left: 0.75rem; border-left: 3px solid var(--nay-fill); }
+
+  .summary { margin: 0 0 1rem; }
+  .strip { margin: 0 0 1.5rem; }
+  .strip figcaption { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .strip .plot { position: relative; height: 56px; border-bottom: 1px solid var(--ink); margin: 0 2px; }
+  .strip .mid { position: absolute; left: 50%; bottom: 0; top: 0; border-left: 1px dashed var(--rule); }
+  .strip .col { position: absolute; bottom: 0; width: calc(100% / 41 - 2px); background: var(--ink); border-radius: 2px 2px 0 0; }
+  details.also { font-size: 0.85rem; color: var(--muted); margin-top: 0.25rem; }
+  details.also summary { cursor: pointer; }
+  details.also ul { list-style: none; margin: 0.4rem 0 0; padding: 0; columns: 2 14rem; }
+  details.also li { display: flex; gap: 0.5rem; align-items: center; break-inside: avoid; padding: 0.1rem 0; }
+  .strip .ends { display: flex; justify-content: space-between; font-size: 0.8rem; color: var(--muted); margin-top: 0.3rem; }
+
+  ol.articles { list-style: none; margin: 0; padding: 0; }
+  ol.articles li { display: grid; grid-template-columns: 7.5rem 1fr; gap: 0.15rem 1rem; padding: 0.9rem 0; border-top: 1px solid var(--rule); }
+  ol.articles time { color: var(--muted); font-size: 0.875rem; grid-row: span 4; }
+  .outlet { font-size: 0.85rem; color: var(--muted); display: flex; gap: 0.6rem; align-items: center; }
+  .headline { font-weight: 600; }
+  ol.articles .note { color: var(--muted); font-size: 0.85rem; }
+  .aud { position: relative; display: inline-block; width: 3rem; height: 0.7rem; flex: none; }
+  .aud::before { content: ""; position: absolute; left: 0; right: 0; top: 50%; border-top: 1px solid var(--muted); }
+  .aud::after { content: ""; position: absolute; left: 50%; top: 15%; bottom: 15%; border-left: 1px solid var(--muted); }
+  .aud i { position: absolute; top: 50%; width: 8px; height: 8px; margin: -4px 0 0 -4px; border-radius: 50%; background: var(--ink); }
+  .aud.none { width: auto; height: auto; font-size: 0.75rem; }
+  .aud.none::before, .aud.none::after { display: none; }
+
   @media (max-width: 40rem) {
+    .compare { grid-template-columns: 1fr; margin-left: 0; }
+    .item.speech:not(details), ol.articles li { grid-template-columns: 1fr; }
+    ol.articles time { grid-row: auto; }
     details.item > summary { grid-template-columns: 1fr; }
     .meta { grid-column: 1; }
     ol.votes { margin-left: 0; }
@@ -89,6 +145,12 @@
   <h1 id="title">Congressional voting record</h1>
   <p class="lede" id="lede"></p>
 
+  <div class="views" role="group" aria-label="Which record to show" hidden>
+    <button type="button" data-view="votes" aria-pressed="true">Voting record</button>
+    <button type="button" data-view="words" aria-pressed="false">In their words</button>
+  </div>
+
+  <div id="votes-view">
   <div class="controls">
     <div class="tabs" role="group" aria-label="Which votes to show" hidden>
       <button type="button" data-tab="bills" aria-pressed="true">Bills</button>
@@ -99,8 +161,22 @@
   </div>
 
   <section id="list" aria-live="polite"></section>
+  </div>
 
-  <footer>
+  <div id="words-view" hidden>
+    <div class="controls">
+      <div class="tabs" role="group" aria-label="Which statements to show">
+        <button type="button" data-wtab="floor" aria-pressed="true">On the floor</button>
+        <button type="button" data-wtab="media" aria-pressed="false">In the media</button>
+      </div>
+      <select id="kind" aria-label="Filter by kind of statement"></select>
+      <label class="check" hidden><input type="checkbox" id="quoting"> Only articles with the Record's wording</label>
+      <input type="search" id="wq" placeholder="Search titles and headlines" aria-label="Search titles and headlines">
+    </div>
+    <section id="words-list" aria-live="polite"></section>
+  </div>
+
+  <footer id="votes-about">
     <h2>About this record</h2>
     <div class="key" aria-hidden="true">
       <span><i class="mark yea"></i>Yea, Aye or Guilty</span>
@@ -113,6 +189,14 @@
     <p>Terms like cloture, motion to proceed and suspension of the rules are explained in the <a href="glossary.html">glossary</a>; <a href="how-it-works.html">How voting works</a> covers the process.</p>
     <p id="stamp"></p>
   </footer>
+  <footer id="words-about" hidden>
+    <h2>About these statements and articles</h2>
+    <p><strong>On the floor</strong> lists what this member said or submitted in the <a href="glossary.html#congressional-record">Congressional Record</a>, the official transcript of each chamber, published by the Government Publishing Office on GovInfo. The Record itself says who spoke. Senate statements the Record marks with a bullet as not spoken on the floor, and all <a href="glossary.html#extension-of-remarks">Extensions of Remarks</a>, are labeled as submitted. In the House section, the printed Record sets words inserted rather than spoken in a different typeface; the text version doesn't carry that, so House items are labeled as proceedings, not as speeches. Remarks under 50 words (mostly procedural requests) and purely procedural sections are left out.</p>
+    <p><strong>In the media</strong> lists every article, in two independent news indexes, that names this member with their title or state, collected since the date shown above: <a href="https://www.gdeltproject.org/">GDELT</a> (U.S. sources) and <a href="https://www.mediacloud.org/">Media Cloud</a> (its U.S. national and U.S. state and local collections). The indexes decide which outlets they cover; we don't choose outlets and don't rank articles. Headlines are each outlet's own. Listing an article is not an endorsement of it.</p>
+    <p><strong>Same wording as the Record</strong> means the article contains at least 12 words in a row that match this member's words in the Record exactly (ignoring punctuation and capitalization). Usually that's a reporter quoting the member; it can also be wording the member's office used in both a statement and a press release. Phrases many members use, like standard procedural wording, don't count, and neither do runs that are mostly capitalized words, which are names such as a bill's title. We check only the text a reader can see: many sites send the whole article but hide part of it from non-subscribers, and wording found only in a hidden part doesn't count, since you couldn't confirm it by following the link. Articles we couldn't open weren't checked. A headline published by several sites, as wire stories are, is listed once with the other sites under it.</p>
+    <p><strong>Outlet ratings</strong> will show how outside groups rate each outlet, attributed to them and never assigned by us, once we have permission to publish their ratings. None are shown yet.</p>
+    <p id="words-stamp"></p>
+  </footer>
   <section class="tip" aria-labelledby="tip-heading">
     <h2 id="tip-heading">Tip jar</h2>
     <p>Was the information on this site valuable to you? Please consider a donation!</p>
@@ -121,11 +205,13 @@
 </main>
 
 <script src="states.js"></script>
+<script src="words.js"></script>
 <script>
 const params = new URLSearchParams(location.search);
 const id = params.get("id") || "";
 let tab = params.get("tab") === "nominations" ? "nominations" : "bills";
 let area = params.get("issue") || "";
+let view = params.get("view") === "words" ? "words" : "votes";
 let query = "";
 let member;
 const groups = { bills: [], nominations: [] };
@@ -234,9 +320,40 @@ document.getElementById("list").addEventListener("toggle", (e) => {
 
 function syncUrl() {
   const p = new URLSearchParams({ id });
-  if (tab !== "bills") p.set("tab", tab);
+  if (view === "words") {
+    p.set("view", "words");
+    if (wordsTab !== "floor") p.set("show", wordsTab);
+  } else if (tab !== "bills") p.set("tab", tab);
   else if (area) p.set("issue", area);
   history.replaceState(null, "", `?${p}`);
+}
+
+function showView() {
+  const name = `${member.first} ${member.last}`.trim();
+  document.querySelectorAll(".views button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.view === view));
+  for (const [el, v] of [["votes-view", "votes"], ["votes-about", "votes"], ["words-view", "words"], ["words-about", "words"]])
+    document.getElementById(el).hidden = view !== v;
+  document.getElementById("title").textContent = view === "words"
+    ? `${office(member)} ${name}, in their words` : `How ${office(member)} ${name} voted`;
+  document.title = `${name}: ${view === "words" ? "in their words" : "voting record"}`;
+  const lede = document.getElementById("lede");
+  lede.dataset.votes ??= lede.textContent;
+  lede.textContent = view === "words" ? wordsLede : lede.dataset.votes;
+}
+
+// The "In their words" pilot covers a few members; the switch appears only for them.
+function setupViews() {
+  Promise.all([load(`data/words/${encodeURIComponent(id)}.json`), load("data/words/outlets.json")])
+    .then(([data, ratings]) => {
+      if (params.get("show") === "media") wordsTab = "media";
+      setupWords(data, ratings);
+      document.querySelector(".views").hidden = false;
+      document.querySelectorAll(".views button").forEach((b) => b.addEventListener("click", () => {
+        view = b.dataset.view; syncUrl(); showView();
+      }));
+      showView();
+    })
+    .catch(() => { view = "votes"; showView(); });
 }
 
 function setup(casts, files, dir) {
@@ -302,6 +419,7 @@ function setup(casts, files, dir) {
   });
   document.getElementById("q").addEventListener("input", (e) => { query = e.target.value.trim().toLowerCase(); render(); });
   render();
+  setupViews();
 }
 
 const load = (path) => fetch(path).then((r) => { if (!r.ok) throw new Error(path); return r.json(); });
